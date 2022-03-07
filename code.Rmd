@@ -1,0 +1,1576 @@
+---
+title: "Annotated Draft of Code of Regulations"
+runningheader: "Annotated Draft of Code of Regulations" # only for pdf output
+subtitle: "Amberson Towers Condominium Association" # only for html output
+author: "Governance Committee"
+date: "`r Sys.Date()`"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout:
+    citation_package: natbib
+    latex_engine: xelatex
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: xelatex
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+### This document contains a copy of *Code of Regulations Update Draft 1.pdf" posted by Gil Citro to *basecamp* on 6 March 2022. In the right margin I annotated the draft copy with the *Notes* Gil entered on basecamp along with the draft code.
+
+### David Passmore
+
+------------------------------------------------------------------------
+
+# AMBERSON TOWERS CODE OF REGULATIONS
+
+## ARTICLE I: Applicable Statute
+
+This Code of Regulations is adopted pursuant to the Unit Property Act of
+the Commonwealth of Pennsylvania, (Act of July 3, 1963, P.L. 196, 68P.S.
+Sec. 700.301)
+
+## ARTICLE II: Identity of Property
+
+The property to which this Code shall apply is described in the
+Declaration recorded in the Recorder's Office of Allegheny County,
+Pennsylvania, in Deed Book Volume 5909 , Page 507 , and in the
+Declaration Plan recorded in said office in Plan Book Volume 103, Pages
+167 to 193 on February 15, 1978.
+
+## ARTICLE III: Name and Address
+
+### Section 1
+
+The condominium shall be known by the name of AMBERSON TOWERS.
+
+### Section 2
+
+The registered office of Amberson Towers shall be 5 Bayard Road,
+Pittsburgh, Pennsylvania 15213.
+
+## ARTICLE IV: Meetings and Voting Rights of Unit Owner
+
+### Section 1
+
+All meetings of Unit Owners shall be held at the principal office of
+Amberson Towers or at such other place within the County of Allegheny,
+Pennsylvania, as the Council shall determine from time to time, or by
+electronic means.
+
+### Section 2
+
+(a) Annual Meeting. The annual meeting of the Unit Owners shall be held
+    in the month of May in each year on a date and time as shall be
+    decided by the Council. At such meeting, the Unit Owners shall elect
+    the Council and transact such other business as may come before the
+    meeting.
+
+(b) Budget Meeting. A meeting of Unit Owners to approve the annual
+    budget shall be held in the month of November December on a date and
+    time as shall be decided by the Council.
+
+### Section 3
+
+Special meetings of the Unit Owners may be called at any time after the
+annual meeting of the Unit Owners in 1979, for any purpose or purposes
+by the President, or by a majority of the Council or by not less than
+ten twenty percent (10% 20%) of all of the then Unit Owners entitled to
+vote at the meeting called. At any time upon written request of any
+person or persons entitled to call a special meeting, it shall be the
+duty of the Secretary to call the meeting of the Unit Owners entitled to
+vote therat, but no less than ten (10) nor more than fifteen (15) days
+after the receipt of the request. If the Secretary shall neglect or
+refuse to issue such call, the person or persons making the request may
+do so. All requests for special meetings shall be in writing and shall
+specify the purpose or purposes thereof. The business to be transacted
+at all special meetings shall be limited to the purpose or purposes set
+forth in the notice thereof and matters germane thereto.
+
+### Section 4
+
+Written notice of each meeting of the Unit Owners shall be given by or
+at the direction of the Secretary or other person authorized to call the
+meeting, by mailing a copy of such notice, postage prepaid, at least ten
+(10) days before such meeting to each Unit Owner entitled to vote
+thereat, addressed to the Unit Owner's address last appearing on the
+books of the Council or supplied by such Unit Owner to the Council for
+the purpose of notice. Such notice shall specify the place, day and hour
+of the meeting, and, in the case of a special meeting, the purpose of
+meeting. Such notice shall be accompanied by a ballot through which each
+Unit Owner may vote on all questions to be decided by the meeting,
+whether or not they attend the meeting. If the said Unit Owner is a
+resident of Amberson Towers, it is sufficient compliance with this
+section to place the said notice and ballot in their mail box or deliver
+it to their Unit. If the said Unit Owner has consented to receive
+notification via electronic means, it is sufficient compliance with this
+section to deliver the notice via such means, and to deliver a ballot
+electronically immediately upon conclusion of the meeting.
+
+### Section 5
+
+The president, or in his absence, the Vice-President, shall preside at
+all such meetings.
+
+### Section 6
+
+(a) Prior to the annual meeting and budget meeting, questions to be
+    decided by the meeting shall be placed on the agenda pursuant to a
+    vote of a majority of Council or petition by at least six (6) Unit
+    Owners holding ownership shares in at least six (6) different units.
+    Petitions from owners must be submitted in writing to the Secretary
+    no later than April 1 for consideration at the annual meeting or
+    October 1 for consideration at the budget meeting. Upon receipt,
+    petitions shall be distributed to the owners for comment and
+    discussion. Council may recommend, but not require, that owners
+    amend their petitions for clarity and/or consistency. Amended
+    petitions must be submitted prior to the announcement of the
+    meeting, for inclusion on the ballot.
+
+At every meeting of the Unit Owners, each Each Unit Owner present , in
+person or by proxy, and entitled to vote thereat, shall have the right
+to cast the number of shares set forth opposite his Unit number in the
+Declaration Schedule A. Voting shall take place subsequent to the
+meeting, via paper and/or electronic ballot, and shall remain open for
+14 days. Approval of any questions brought before such meeting shall
+require an affirmative vote of both a majority of shares voting and of
+25% of total shares, The vote of fifty-one (51) percent a majority of of
+the number of votes represented and entitled to vote at such meeting
+shares voted shall decide any question brought before such meeting,
+unless the question is one upon which, by express provision or statute
+or of the Declaration or of this Code of Regulations, a different vote
+is required, in which case, such express provisions shall govern and
+control.
+
+(b) If the owner of a unit is a corporation, limited liability company,
+    partnership, trust, unincorporated association or other legal
+    entity, the natural person who shall be entitled to cast the vote
+    for such unit shall be the person named in a certificate executed by
+    such entity pursuant to its governing documents. If the owner of a
+    unit is a trust, the trustee or trustees shall be deemed to be the
+    owner for the voting purposes. Where the ownership of a unit is in
+    more than one person, the natural person who shall be entitled to
+    cast the vote of such unit shall be the person named in a
+    certificate executed by all of the owners of such unit and filed
+    with the secretary. Such certificate may also be executed by any of
+    the unit owners individually, if accompanied by an attestation that
+    all the unit owners are in agreement, and shall be assumed to be
+    valid if none of the other unit owners protest. Such certificate may
+    be filed electronically, if digitally signed. or, in the absence of
+    such named person from the meeting or the failure to execute and
+    file such a certificate, the person who shall be entitled to cast
+    the vote of such unit shall be the person owning such unit who is
+    present. If more than one of the multiple owners are present, the
+    votes allocated to that unit may be cast only in accordance with
+    their unanimous agreement. There shall be deemed to be unanimous
+    agreement if any one of the multiple owners casts the votes
+    allocated to that unit without protest being made promptly to the
+    person presiding over the meeting by any of the other owners of the
+    unit. Such certificate shall be valid until revoked by a subsequent
+    certificate similarly executed. Subject to the provisions of the
+    Declaration and Code of Regulations, wherever the approval or
+    disapproval of a Unit Owner is required, such approval or
+    disapproval shall be made only by the person who would be entitled
+    to cast the vote of such unit at any meeting of the Association.
+
+### Section 7
+
+(a) Votes allocated to a unit may be cast pursuant to a proxy duly
+    executed by a Unit Owner. Votes allocated to a unit may be cast only
+    by a natural person entitled to do so pursuant to Article IV,
+    Section 6, and may not be cast via proxy, unless recognition of
+    proxies is required by law, in which case they will be utilized to
+    the most limited extent required by law. If a unit is owned by more
+    than one person, each owner of the unit may vote or register protest
+    to the casting of votes by the other owners of the unit through a
+    duly executed proxy. All proxies shall be in writing and shall be
+    filed with the Secretary and by him entered of record in the minutes
+    of the meeting. Exercise of any proxy not entered into the minutes
+    of the meeting shall be null and void, and any decision relying upon
+    or influenced by such exercise shall also be null and void. A Unit
+    Owner may appoint only another Unit Owner, who is a natural person,
+    as his, her or its proxy. If the owner of a unit is a corporation,
+    limited liability company, partnership, trust, unincorporated
+    association or other legal entity, the proxy may be issued to a
+    natural person who is a fiduciary, an officer or who has an
+    ownership interest in the legal entity. No Unit Owners of any one
+    unit may hold proxies issued by the owners of more than one other
+    unit. If the proxy is issued by a Unit Owner who is a legal entity,
+    the proxy shall be executed by a person duly authorized, accompanied
+    by a notarized Acknowledgment that he/she is authorized to issue a
+    proxy to the person named therein.
+
+(b) All proxies are revocable at will, upon notice to the secretary,
+    prior to distribution of ballots. However, a Unit Owner may not
+    revoke a proxy given pursuant to this section except by actual
+    notice of revocation to the person presiding over a meeting of the
+    association. A proxy is void if it is not dated or purports to be
+    revocable without notice. A proxy terminates one year after its date
+    unless it specifies a shorter term. Proxies are not transferable and
+    automatically terminate upon the death of, or the sale, transfer or
+    conveyance of the Unit, by the maker of the proxy to another person.
+
+### Section 8
+
+Either before or after any meeting, a Unit Owner may, in writing, waive
+notice of such meeting. Such waiver of notice in writing, signed by the
+peron or persons entitled to such notice, whether before or after the
+time stated therein, shall be deemed equivalent to the giving of such
+notice. Except in the case of a special meeting, neither the business to
+be transacted at, nor the purpose of, the meeting need be specified in
+the waiver of notice of such meeting.
+
+### Section 9
+
+Attendance of a Unit Owner, either in person or by proxy, at any
+meeting, or participation in voting subsequent to the meeting, shall
+constitute a waiver of notice of such meeting, except where a Unit Owner
+attend a meeting for the express purpose of objecting to the transaction
+of any business because the meeting was not lawfully called or convened.
+
+### Section 10
+
+The number of Unit Owners having a majority 25% of voting rights
+entitled to vote at any meeting , present or by proxy, shall constitute
+a quorum for the transaction of business. If, however, such majority
+shall not be present or represented at any meeting, the Unit Owners
+entitled to vote thereat, present or by proxy, shall have power to
+adjourn the meeting from time to time, without notice other than
+announcement of such meeting, until 20% of the votes in the Association
+shall be present or represented by proxy at the beginning of the
+adjourned meeting, any business may be transacted at the meeting as
+originally called.
+
+### Section 11
+
+The meetings of owners shall be conducted in accordance with Robert's
+Rules of Order (latest edition). The purpose of the annual meeting is to
+receive reports of officers and committees, to elect members of Council,
+and conduct the transaction of any other business as may be brought
+before the meeting. The President of the Council/Association or, in his
+absence, the Vice President, shall act as chairperson and presiding
+officer at the annual meeting. The order of business at all annual
+meetings of the Unit Owners shall, unless otherwise determined by the
+presiding officer or action of the Unit Owners present or represented,
+be as follows:
+
+(a) Roll call;\
+(b) Proof of notice of meeting or waiver of notice;\
+(c) Reading of minutes of preceding meeting;\
+
+```{=html}
+<!-- -->
+```
+(cd) Report of officers;\
+     (de) Reports of committees;\
+
+```{=html}
+<!-- -->
+```
+(e) Report of property manager;\
+(f) Appointment of inspectors of election by the president or chair
+    person;\
+    (fg) Questions for candidates for Council (at the annual meeting)
+    Election of council;\
+(g) Questions concerning the budget proposal (at the budget meeting)\
+(h) Other items of business placed on the agenda.Unfinished business;\
+(i) New business
+
+## ARTICLE V: Council
+
+### Section 1
+
+The Amberson Towers Condominium Association consists of all Unit Owners
+of Amberson Towers. The business and affairs of the Amberson Towers
+Condominium Association (a nonprofit corporation) shall be managed,
+administered and governed by a Council composed of Five (5) natural
+persons, who shall be Unit Owners residing in Amberson Towers and who
+shall have at least one year of residency in Amberson Towers. Any
+council member who ceases to be a resident shall thereby become
+ineligible for council membership; the resulting vacancy shall be filled
+by the procedures described in Article V, Section 4. , have an ownership
+interest in or are the trustees, partners, members, or officers of a
+Unit owned by a partnership, trust, corporation, limited liability
+company or other legal entity and who or which shall have been owners of
+a Unit and residents of Amberson Towers for at least one year prior to
+their election to the Council. There may only be one (1) Council member
+from any one (1) Unit at any time. No Unit Owner shall be eligible for
+election to more than two full, consecutive terms as a member of
+Council. The officers of the Council shall also serve as the officers of
+the Amberson Towers Condominium Association. Any council member who
+fails to attend and participate in three consecutive meetings of Council
+either in person, or by electronic means if such means is authorized by
+Council, without a medical excuse or other good cause, may, after notice
+and opportunity to be heard, be removed by the unanimous vote of all
+other Council members in attendance at the meeting; the resulting
+vacancy shall be filled by the procedures described in Article V,
+Section 4. Electronic means is defined as attendance via telephone,
+video or audio conferencing, or other electronic device.
+
+### Section 2
+
+Each Council member named in the Declaration shall hold office until the
+annual meeting of the Unit Owners in the year 1979 or until his
+successor shall have been elected and qualified, which shall first
+occur.
+
+### Section 3
+
+At the annual meeting of the Unit Owners in the year 1979, the term of
+Office of Two (2) Council members elected shall be for three (3) years;
+and the term of office of Two (2) Council members shall be for Two (2)
+years; and the term of office of One (1) Council member elected shall be
+for One (1) year. The Council members receiving the largest number of
+votes shall serve the longest terms. At the expiration of the term of
+office of each respective Council member, his successor shall be elected
+to serve a term of Three (3) years. The Council member shall hold office
+until their successors have been elected and qualified.
+
+In all elections of Council members, each Unit Owner shall rank the
+candidates in order of preference. Votes shall be tabulated by the
+method of single transferable vote, as described in Appendix A. have the
+right, in person or by proxy, to multiply the number of votes to which
+he may be entitled by the number of directors to be elected and he may
+cast the whole number of said votes for one candidate or he may
+distribute them among any two or more candidates.
+
+### Section 4
+
+Vacancies in the Council shall be filled by a unanimous vote majority of
+the remaining Council members and each person so elected shall be a
+Council member until his successor is elected by the Unit Owners, who
+may shall make such election at the next annual regular meeting of the
+Unit Owners or at any special meeting duly called for that purpose.
+
+### Section 5
+
+Any one or more of the Council members may be removed with or without
+cause by vote of two-thirds of the Unit Owners, following any duly held
+regular meeting or special meeting called for such a purpose. Such a
+motion must be made in advance of the meeting, for inclusion on the
+meeting ballot, pursuant to the provisions of ARTICLE IV, Section 6.
+Approval of a motion to remove a Council member shall require approval
+of 2/3 of shares voted and 1/3 of total shares. A vacancy thus created
+shall be filled according to the provisions of ARTICLE V, Section 4.
+entitled to vote at any duly held regular or special meeting of the Unit
+Owners, and a successor may be elected to fill the vacancy thus created.
+
+### Section 6
+
+No person shall receive any compensation for acting as a Council memeber
+but may receive compensation for services rendered to or for Amberson
+Towers in any other capacity.
+
+No member of Council shall receive monetary or other compensation from
+the Association during their term in office.
+
+### Section 7
+
+The Council may exercise all such powers of Amberson Towers and may do
+all such acts and things, as are not by law or by this Code of
+Regulations directed or required to be exercised and done by the Unit
+Owners.
+
+### Section 8
+
+The Council shall require that all officers and employees handling its
+funds shall furnish fidelity bonds in such amounts as the Council shall
+determine. The premium on such bonds shall be paid by Amberson Towers.
+
+### Section 9
+
+The meetings of Council shall be conducted in accordance with Robert's
+Rules of Order (latest edition). Meetings of the Council shall be held
+at the principal office of Amberson Towers or at such place within the
+County of Allegheny as a majority of the Council may from time to time
+designate. With approval of a majority of Council, meetings may also be
+held by electronic means, including but not limited to telephone, video
+or audio conferencing, or other electronic device.
+
+### Section 10
+
+The first meeting of each new Council elected by the Unit Owners shall
+be held within thirty (30) days after such election upon at least five
+(5) days' written notice.
+
+### Section 11
+
+Regular meetings of the Council may be held at such time or times and
+place as shall be determined by a majority of the Council. Notice of
+regular meetings of the Council shall be given to each Council member
+personally or in writing, including via electronic means customarily in
+use, or by other or by mail or by telegram, at least five (5) days prior
+to the day fixed for such meeting.
+
+### Section 12
+
+Special meetings of the Council may be called by the President on not
+less than five (5) days' notice to each Council member either personally
+or in writing, including via electronic means customarily in use or by
+mail or by telegraph, which notice shall state the time, place, and
+purposes of such meetings. Special meetings of the Council may also be
+called in like manner and upon like notice on the written request of at
+least three Council members.
+
+### Section 13
+
+Either before or after any meeting of the Council any Council member
+may, in writing, waive notice of such meeting and such waiver shall be
+deemed equivalent to the giving of such notice. Attendance by a Council
+member at any meeting of the Council shall be a waiver by him of notice
+of the time and place thereof, unless said Council member has attended
+for the sole purpose of objecting to the meeting. If all the Council
+members are present at any meeting of the Council, except for the
+purpose of objecting to the transaction of any business for good and
+lawful cause, no notice shall be required and any business may be
+transacted at such meeting.
+
+### Section 14
+
+At all meetings of the Council, a majority of the Council members in
+office shall be necessary to constitute a quorum for the transaction of
+business. Council members must be present, in person or by electronic
+means, to record a vote, and may not indicate a vote in advance of the
+meeting. It shall require an affirmative vote of a majority of all
+Council members in office to ratify any action of the Council. , and the
+acts of the majority of the Council members present at a meeting at
+which a quorum is present shall be the acts of the Council. If, at any
+meeting of the Council, there be less than a quorum present, the
+majority of those present may adjourn the meeting from time to time. At
+any such adjourned meeting, any business which might have been
+transacted at the meeting as originally called may be transacted without
+further notice.
+
+### Section 15
+
+If all the Council members shall severally or collectively consent, in
+writing, duly filed with the Secretary to any action to be taken by
+Amberson Towers, such action shall be as valid as though it had been
+authorized at a meeting of the Council. Such action shall be immediately
+announced to the Unit Owners, and shall be included in the minutes of
+the subsequent Council meeting.
+
+### Section 16
+
+The Council members, by resolution adopted by the majority of the entire
+Council, may at any time elect two (2) or more of their number as an
+executive committee which shall, in the intervals between meetings of
+the Council, exercise such powers and perform such duties as may from
+time to time be prescribed by the Council. Unless otherwise authorized
+by the Council, such committee shall act by unanimous vote of its
+members at a meeting or by a writing signed by all its members. Any act
+or thing done by such committee within the scope of the power delegated
+to it, shall be as effective for all purposes as the act or
+authorization of the Council. The committee shall keep regular minutes
+of its proceedings and shall report to the Council all actions taken by
+it.
+
+### Section 17
+
+The Council shall have the following powers and duties in addition to
+those vested in it under the law, the Declaration and this Code of
+Regulations:
+
+(a) The maintenance, repair and replacement of the common elements;
+
+(b) The assessment and collection of funds from the Unit Owners for
+    common expenses and the payment of such common expenses;
+
+(c) The promulgation, distribution and enforcement of rules governing
+    the details of the use and operation of the property and the use of
+    the common elements, subject to the right of the Unit Owners to
+    change any such rules at any regular or special meeting, pursuant to
+    Article IV, Section 6. number of the unit owners which constitute 60
+    percent of the votes represented and entitled to vote at any regular
+    or special meeting to change any such rules;
+
+(d) To appoint, employ and remove at any time any agent, or employee;
+    and to prescribe the duties of and fix the compensation for any
+    agent or employee. Nothing contained in this Code of Regulations
+    shall be construed to prohibit the employment of any Unit Owners,
+    who are not members of Council, Officers or Council Member in any
+    capacity whatsoever;
+
+(e) To exercise for Amberson Towers all powers, duties, and authority
+    vested in or delegated to it which it may lawfully exercise, in
+    carrying out or in furtherance of its purposes or any of them;
+
+(f) To submit at each annual meeting of the to the Unit Owners a
+    statement of the operations of Amberson Towers during the preceding
+    year, together with a report of its general financial condition.
+    Copies of such annual financial reports shall be sent to each Unit
+    Owners within sixty (60) days following the close of the preceding
+    fiscal year, along with a copy to the Mortgagee of any Unit who has
+    requested the same in writing; the said mortgagees can also examine
+    the books and records of the condominium;
+
+(g) To make or cause to be made a proposed budget for the ensuing year,
+    a copy of which shall be mailed to each Unit Owner at least ten (10)
+    days prior to the annual budget meeting.
+
+(h) To elect all officers and to fill all vacancies which may occur.
+
+## ARTICLE VI: Officers
+
+### Section 1
+
+All officers of the Council and Amberson Towers Condominium Association
+shall be natural persons. The officers of the Council and Amberson
+Towers Condominium Association shall be a president and a
+vice-president, a secretary and a treasurer, and such other officers as
+the Council may create by resolution from time to time. Any officer may
+be removed by a majority of the entire Council at any time. All of said
+officers shall be elected by the Council and each such officer shall
+hold office until his successor is elected and qualified. No person may
+be an officer who is not a member of Council. No person shall serve as
+the president or vice president unless he/she has served on Council for
+at least one (1) year prior to their election. No person shall serve as
+president for more than two years out of five consecutive years. A
+member shall be considered to have served for one year if they have
+served as president for any period of time between consecutive annual
+meetings.
+
+### Section 2
+
+The election of officers shall take place at the first meeting of the
+Council following each annual meeting of the Unit Owners.
+
+### Section 3
+
+The president and vice-president of Council shall be the president and
+vice-president of Amberson Towers Condominium Association.
+
+### Section 4
+
+The president shall be the chief executive officer of Amberson Towers
+Condominium Association. He shall preside at all meetings of the Unit
+Owners and of the Council. He shall have general and active management
+of the business of Amberson Towers Condominium Association.
+
+### Section 5
+
+The vice-president shall, in the absence or disability of the president,
+perform the duties and exercise the powers of the president. He shall
+also perform such other duties as shall from time to time be delegated
+to him by the Council.
+
+### Section 6
+
+The secretary shall keep the minutes of all meetings of the Unit Owners;
+he or she shall have charge of such of the books and papers as the
+Council may direct, all of which shall, at reasonable times and for
+reasonable purposes, be open to the examination of any Unit Owner,
+Officer or Council member, upon application at the office of Amberson
+Towers during business hours.
+
+### Section 7
+
+The treasurer shall have custody of Amberson Towers Condominium
+Association funds and securities and shall cause full and accurate
+accounts of receipts and disbursements to be kept in books belonging to
+Amberson Towers Condominium Association. He shall deposit all monies and
+other valuable effects in the name, and to the credit of Amberson Towers
+Condominium Association in such depositories as may from time to time be
+designated by the Council.
+
+### Section 8
+
+As assistant secretary, if appointed, shall in the absence or disability
+of the secretary, perform the duties and exercise the powers of the
+secretary and such other duties as shall be delegated to him by the
+Council.
+
+### Section 9
+
+As assistant treasurer, if appointed, shall, in the absence or
+disability of the treasurer, perform the duties and exercise the powers
+of the treasurer.
+
+### Section 10
+
+No person shall receive any monetary or other compensation for acting as
+an officer of Amberson Towers Condominium Association or Council. but
+may receive compensation for services rendered to or for Amberson
+Towers, the Association or Council in any other capacity.
+
+## ARTICLE VII: Payment of Common Expenses and Other Expenses by Unit Owners
+
+### Section 1
+
+As provided in Article V, Section 17, the Council shall determine all
+matters relating to maintenance, repair and replacement of the common
+elements and also all matters relating to the common expenses.
+
+### Section 2
+
+The Council shall pro-rate all costs involved in Section 1 above, among
+all the Unit Owners in proportion to their ownership in the common
+elements, provided, however, that if any cost is occasioned by the
+negligence of any unit owner or owners, said costs shall be borne by
+said unit owner or owners.
+
+### Section 3
+
+The total amount of the charges required for each calendar year shall be
+estimated by the Council at least one (1) month prior to the beginning
+of each calendar year. Such estimate may include an amount for
+unanticipated or under-estimated costs, charges and expenses and
+deficits incurred in any prior year or years, and may further include
+amounts to be accumulated in any reserve funds for expenditures which
+may be required in future years for other than ordinary current
+maintenance, repairs, costs and expenses. The first such charge may be
+estimated and made for less than a full year, and in such event the
+Maintenance Charge for such period shall be payable in equal monthly
+installments for the remainder of such calendar year, beginning on the
+first day of the month immediately following the determination of such
+estimate by the Council. Thereafter, each annual Maintenance Charge
+shall be payable in twelve (12) equal monthly installments beginning on
+the first day of January of each calendar year.
+
+The annual budget shall be sent to Unit Owners at least ten (10) days
+prior to the annual budget meeting, at which time the budget shall be
+approved in the same manner as other business brought before the
+meeting. After the annual budget has been approved by the required vote,
+the Council shall cause a statement to be sent to each Unit Owner; which
+statement shall reflect the total amount of the annual maintenance
+budget thus approved, the common element percentage obligation therefor
+attaching to each respective unit and the corresponding monthly payments
+to be made by each Unit Owner. Each Unit Owner shall then be required to
+make his respective Monthly Maintenance Payment to the Council or its
+designee without further billing or request therefor. Any charge
+assessed against a unit may be enforced by suit by the Council acting on
+behalf of the unit owners in an action in assumpsit; provided, that each
+suit when files shall refer to the Unit Property Act, Act of July 3,
+1963, P.L. 196, and to the unit against which the assessment is made and
+the owner thereof and shall be indexed by the prothonotary as lis
+pendens. Any judgment against a unit and its owners shall be enforceable
+in the same manner as is otherwise provided by law.
+
+Until the Council shall otherwise determine, the monthly charges to be
+paid by each Unit Owner shall be in accordance with the budget attached.
+
+### Section 4
+
+In the event that the Council decides that additional monies are
+required in addition to those set forth in the annual budget, the
+Council shall give the Unit Owners at least Thirty (30) days written
+notice of the total monies required and allocate amounts among the Unit
+Owners together with time for payment of said proportionate amounts
+which may be at one time or in installments, as the Council decides,
+provided, however, that if Unit Owners representing forty (40%) percent
+of the votes of Amberson Towers object in writing to said additional
+assessments within fifteen (15) days after mailing of such notice, the
+Council shall call a special meeting of the Unit Owners for the purpose
+of obtaining approval of said assessments, at which meeting the
+assessments of the Council must receive the same affirmative vote as in
+the case of the annual budget.
+
+### Section 5
+
+Any surplus funds remaining at the end of the calendar year may, at the
+discretion of and at the time determined by the Council, be refunded in
+whole or in part to the then Unit Owners proportionately according to
+the common element percentages attaching to each unit, or may be applied
+in the said proportion as a result to future Maintenance Charges to
+become payable by each Unit Owner for each dwelling unit or may be
+deposited to any reserve fund established by Council. In the event that
+any refunds or credits against future Maintenance Charges are to be made
+or given, the amount thereof to which any such Unit Owner shall be
+entitled may be applied toward the payment of any indebtedness of such
+Unit Owner to Council.
+
+### Section 6
+
+The Council shall maintain fire and other hazard and liability insurance
+on the entire property, and take charge of disbursement of fire and
+other hazard insurance and other proceeds for repair or reconstruction
+of any portion of the property, and arranging for the management of the
+property pursuant to an agreement containing provisions relating to the
+duties, obligations, removal and compensation of the management agent.
+
+### Section 7
+
+From the funds appropriated under and pursuant to the Annual Budget and
+paid to the Council by way of Monthly Maintenance Payments, the Council
+shall acquire and pay for:
+
+(a) A policy or policies of fire and other hazard insurance for the full
+    insurable value (replacement cost) of the building and improvements
+    in the project (unless paid for by mortgage from funds impounded for
+    that purpose). These policies shall be reviewed once a year and
+    increased as necessary to provide maximum coverage. Such insurance
+    shall be obtained in the name of the Council as Trustee for all of
+    the owners and their mortgagees, as their interest appears. The
+    provisions hereof are not to be construed as diminishing the right
+    of such owner to insure his particular unit for the owner's
+    individual benefit;
+
+(b) A policy or policies of insurance insuring the Council and all of
+    the Unit Owners against any liability to the public or to the Unit
+    Owners, their invitees, guests, and tenants, incident to the
+    ownership and use of the common elements and the units; the
+    liability under such policies shall be not less than One Million
+    (\$1,000,000) Dollars for any one accident, and One Hundred Thousand
+    (\$100,000) Dollars for property damage, and such policy limits
+    shall be reviewed at least every three (3) years by the Council and
+    may be increased in its discretion. Said policy to cover acts of
+    Council and officers.
+
+(c) A policy of Workmen's Compensation Insurance to the extent necessary
+    to comply with applicable laws.
+
+### Section 8
+
+The holder of a first mortgage or any unit shall be entitled to give
+written notice of the existence of its mortgage to the Council and shall
+include in such notice an address to which all notices and
+correspondence may be sent. If the holder of a first mortgage has given
+such notice to Council, it shall be entitled to written notice from the
+Council of any default by its mortgagor in the performance of such
+mortgagor's obligations under the condominium regime which is not cured
+within thirty (30) days.
+
+## ARTICLE VIII: Sale or Lease by Unit Owner, Use Restrictions
+
+### Section 1: Sale or Lease by Unit Owner
+
+Any owner who wishes to sell , lease, or rent his unit shall, at least
+seven thirty (730) days prior to accepting any offer to sell, lease or
+rent, give Council written notice of the terms of such offer, which
+notice shall specify the name and address of the offeror. If, within the
+said seven thirty (730) day period, time being of the essence, Council
+or its nominee submits to the owner an identical or more favorable offer
+to sell, lease, or rent, the selling owner must accept the offer of said
+Council in preference to the original offer described in the notice. In
+the event Council fails to submit in writing to the selling owner an
+identical or more favorable offer within seven thirty (730) days of
+receipt of notice of the selling owner's offer, time being of the
+essence, then the selling owner may sell his apartment to his original
+offeror. In any event, Council, shall have sole discretion in this
+matter and no vote or approval of the Unit Owners is required. Any
+holder of a mortgage which comes into possession of a unit pursuant to
+the remedies provided in the mortgage or any purchaser at a sheriff sale
+of the unit or any mortgages, or its designee, who accepts a deed for
+the unit in lieu of foreclosure shall be exempt from the provision of
+this section.
+
+Any owner who wishes to lease or rent his unit shall, prior to accepting
+any offer to lease or rent, give Council written notice of the terms of
+such offer, which notice shall specify the name and address of the
+offeror. Approval of Council, or of an agent designated by Council to
+issue such approval, shall be required before such an agreement to lease
+or rent can be executed. Council shall have sole discretion in the
+matter of approving or rejecting rental or lease agreements, and shall
+not be liable to any owner such action.
+
+### Section 2: Lease Restrictions
+
+(a) Leasing of Units is permitted only as provided herein.
+
+(b) It is the policy of the Condominium Association to discourage the
+    purchase of Condominium units solely for investment (i.e., where the
+    Purchaser does not intend to occupy the unit). To implement this
+    policy, no unit may, where acquired by purchase, be rented to a
+    tenant before one year has elapsed since the date of purchase,
+    unless the tenant is a member of the Purchaser's immediate family as
+    herein defined or the Condominium Council determines in advance that
+    the rental of the Unit to the proposed tenant will not violate the
+    general policy. If the unit is rented on the date of purchase, the
+    lease then in effect remains valid and the year referred to the
+    above shall begin at the expiration of the lease. "Immediate Family"
+    consists of the Purchaser's spouse, parents, grandparents,
+    step-parents, brothers, sisters, children, step-children,
+    grandchildren, nieces and nephews, and the same relations of the
+    spouse of the Purchaser. This policy shall apply to all purchases of
+    units taking place thirty (30) days or more after this provision has
+    gone into effect.
+
+(c) Commencing January 1, 2001, the maximum number of Units that may be
+    leased at any one time is twenty(20). A lease between family members
+    shall not be counted as a leased Unit.
+
+(d) A Tenant occupying a Unit under a lease from the Unit Owner may not
+    sublease or assign the Unit under any circumstances.
+
+(e) Between April 1, 1996 and January 1, 2001, leases that were in
+    effect as of March 31, 1996 may continue to their date of
+    termination and may be renewed if to the same resident tenant.
+
+(f) After April 1, 1996, any new leases must have the written approval
+    of Council before it they will be valid. It is the intent of Council
+    to reduce the number of leases between April 1, 1996 and January 1,
+    2001 so that the maximum number of leased Units on January 1, 2001
+    will be twenty (20).
+
+(g) If at any time the approved number of leased Units in Amberson
+    Towers falls below the leasing cap of twenty (20) Units, Council may
+    grant additional number of leasing permits to reach, but not to
+    exceed, the leasing cap number of twenty (20) Units in the building.
+    All new leasing permits shall be good for one year only and all
+    leases entered thereunder shall be for a lease term of no less nor
+    more than one year and not renewable. Grandfathered Unit Owners as
+    are defined below who are leasing their Units shall be counted
+    toward this twenty (20) Unit leasing cap. Council is granted the
+    authority to establish rules and regulations to include a system for
+    selecting Unit Owners who will be permitted to lease their Units,
+    and such other rules and regulations as it deems necessary from time
+    to time for the proper administration and management of leasing in
+    the building. Unit Owners who are permitted to lease their units
+    shall not be required to pay rental fees to the Association. In any
+    rules and regulations that it may adopt, Council may grant leasing
+    preferences to Unit Owners based on their seniority as owners of
+    Units in the building. No Unit Owner shall be approved to lease his
+    Unit unless he has resided in the Unit for one continuous year.
+    Those Unit Owners who were leasing their Units prior to May 15, 1996
+    with the approval of Council, or were given the right by Council to
+    lease their units as settlement of a legal dispute with Council, are
+    hereby grandfathered and may continue to lease their Units without
+    any limitation on the length or the number of leases or renewals,
+    except that no lease shall be for a term of less than one (1) year.
+    The status of any unit as grandfathered shall terminate upon sale or
+    transfer of the unit to new owners.
+
+(h) Renting of any Unit on Airbnb or similar online marketplace and
+    hospitality service that enables people to lease or rent short-term
+    lodging, is strictly prohibited. This applies to Unit Owners who
+    rent their Units for a term of less than one year, irrespective of
+    whether they are permitted to lease their Units or not.
+
+### Section 3
+
+Except as noted below, no person, partnership, trust, corporation,
+limited liability company or other legal entity may be an owner of more
+than two Units, whether directly, indirectly, in whole or in part.
+
+Exceptions are as follows:
+
+(a) This regulation shall not prevent any licensed lending agency or
+    mortgage holder holding mortgages on more than two units from
+    acquiring them by Sheriffs Sale in the event of default. Multiple
+    ownership via this process shall be regarded as temporary, pending
+    sale.
+
+(b) Acquisition of Units through legal inheritance or marriage.
+
+(c) In other special cases upon the unanimous approval of Council.
+
+### Section 4
+
+(a) Occupancy of any unit must include at least one person over 21 years
+    of age and may not include unrelated persons unless all are over 21
+    years of age.
+
+(b) Where units are owned by parents for occupancy by sons and/or
+    daughters, occupancy must include the sons and/or daughters of the
+    owners.
+
+(c) If the Unit Owner is a corporation, limited liability company,
+    partnership, trust, or other legal entity, the natural person(s) who
+    will occupy the Unit must have some relationship to the entity such
+    as being a member, shareholder, owner or officer of a corporation or
+    limited liability company, a partner in the partnership, a
+    beneficiary of the trust, or a family member of any of the foregoing
+    natural persons as defined in Section 2 of this Article.
+
+### Section 5
+
+No Unit shall be used for any purpose other than as a single family
+private residential dwelling. No commercial activity, industry, trade,
+business, occupation or profession of any kind shall be conducted,
+maintained or permitted in any Unit, common areas or any other part of
+the condominium.
+
+### Section 6: Additions, Alterations or Improvements of Units
+
+(a) Before making any repairs, alterations, or additions to any Unit
+    including, but not limited to plumbing and electrical facilities, or
+    changes to the floor covering of the Unit, the Unit Owner must first
+    submit and obtain the written approval of Council and, where
+    applicable, the approval of the City of Pittsburgh and/or other
+    governing authority having jurisdiction at the owner's expense.
+
+(b) Council is hereby empowered with the authority to adopt such rules
+    and regulations as it deems necessary to administer, implement and
+    effectuate the purposes of this section.
+
+## ARTICLE IX: Miscellaneous
+
+### Section 1
+
+All bills payable, notes, checks or other negotiable instruments and all
+contracts of Amberson Towers Condominium Association, and shall be
+executed by the President or Vice-President and by the Secretary or
+Treasurer, unless otherwise authorized by the Council.
+
+### Section 2
+
+The fiscal year of Amberson Towers Condominium Association shall begin
+on the first day of January and end on the 31st day of December of every
+year except that the first fiscal year shall begin as of the recording
+of the deed of the first unit.
+
+### Section 3
+
+No contract or other transaction between Amberson Towers Council or
+Amberson Towers Condominium Association and any other corporation, firm
+or individual, and no act of the Council members, officers or Unit
+Owners shall, in any way, be affected or invalidated by the fact that
+any of its Unit Owners, Council members or Officers is pecuniarily or
+otherwise interested as an owner, Council member, officer or otherwise
+in such corporation or firm; provided, that such fact shall be disclosed
+to the Council.; and any
+
+Any Council member who is also a shareholder, director, employee or
+officer of such other corporation, or a member, employee or owner of
+such other firm, or who is so interested may be counted in determining
+the existence of a such quorum at any meeting of Council which shall
+authorize such contract or transaction with like effect as if he were
+not such shareholder, director, officer, member, employee or owner of
+such other corporation or firm, or were not so interested, but shall
+abstain from participating in the discussion, deliberation or vote of
+Council.
+
+## ARTICLE X: Maintenance of Patios, If Any
+
+While all adjacent and connecting terraces or patios at ground level and
+above connected to individual apartments are common elements, each unit
+Owner has an exclusive easement for the use and enjoyment of the terrace
+or patio adjacent and connecting with his individual apartment.
+Accordingly, the costs of maintenance thereof shall rest with and be
+borne by the Unit Owner of the apartment to which said terrace or patio
+is connected, if any.
+
+## ARTICLE XI: Modification and Amendment
+
+### Section 1
+
+Notwithstanding anything in the Declaration and/or in this Code of
+Regulations to the contrary, the Declaration and/or this Code of
+Regulations may be altered, revised or modified in accordance with the
+provisions of this Article. upon the written consent of the numbered
+Unit Owners representing Sixty (60%) percent of the votes of Amberson
+Towers. Any such revision, alteration, or modification shall be recorded
+in the Recorder's Office of Allegheny County, Pennsylvania, and shall
+become effective as of the date of such recording.
+
+### Section 2: Proposal of Amendments
+
+Amendments to the Declaration and/or this Code of Regulations may be
+proposed for consideration at any annual or budget meeting. Such
+proposals must be initiated by a majority vote of Council or by a
+written petition, signed by Unit Owners entitled to vote 10% of voting
+shares, and delivered to the Secretary. Such proposals must be made no
+later than February 1 to be placed on the agenda of the annual meeting,
+and no later than August 1 to be placed on the agenda of the budget
+meeting. Council may recommend, but not require, that owners amend their
+petitions for clarity and/or consistency with other provisions in the
+Declaration or Code of Regulations.
+
+### Section 3: Amendments Limited to Single Topics
+
+Each proposed Amendment shall pertain to a single topic, or to closely
+related topics which are contingent upon each other, where separate
+consideration would be infeasible.
+
+### Section 4: Public Comment
+
+Proposals shall be distributed to Unit Owners by electronic means or,
+upon request of individual Unit Owners, by paper copy delivered to their
+unit, or via postal mail. Council shall establish an electronic
+mechanism by which Unit Owners may comment upon and discuss proposed
+amendments, for a public comment period of no less than 30 (thirty)
+days. Unit Owners will also have the option of submitting comments on
+paper, which will be added to and made visible to participants in the
+electronic forum. During the public comment period, Council, for a
+proposal made by Council, or the Unit Owners, for a proposal madel by
+petition, may revise their proposal in a manner consistent with comments
+received. Revisions of proposals made by Council shall require a
+majority vote of Council. Revisions of proposals made by petition of
+Unit Owners must be signed by Unit Owners entitled to vote 10% of voting
+shares, who were also signatories to the original proposal.
+
+### Section 5: Procedure for Consideration
+
+Amendments proposed in accordance with the provisions of this Article
+shall be placed on the agenda of the next regular meeting of the Unit
+Owners, and shall be included on the ballot for the meeting. To pass,
+amendments must be approved by 2/3 of the shares voting, but no less
+than the numbered Unit Owners representing one third (1/3) of the votes
+of Amberson Towers. Amendments which pass shall be placed upon the
+agenda and ballot of the next regular meeting to be discussed and voted
+on a second time. To be approved, amendments must pass two consecutive
+votes.
+
+### Section 5: Minor Amendments
+
+Amendments which are limited to matters of clarification or style, which
+have no substantive effect, such as correction of typographical errors
+or renumbering or reordering of sections, may be provisionally approved
+by unanimous vote of Council. Such amendments must be published for
+opposition by Unit Owners, for a period of no less than sixty (60) days.
+If no objection is raised by any Unit Owner, the amendment will be
+considered adopted. If any Unit owner objects, the amendment must be
+reintroduced by the forgoing procedure for general Amendments.
+
+### Section 6
+
+Any modification which affects a particular Unit only shall have the
+approval of that particular unit holder and the mortgagee of the same.
+
+## ARTICLE XII: Construction of Provisions
+
+The provisions of this Code of Regulations shall be liberally construed
+to effectuate its purpose of creating a uniform plan for the development
+and operation of a condominium apartment building. Failure to enforce
+any provision thereof will not constitute a waiver of the right to
+enforce said provision or any other provision hereof.
+
+## ARTICLE XIII: Conflicts Between Declaration and Code of Regulations
+
+In the event of any conflict or inconsistency between this Code of
+Regulations and the Declaration, the Declaration shall govern.
+
+## ARTICLE XIV: Severability of Provisions
+
+The provisions hereof shall be deemed independent and severable, and the
+invalidity or partial invalidity of any part shall not affect the
+enforceability of any other provisions hereof. The use of the gender
+pronoun "he" throughout this Code of Regulations, and as it may be
+amended from time to time, is gender neutral and shall be inclusive of
+both masculine and feminine persons.
+
+## ARTICLE XV: Exculpability of Council and Officers
+
+Neither the Council as a body nor any member thereof nor any officer
+shall be personally liable to any Unit Owner in any respect for any
+action or lack of action arising out of the execution of this office.
+Each Unit Owner shall be bound by the good faith actions of the Council
+and Officers of Amberson Towers Condominium Association in the execution
+of the duties of said Council members and Officers. Unless acting in bad
+faith, no Council member or Officer shall be liable to any Unit Owner or
+other person for misfeasance or malfeasance in office.
+
+## ARTICLE XVI
+
+The Council shall from time to time issue rulings, regulations and
+conditions which shall be binding upon all Apartment Unit Owners which
+rulings, regulations and conditions shall be in the Council's sole
+judgment for the general well-being, safety, care and cleanliness of the
+building and shall include but shall not be limited to the following.
+
+1.  No animals, birds or pets of any kind shall be brought or kept in or
+    about the apartment unit or the building of which it is a part.
+2.  Council may issue rules and regulations regarding the bringing or
+    keeping of animals or pets in apartment units or the common areas of
+    the building, including but not limited to prohibition of such
+    animals, unless otherwise required by law. Under no circumstances
+    shall it be permissible to bring or keep such animals in or about
+    the building if they are vicious or aggressive or cause a nuisance
+    or hazard of any kind, including but not limited to noise, odor,
+    and/or unhealthful conditions.\
+3.  All Unit Owners shall provide white curtain liners or white glass
+    curtains as are presently used in the building.
+4.  Council may issue rules and regulations regarding displays visible
+    to the public. No text, images or symbols shall be displayed in
+    windows which are visible to the public if such display shall cause
+    controversy or increase costs for the Association.\
+5.  Council may issue rules and regulations regarding allowable
+    materials for use in repairs and renovation of units, including
+    floor coverings. Each apartment unit shall be carpeted in amount
+    equal to 80% of the floor space in every room, corridor, foyer,
+    and/or vestibule with the exception of the kitchen and bathrooms.
+    Replacement, upgrade, or installation of new carpeting in any Unit
+    shall be padded, and both the carpet and padding shall be of high
+    quality and, with the exception of the kitchen and bathrooms, shall
+    cover 100% of the floor space in the Unit. All carpeting and padding
+    All flooring materials shall be of high quality and must meet the
+    minimum Impact Insulation Class (IIC) and Sound Transmission Class
+    (STC) ratings and other standards or requirements as shall be
+    established by Council to prevent or adequately reduce the
+    transmission of sound between units. As used herein, the term
+    "carpet", "carpeting" or "carpeted" does not include an area rug,
+    throw rug or other rug of any kind, pad, mat, cushion, or
+    underlayment used in conjunction with, or separately from, a carpet.
+6.  Each Unit Owner shall carry an H06 apartment condominium owner's
+    comprehensive insurance policy covering the inside of his apartment
+    for contents and liability insurance therein, and shall file a copy
+    of such policy with the Association. Council may establish
+    requirements for minimum coverage limits.
+
+## ARTICLE XVII: Smoking Prohibited
+
+### Section 1
+
+Effective immediately, smoking is hereby prohibited everywhere on the
+property of Amberson Towers, including, but not limited to, individual
+units, indoor and outdoor exclusive use areas, and indoor and outdoor
+common areas. No owner shall smoke, or permit smoking by any occupant,
+agent, tenant, invitee, guest, friend, family member, or any other
+person, anywhere on the property. Smoking shall include the inhaling,
+exhaling, breathing, carrying, or possession of any lighted cigarette,
+cigar, pipe, other product containing any amount of tobacco, or other
+similar heated, smoldering or lit product.
+
+### Section 2
+
+Notwithstanding the said prohibition against smoking, the Council may
+designate (or remove from designation) an outdoor area for smoking,
+provided the smoking area(s) shall not cause secondhand smoke to drift
+into indoor common areas, exclusive use areas or individual units.
+
+## ARTICLE XVIII: Mediation of Disputes Between Owners
+
+Council shall may establish a system for the resolution of disputes
+between Unit Owners, tenants Or other occupants of any Unit in
+accordance with Alternative Dispute Resolution (ADR) procedures and fees
+established by resolution of Council and published in the Rules and
+Regulations of Amberson Towers Condominium.
+
+Alternative dispute resolution shall also be available in all cases to
+resolve disputes or complaints between unit owners and the Association
+relating to meetings, quorums, voting, and association records under
+Sections 3308, 3309, 3310, and 3316 of the Pennsylvania Uniform
+Condominium Act.
+
+## ARTICLE XIX: Open Meetings and Meeting Records
+
+### Section 1: Open Meetings
+
+All meetings of the Council, committees which the Council may from time
+to time create, and any other bodies which may deliberate upon matters
+pertaining to the Association shall be open to attendance by all Unit
+Owners. No vote or official action of the Council may be taken outside
+of such a meeting.
+
+### Section 2: Announcement of Meetings and Agenda
+
+All meetings of the Council shall be announced to Unit Owners a minimum
+of five (5) days in advance. An agenda for each meeting shall be
+distributed to all Unit Owners no less than 24 hours in advance of the
+meeting.
+
+### Section 3: Public Comment and Participation
+
+If necessary for the interest of time, Unit Owners who are not members
+of Council may be limited in their opportunity to speak at Council
+meetings; however, Unit Owners will be given the opportunity to petition
+to be heard on any topic, and also may submit written comments, which
+will be included verbatim in the minutes of the meeting, as an addendum.
+
+### Section 4: Executive Session
+
+Council may, by majority vote, enter into executive session. The purpose
+for entering executive session shall be limited to consideration of the
+following topics, must be a specific, real and discrete matter, and must
+be stated in the motion to enter executive session:
+
+Discussing personnel matters; Holding an information, strategy and
+negotiation session related to the negotiation of a collective
+bargaining agreement; Considering the purchase or lease of real
+property; Consulting with an attorney about active or pending
+litigation; Discussing Association business which, if conducted in
+public, would violate a lawful privilege or lead to the disclosure of
+information or confidentiality protected by law;
+
+No votes or other official action may be taken during an executive
+session, except as provided in ARTICLE V, Section 15. Votes or other
+official actions must be taken during the public portion of the meeting,
+and must be documented in the minutes. Any vote or official action taken
+contrary to this provision shall be null and void.
+
+### Section 5: Meeting Minutes
+
+A summary of the minutes of each Council meeting shall be distributed to
+all Unit Owners within ten (10) days of the meeting. The summary of
+minutes shall not serve as an official record of the meeting. The
+official minutes of each Council meeting shall become part of the
+records of the Association upon approval at a subsequent Council
+meeting. Any Unit Owner may request a copy of the official minutes of
+any meeting, once approved.
+
+### Section 6: Open Records and Limitations
+
+Records of the Association shall be available to Unit Owners for
+inspection and copying, at reasonable times and for reasonable purposes,
+including but not limited to: Financial Records financial documents
+(budget, reserves, lien policies, insurance, financial statements, etc.)
+interim financial statements, including (i) balance sheet, (ii) income
+and expense statement, (iii) budget comparison, and (iv) general ledger
+salaries paid to employees, vendors, or contractors (except as provided
+by attorney-client privilege) which shall be set forth by job
+classification or title, not by the employee's name, social security
+number, or other personal information state and federal tax returns
+reserve account balances and payments from reserves invoices, receipts,
+canceled checks, purchase orders approved by the association, credit
+card statements for credit cards issued in the name of the association,
+statements for services rendered, and reimbursement requests submitted
+to the association Governing Documents CC&Rs, articles of incorporation,
+bylaws, condominium plan, operating rules, election rules, etc schedule
+of monetary penalties used in rules enforcement. Contracts Minutes
+(board, committee and membership meeting agendas and minutes, except for
+executive session minutes) Election Materials Miscellaneous insurance
+policies architectural plans escrow documents violation notices (the
+general membership does not have the right to other members' violation
+notices) membership lists
+
+Records not subject to inspection shall include:
+
+audit management representation letters bids and contract proposals
+board packets correspondence between members, vendors or others with the
+board (unless a letter is used as evidence in a disciplinary action
+against another owner, in which case the disciplined owner has a right
+to see it) disciplinary actions, collection activities, or payment plans
+of other owners email between directors executive session minutes
+information privileged by law, such as documents subject to
+attorney-client privilege or relating to litigation in which the
+association is or may become involved, and confidential settlement
+agreements interior architectural plans of homes legal invoices personal
+information, including social security number, tax id number, driver's
+license number, credit card account numbers, bank account number, and
+bank routing number personnel records (other than salaries) records
+likely to lead to identity theft records likely to lead to fraud records
+reasonably likely to compromise the privacy of an individual member
+security camera recordings video recordings of meetings
+
+### Section 7: Access to Records by Members of Council
+
+Members of Council shall have the absolute right, at any reasonable
+time, to inspect and copy all books, records, and documents of every
+kind and to inspect the physical properties of the Association.
+
+## ARTICLE XX: Elections and Votes
+
+### Section 1: Election Committee
+
+All elections and votes of the Association shall be administered by an
+election committee composed of five natural persons, who are Unit
+Owners.
+
+Members of the election committee shall be nominated by unanimous vote
+of the Council prior to the annual budget meeting. Each election
+committee must include at least two members who did not serve during the
+previous term. Members of Council may not simultaneously serve on the
+election committee.
+
+The vote at each budget meeting will be administered by the election
+committee nominated during the previous year. Each new election
+committee will oversee the vote at the following annual meeting, the
+subsequent budget meeting, and any other intervening votes.
+
+### Section 2: Inspector of Election
+
+The election committee shall choose one of its members, by majority
+vote, to serve as Inspector of Election. The Inspector of Election shall
+chair meetings of the election committee and coordinate its activities.
+The election committee may, at any time, by majority vote, appoint a new
+member of the committee as Inspector of Election.
+
+No Unit Owner shall serve consecutive terms as Inspector of Election.
+
+### Section 3: Vacancies and Removal of Members
+
+A member of the election committee may be recommended for removal by a
+unanimous vote of the other members of the election committee, which
+must be ratified by a majority vote of the Council.
+
+In the event of a vacancy on the election committee, the Council shall
+appoint a replacement, by unanimous vote, to fill the remainder of the
+vacated term.
+
+### Section 4: Meetings and Election Methods
+
+The election committee shall hold open meetings, shall publish a
+description of the election method it intends to employ, and shall
+provide an opportunity for public comment prior to adoption.
+
+Election methods adopted by the election committee must satisfy the
+following criteria:
+
+All Unit owners must have an equal opportunity to vote, via paper ballot
+or electronically, without the requirement to attend a meeting in person
+as a condition of voting. It must be possible for Unit Owners to vote in
+a manner that maintains the secrecy of their vote. It must not be
+possible for ballots to be duplicated, falsified or discarded without
+detection. It must be possible to determine which Unit Owners have voted
+on any question, and the list of Unit owners who have voted must be
+published as part of the election results.
+
+### Section 5: Neutrality of Council
+
+The Council shall remain neutral in all elections and votes, and shall
+not, as a body, endorse any candidate or take a position on any
+question. This shall not preclude any members of Council from voicing
+their own personal opinions or making endorsements.
+
+No member of Council who is a candidate in any election shall vote on
+any question pertaining to that election.
+
+The Council also shall not take any action with the intent or effect of
+dissuading individual Unit Owners from communicating freely with each
+other and voicing their opinions on any candidate or question being
+voted upon. This includes but is not limited to making use of electronic
+forums made generally available to all Unit Owners, distribution of
+letters or handouts to individual units, or posting notices on bulletin
+boards or in other common areas customarily made available for posting
+notices, with the exception that individual Unit Owners who request to
+opt out of having election related materials distributed to the units
+shall have their wishes respected.
+
+No communication channel controlled by the Association which is not
+generally available to all shall be used for purposes of promoting
+candidates or positions on ballot questions, other than distribution of
+reminders to vote, unless it is made equally available to all candidates
+and to both proponents and opponents of ballot questions.
+
+### Section 6: Neutrality of Employees and Contractors
+
+No employee or contractor of the Association shall participate in any
+way in the conduct or administration of any election or vote, except to
+provide clerical assistance at the request of the Inspector of Election.
+This includes but is not limited to the design and preparation of
+ballots, the collection of ballots or proxies, and/or the counting of
+ballots.
+
+This shall not apply to a professional, disinterested party hired by the
+Association solely for the purpose of administration of an election, who
+has no other financial interest or other conflict of interest.
+
+### Section 7: Announcement of Election Results
+
+Upon certification of the results of any election or vote, the results
+will be announced by the election committee to the Unit Owners and
+published on the website for a minimum of three years. Announcement of
+the results shall include a list of units that participated in the vote.
+
+### Section 8: Rights of Candidates
+
+If any candidate for office, or any Unit Owner who is a proponent or
+opponent of any ballot question, believes that the election or votes is
+not being conducted in a free and fair manner, they shall have the
+option of requiring that the election or vote be administered by a
+professional, disinterested party mutually agreeable to all Unit Owners
+exercising this prerogative and to the election committee. The Unit
+Owners exercising this prerogative shall be responsible for paying any
+additional cost to the Association.
+
+### Section 9: Dispute Resolution
+
+Any disputes regarding elections or votes shall be resolved via the
+alternative dispute resolution process established by Council pursuant
+to ARTICLE XVIII.
+
+Except as modified herein, the undersigned Association hereby publishes
+and reaffirms the Code of Regulations as amended.
+
+IN WITNESS WHEREOF, the undersigned officers of Amberson Towers
+Condominium Association have set their hands below.
+
+AMBERSON TOWERS CONDOMINIUM ASSOCIATION,\
+a Nonprofit Corporation
+
+Warren Wolowicz, Vice President Ralf Brown, Secretary
+
+## Schedule A
+
+| APT. UNIT NO. | PERCENTAGE |
+|:--------------|:-----------|
+| 100           | 0.6747%    |
+| 101           | 0.3767%    |
+| 102           | 0.3767%    |
+| 103           | 0.6747%    |
+| 104           | 0.4675%    |
+| 105           | 0.4548%    |
+| 106           | 0.4633%    |
+| 107           | 0.4548%    |
+| 109           | 0.63776%   |
+| 111           | 0.4570%    |
+| 112           | 0.6551%    |
+| 113           | 0.6147%    |
+| 114           | 0.4675%    |
+| 115           | 0.3597%    |
+| 116           | 0.4675%    |
+| 117           | 0.3442%    |
+| 118+120       | 1.0956%    |
+| 119           | 0.6747%    |
+| 121           | 0.3767%    |
+| 200           | 0.6747%    |
+| 201           | 0.3767%    |
+| 202           | 0.3767%    |
+| 203           | 0.6747%    |
+| 204           | 0.4675%    |
+| 205           | 0.4548%    |
+| 206           | 0.4633%    |
+| 207           | 0.4548%    |
+| 209           | 0.63776%   |
+| 210           | 0.4463%    |
+| 211           | 0.4570%    |
+| 212           | 0.8028%    |
+| 213           | 0.6147%    |
+| 214           | 0.4675%    |
+| 215           | 0.4505%    |
+| 216           | 0.4675%    |
+| 217           | 0.4548%    |
+| 218           | 0.6747%    |
+| 219           | 0.6747%    |
+| 220           | 0.3767%    |
+| 221           | 0.3767%    |
+| 300           | 0.6747%    |
+| 301           | 0.3767%    |
+| 302           | 0.3767%    |
+| 303           | 0.6747%    |
+| 304           | 0.4675%    |
+| 305           | 0.4548%    |
+| 306           | 0.4633%    |
+| 307           | 0.4548%    |
+| 308           | 0.4740%    |
+| 309           | 0.63776%   |
+| 310           | 0.4463%    |
+| 311           | 0.4570%    |
+| 312           | 0.8028%    |
+| 313           | 0.6147%    |
+| 314           | 0.4675%    |
+| 315           | 0.4505%    |
+| 316           | 0.4675%    |
+| 317           | 0.4548%    |
+| 318           | 0.6747%    |
+| 319           | 0.6747%    |
+| 320           | 0.3767%    |
+| 321           | 0.3767%    |
+| 400           | 0.6747%    |
+| 401           | 0.3767%    |
+| 402           | 0.3767%    |
+| 403           | 0.6747%    |
+| 404           | 0.4675%    |
+| 405           | 0.4548%    |
+| 406           | 0.4633%    |
+| 407           | 0.4548%    |
+| 408           | 0.4740%    |
+| 409           | 0.63776%   |
+| 410           | 0.4463%    |
+| 411           | 0.4570%    |
+| 412           | 0.8028%    |
+| 413           | 0.6147%    |
+| 414           | 0.4675%    |
+| 415           | 0.4505%    |
+| 416           | 0.4675%    |
+| 417           | 0.4548%    |
+| 418           | 0.6747%    |
+| 419           | 0.6747%    |
+| 420           | 0.3767%    |
+| 421           | 0.3767%    |
+| 500           | 0.6747%    |
+| 501           | 0.3767%    |
+| 502           | 0.3767%    |
+| 503           | 0.6747%    |
+| 504           | 0.4675%    |
+| 505           | 0.4548%    |
+| 506           | 0.4633%    |
+| 507           | 0.4548%    |
+| 508           | 0.4740%    |
+| 509           | 0.63776%   |
+| 510           | 0.4463%    |
+| 511           | 0.4570%    |
+| 512           | 0.8028%    |
+| 513           | 0.6147%    |
+| 514           | 0.4675%    |
+| 515           | 0.4505%    |
+| 516           | 0.4675%    |
+| 517           | 0.4548%    |
+| 518           | 0.6747%    |
+| 519           | 0.6747%    |
+| 520           | 0.3767%    |
+| 521           | 0.3767%    |
+| 600           | 0.6747%    |
+| 601           | 0.3767%    |
+| 602           | 0.3767%    |
+| 603           | 0.6747%    |
+| 604           | 0.4675%    |
+| 605           | 0.4548%    |
+| 606           | 0.4633%    |
+| 607           | 0.4548%    |
+| 608           | 0.4740%    |
+| 609           | 0.63776%   |
+| 610           | 0.4463%    |
+| 611           | 0.4570%    |
+| 612           | 0.8028%    |
+| 613           | 0.6147%    |
+| 614           | 0.4675%    |
+| 615           | 0.4505%    |
+| 616           | 0.4675%    |
+| 617           | 0.4548%    |
+| 618           | 0.6747%    |
+| 619           | 0.6747%    |
+| 620           | 0.3767%    |
+| 621           | 0.3767%    |
+| 700           | 0.6747%    |
+| 701           | 0.3767%    |
+| 702           | 0.3767%    |
+| 703           | 0.6747%    |
+| 704           | 0.4675%    |
+| 705           | 0.45487%   |
+| 706           | 0.4633%    |
+| 707           | 0.4548%    |
+| 708           | 0.4740%    |
+| 709           | 0.63776%   |
+| 710           | 0.4463%    |
+| 711           | 0.4570%    |
+| 712           | 0.8028%    |
+| 713           | 0.6147%    |
+| 714           | 0.4675%    |
+| 715           | 0.4505%    |
+| 716           | 0.4675%    |
+| 717           | 0.4548%    |
+| 718           | 0.6747%    |
+| 719           | 0.6747%    |
+| 720           | 0.3767%    |
+| 721           | 0.3767%    |
+| 800           | 0.6747%    |
+| 801           | 0.3767%    |
+| 802           | 0.3767%    |
+| 803           | 0.6747%    |
+| 804           | 0.4675%    |
+| 805           | 0.4548%    |
+| 806           | 0.4633%    |
+| 807           | 0.45487%   |
+| 808           | 0.4740%    |
+| 809           | 0.63776%   |
+| 810           | 0.4463%    |
+| 811           | 0.4570%    |
+| 812           | 0.8028%    |
+| 813           | 0.6147%    |
+| 814           | 0.4675%    |
+| 815           | 0.4505%    |
+| 816           | 0.4675%    |
+| 817           | 0.4548%    |
+| 818           | 0.6747%    |
+| 819           | 0.6747%    |
+| 820           | 0.3767%    |
+| 821           | 0.3767%    |
+| 900           | 0.6747%    |
+| 901           | 0.3767%    |
+| 902+903       | 1.0918%    |
+| 904           | 0.4675%    |
+| 905           | 0.4548%    |
+| 906           | 0.4633%    |
+| 907           | 0.4548%    |
+| 908           | 0.4740%    |
+| 909           | 0.63767%   |
+| 910           | 0.4463%    |
+| 911           | 0.4570%    |
+| 912           | 0.8028%    |
+| 913           | 0.6147%    |
+| 914           | 0.4675%    |
+| 915           | 0.4505%    |
+| 916           | 0.4675%    |
+| 917           | 0.4548%    |
+| 918           | 0.6747%    |
+| 919+921       | 0.8410%    |
+| 920           | 0.3767%    |
