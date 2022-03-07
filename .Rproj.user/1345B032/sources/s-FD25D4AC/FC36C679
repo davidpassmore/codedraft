@@ -3,7 +3,7 @@
     "path": "~/Documents/PERSONAL/RProjects/Rprojs/codedraft/code.Rmd",
     "project_path": "code.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "233696010",
     "contents": "",
     "dirty": false,
     "created": 1646656327440.0,
@@ -13,8 +13,8 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "29,0",
-        "scrollLine": "19",
+        "cursorPosition": "1054,26",
+        "scrollLine": "1046",
         "rmdVisualMode": "false",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "692:555",
@@ -22,11 +22,11 @@
         "docOutlineVisible": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1646657115,
+    "lastKnownWriteTime": 1646662069,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1646657115900,
+    "last_content_update": 1646662069091,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -11,10 +11,6 @@ output:
     latex_engine: xelatex
   tufte::tufte_book:
     citation_package: natbib
-    latex_engine: xelatex
-editor_options: 
-  markdown: 
-    wrap: 72
 ---
 
 ```{r setup, include=FALSE}
@@ -24,13 +20,17 @@ knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
 options(htmltools.dir.version = FALSE)
 ```
 
-### This document contains a copy of *Code of Regulations Update Draft 1.pdf" posted by Gil Citro to *basecamp* on 6 March 2022. In the right margin I annotated the draft copy with the *Notes* Gil entered on basecamp along with the draft code.
+***
 
-### David Passmore
+This document contains a copy of *Code of Regulations Update Draft 1.pdf" posted by Gil Citro* to *basecamp* on 6 March 2022. In the right margin I annotated the draft copy with the *Notes* Gil entered on basecamp along with the draft code.
 
-------------------------------------------------------------------------
+ David Passmore
+
+***
+
 
 # AMBERSON TOWERS CODE OF REGULATIONS
+
 
 ## ARTICLE I: Applicable Statute
 
@@ -105,15 +105,14 @@ thereat, addressed to the Unit Owner's address last appearing on the
 books of the Council or supplied by such Unit Owner to the Council for
 the purpose of notice. Such notice shall specify the place, day and hour
 of the meeting, and, in the case of a special meeting, the purpose of
-meeting. Such notice shall be accompanied by a ballot through which each
+meeting. **Such notice shall be accompanied by a ballot through which each
 Unit Owner may vote on all questions to be decided by the meeting,
-whether or not they attend the meeting. If the said Unit Owner is a
+whether or not they attend the meeting.** If the said Unit Owner is a
 resident of Amberson Towers, it is sufficient compliance with this
-section to place the said notice and ballot in their mail box or deliver
-it to their Unit. If the said Unit Owner has consented to receive
+section to place the said notice **and ballot** in their mail box or deliver it to their Unit. **If the said Unit Owner has consented to receive
 notification via electronic means, it is sufficient compliance with this
 section to deliver the notice via such means, and to deliver a ballot
-electronically immediately upon conclusion of the meeting.
+electronically immediately upon conclusion of the meeting.**
 
 ### Section 5
 
@@ -122,7 +121,7 @@ all such meetings.
 
 ### Section 6
 
-(a) Prior to the annual meeting and budget meeting, questions to be
+(a) **Prior to the annual meeting and budget meeting, questions to be
     decided by the meeting shall be placed on the agenda pursuant to a
     vote of a majority of Council or petition by at least six (6) Unit
     Owners holding ownership shares in at least six (6) different units.
@@ -133,16 +132,16 @@ all such meetings.
     discussion. Council may recommend, but not require, that owners
     amend their petitions for clarity and/or consistency. Amended
     petitions must be submitted prior to the announcement of the
-    meeting, for inclusion on the ballot.
+    meeting, for inclusion on the ballot.**
 
-At every meeting of the Unit Owners, each Each Unit Owner present , in
-person or by proxy, and entitled to vote thereat, shall have the right
+(b) ~~At every meeting of the Unit Owners, each~~ **Each** Unit Owner --present , in
+person or by proxy, and entitled to vote thereat,-- shall have the right
 to cast the number of shares set forth opposite his Unit number in the
-Declaration Schedule A. Voting shall take place subsequent to the
+Declaration --Schedule A--. --The vote of fifty-one (51) percent of the number of votes represented and entitled to vote at such meeting shall decide any question brought before such meeting,-- **Voting shall take place subsequent to the
 meeting, via paper and/or electronic ballot, and shall remain open for
 14 days. Approval of any questions brought before such meeting shall
 require an affirmative vote of both a majority of shares voting and of
-25% of total shares, The vote of fifty-one (51) percent a majority of of
+25% of total shares,** The vote of fifty-one (51) percent a majority of of
 the number of votes represented and entitled to vote at such meeting
 shares voted shall decide any question brought before such meeting,
 unless the question is one upon which, by express provision or statute
@@ -150,7 +149,7 @@ or of the Declaration or of this Code of Regulations, a different vote
 is required, in which case, such express provisions shall govern and
 control.
 
-(b) If the owner of a unit is a corporation, limited liability company,
+(c) If the owner of a unit is a corporation, limited liability company,
     partnership, trust, unincorporated association or other legal
     entity, the natural person who shall be entitled to cast the vote
     for such unit shall be the person named in a certificate executed by
@@ -262,27 +261,19 @@ meetings of the Unit Owners shall, unless otherwise determined by the
 presiding officer or action of the Unit Owners present or represented,
 be as follows:
 
-(a) Roll call;\
+(a) Roll call;
 (b) Proof of notice of meeting or waiver of notice;\
 (c) Reading of minutes of preceding meeting;\
-
-```{=html}
-<!-- -->
-```
-(cd) Report of officers;\
-     (de) Reports of committees;\
-
-```{=html}
-<!-- -->
-```
-(e) Report of property manager;\
-(f) Appointment of inspectors of election by the president or chair
+(d) Report of officers;\
+(e) Reports of committees;\
+(f) Report of property manager;\
+(g) Appointment of inspectors of election by the president or chair
     person;\
     (fg) Questions for candidates for Council (at the annual meeting)
     Election of council;\
-(g) Questions concerning the budget proposal (at the budget meeting)\
-(h) Other items of business placed on the agenda.Unfinished business;\
-(i) New business
+(h) Questions concerning the budget proposal (at the budget meeting)\
+(i) Other items of business placed on the agenda.Unfinished business;\
+(j) New business.
 
 ## ARTICLE V: Council
 
@@ -483,7 +474,7 @@ Regulations:
 
 (b) The assessment and collection of funds from the Unit Owners for
     common expenses and the payment of such common expenses;
-
+    
 (c) The promulgation, distribution and enforcement of rules governing
     the details of the use and operation of the property and the use of
     the common elements, subject to the right of the Unit Owners to
@@ -491,18 +482,18 @@ Regulations:
     Article IV, Section 6. number of the unit owners which constitute 60
     percent of the votes represented and entitled to vote at any regular
     or special meeting to change any such rules;
-
+    
 (d) To appoint, employ and remove at any time any agent, or employee;
     and to prescribe the duties of and fix the compensation for any
     agent or employee. Nothing contained in this Code of Regulations
     shall be construed to prohibit the employment of any Unit Owners,
     who are not members of Council, Officers or Council Member in any
     capacity whatsoever;
-
+    
 (e) To exercise for Amberson Towers all powers, duties, and authority
     vested in or delegated to it which it may lawfully exercise, in
     carrying out or in furtherance of its purposes or any of them;
-
+    
 (f) To submit at each annual meeting of the to the Unit Owners a
     statement of the operations of Amberson Towers during the preceding
     year, together with a report of its general financial condition.
@@ -511,11 +502,11 @@ Regulations:
     fiscal year, along with a copy to the Mortgagee of any Unit who has
     requested the same in writing; the said mortgagees can also examine
     the books and records of the condominium;
-
+    
 (g) To make or cause to be made a proposed budget for the ensuing year,
     a copy of which shall be mailed to each Unit Owner at least ten (10)
     days prior to the annual budget meeting.
-
+    
 (h) To elect all officers and to fill all vacancies which may occur.
 
 ## ARTICLE VI: Officers
@@ -1379,6 +1370,8 @@ a Nonprofit Corporation
 Warren Wolowicz, Vice President Ralf Brown, Secretary
 
 ## Schedule A
+
+^[The unit shares don't currently add up to 100% (they add up to 99.9989%).  This is insignificant, but makes spreadsheets much more complicated.  This change adjusts a few shares by 0.0001%, so that the total is 100.0000%]
 
 | APT. UNIT NO. | PERCENTAGE |
 |:--------------|:-----------|
