@@ -22,14 +22,14 @@ options(htmltools.dir.version = FALSE)
 
 ------------------------------------------------------------------------
 
-> **This document contains a copy of [*Code of Regulations Update Draft 1.pdf*](https://public.3.basecamp.com/p/pd5YvrL6Y81Lf8L1qxhZAPnG) posted by Gil Citro to *basecamp* on 6 March 2022. Gil, also provides with his posting several helpful summaries of the suggested revisions to the Code of Regulations. **
+> This document contains a copy of [*Code of Regulations Update Draft 1.pdf*](https://public.3.basecamp.com/p/pd5YvrL6Y81Lf8L1qxhZAPnG) posted by Gil Citro to *basecamp* on 6 March 2022. Gil, also provides with his posting several helpful summaries of the suggested revisions to the Code of Regulations. 
 
->  **In the right margin of this current I annotated the draft copy with the *Notes* Gil entered on basecamp along with the draft code. Text that is <span style="color:red">colored red is a suggested addition</span> to the Code of Regulations. Text that is struck through like this ~~blah blah blah~~ is a suggested deletion from the Code of Regulations.  **
+>  In the right margin of this current I annotated the draft copy with the *Notes* Gil entered on basecamp along with the draft code. Text that is <span style="color:red">colored red is a suggested addition</span> to the Code of Regulations. Text that is struck through like this --> ~~blah blah blah~~ <-- is a suggested deletion from the Code of Regulations.**^[Some explanations, queries, and notes are footnoted on the right margin *just like this*. As we accumulate your comments and suggestions, we will code them into the right margin, also.]
 
-> **Versions of the suggestion revisions to the Code of Regulations are available on *basecamp*. [One is a PDF containing the suggested revisions](https://storage.3.basecamp.com/5156680/buckets/23361647/uploads/4704607630/download/Code%20of%20Regulations%20Update%20Draft%201.pdf?disposition=attachment). The other is the [same PDF, but with line numbers]((https://storage.3.basecamp.com/5156680/blobs/da666334-9e0e-11ec-9a7e-ce416d59e241/download/line_numbers_Code%20of%20Regulations%20Update%20Draft%201.pdf)) so that you can refer to specific parts of the document in *basecamp* discussions of the suggested revisions.**
+> Versions of the suggestion revisions to the Code of Regulations are available on *basecamp*. [One is a PDF containing the suggested revisions](https://storage.3.basecamp.com/5156680/buckets/23361647/uploads/4704607630/download/Code%20of%20Regulations%20Update%20Draft%201.pdf?disposition=attachment). The other is the [same PDF, but with line numbers]((https://storage.3.basecamp.com/5156680/blobs/da666334-9e0e-11ec-9a7e-ce416d59e241/download/line_numbers_Code%20of%20Regulations%20Update%20Draft%201.pdf)) so that you can refer to specific parts of the document in *basecamp* discussions of the suggested revisions. Currently approved Amberson *Rules and Regulations*, *Declaration*, and *Code of Regulations* are accessible in a single, integrated web site at [https://amberson-towers.github.io/rdocuments/](https://amberson-towers.github.io/rdocuments/). 
 
-> **VR,**\
-> **David Passmore**
+> VR,\
+> David Passmore
 
 ------------------------------------------------------------------------
 
