@@ -2,7 +2,7 @@
 title: "Annotated Draft of Code of Regulations"
 runningheader: "Annotated Draft of Code of Regulations" # only for pdf output
 subtitle: "Amberson Towers Condominium Association" # only for html output
-author: "Governance Committee"
+author: "Governance Committee of the Council for the Association"
 date: "March 6, 2022"
 output:
   tufte::tufte_html: default
@@ -26,8 +26,9 @@ options(htmltools.dir.version = FALSE)
 
 >  **In the right margin of this current I annotated the draft copy with the *Notes* Gil entered on basecamp along with the draft code. Text that is <span style="color:red">colored red is a suggested addition</span> to the Code of Regulations. Text that is struck through like this ~~blah blah blah~~ is a suggested deletion from the Code of Regulations.  **
 
-> **Versions of the suggestion revisions to the Code of Regulations are available on *basecamp*. [One is a PDF containing the suggested revisions](https://storage.3.basecamp.com/5156680/buckets/23361647/uploads/4704607630/download/Code%20of%20Regulations%20Update%20Draft%201.pdf?disposition=attachment). The other is the [same PDF, but with line numbers]((https://storage.3.basecamp.com/5156680/blobs/da666334-9e0e-11ec-9a7e-ce416d59e241/download/line_numbers_Code%20of%20Regulations%20Update%20Draft%201.pdf))so that you can refer to specific parts of the document in *basecamp* discussions of the suggested revisions.**
+> **Versions of the suggestion revisions to the Code of Regulations are available on *basecamp*. [One is a PDF containing the suggested revisions](https://storage.3.basecamp.com/5156680/buckets/23361647/uploads/4704607630/download/Code%20of%20Regulations%20Update%20Draft%201.pdf?disposition=attachment). The other is the [same PDF, but with line numbers]((https://storage.3.basecamp.com/5156680/blobs/da666334-9e0e-11ec-9a7e-ce416d59e241/download/line_numbers_Code%20of%20Regulations%20Update%20Draft%201.pdf)) so that you can refer to specific parts of the document in *basecamp* discussions of the suggested revisions.**
 
+> **VR,**\
 > **David Passmore**
 
 ------------------------------------------------------------------------
@@ -66,7 +67,7 @@ All meetings of Unit Owners shall be held at the principal office of Amberson To
 
 (b) Budget Meeting. A meeting of Unit Owners to approve the annual budget shall be held in the month of <span style="color:red">November</span>[^2] ~~December~~ on a date and time as shall be decided by the Council.
 
-[^2]: • Moves budget meeting from December to November (to allow more time before end of fiscal year)
+[^2]: Moves budget meeting from December to November (to allow more time before end of fiscal year)
 
 ### Section 3
 
@@ -108,11 +109,11 @@ The president, or in his absence, the Vice-President, shall preside at all such 
 
 ### Section 7
 
-(a) ~~Votes allocated to a unit may be cast pursuant to a proxy duly executed by a Unit Owner.~~ <span style="color:red">**Votes allocated to a unit may be cast only by a natural person entitled to do so pursuant to Article IV, Section 6, and may not be cast via proxy, unless recognition of proxies is required by law,**</span>[^8] </span style="color:red">**in which case they will be utilized to the most limited extent required by law.**</span> If a unit is owned by more than one person, each owner of the unit may vote or register protest to the casting of votes by the other owners of the unit through a duly executed proxy. All proxies shall be in writing and shall be filed with the Secretary and by him entered of record in the minutes of the meeting.</span>[^9]  style="color:red">**Exercise of any proxy not entered into the minutes of the meeting shall be null and void, and any decision relying upon or influenced by such exercise shall also be null and void.**</span> A Unit Owner may appoint only another Unit Owner, <span style="color:red">**who is a natural person**</span>, as his, her or its proxy.[^10] ~~If the owner of a unit is a corporation, limited liability company, partnership, trust, unincorporated association or other legal entity, the proxy may be issued to a natural person who is a fiduciary, an officer or who has an ownership interest in the legal entity.~~ <span style="color:red">**No Unit Owners of any one unit may hold proxies issued by the owners of more than one other unit.**</span> [^11] If the proxy is issued by a Unit Owner who is a legal entity, the proxy shall be executed by a person duly authorized, accompanied by a notarized Acknowledgment that he/she is authorized to issue a proxy to the person named therein.
+(a) ~~Votes allocated to a unit may be cast pursuant to a proxy duly executed by a Unit Owner.~~ <span style="color:red">**Votes allocated to a unit may be cast only by a natural person entitled to do so pursuant to Article IV, Section 6, and may not be cast via proxy, unless recognition of proxies is required by law,**</span>[^8] </span style="color:red">**in which case they will be utilized to the most limited extent required by law.**</span> If a unit is owned by more than one person, each owner of the unit may vote or register protest to the casting of votes by the other owners of the unit through a duly executed proxy. All proxies shall be in writing and shall be filed with the Secretary and by him entered of record in the minutes of the meeting.</span>[^9]  <style="color:red">**Exercise of any proxy not entered into the minutes of the meeting shall be null and void, and any decision relying upon or influenced by such exercise shall also be null and void.**</span> A Unit Owner may appoint only another Unit Owner, <span style="color:red">**who is a natural person**</span>, as his, her or its proxy.[^10] ~~If the owner of a unit is a corporation, limited liability company, partnership, trust, unincorporated association or other legal entity, the proxy may be issued to a natural person who is a fiduciary, an officer or who has an ownership interest in the legal entity.~~ <span style="color:red">**No Unit Owners of any one unit may hold proxies issued by the owners of more than one other unit.**</span> [^11] If the proxy is issued by a Unit Owner who is a legal entity, the proxy shall be executed by a person duly authorized, accompanied by a notarized Acknowledgment that he/she is authorized to issue a proxy to the person named therein.
 
 (b) All proxies are revocable at will, <span style="color:red">**upon notice to the secretary, prior to distribution of ballots.**</span> ~~However, a Unit Owner may not revoke a proxy given pursuant to this section except by actual notice of revocation to the person presiding over a meeting of the association. A proxy is void if it is not dated or purports to be revocable without notice.~~ A proxy terminates one year after its date unless it specifies a shorter term. Proxies are not transferable and automatically terminate upon the death of, or the sale, transfer or conveyance of the Unit, by the maker of the proxy to another person.[^12]
 
-[^8]: •Restricts use of proxies to that required by law
+[^8]: Restricts use of proxies to that required by law
 
 [^9]: Requires that any proxies which are used be recorded in the minutes (not new, but the only time it was done was May 2021) and stipulates that if proxies are not recorded, the votes are not valid.
 
@@ -124,7 +125,7 @@ The president, or in his absence, the Vice-President, shall preside at all such 
 
 ### Section 8
 
-Either before or after any meeting, a Unit Owner may, in writing, waive notice of such meeting. Such waiver of notice in writing, signed by the peron or persons entitled to such notice, whether before or after the time stated therein, shall be deemed equivalent to the giving of such notice. Except in the case of a special meeting, neither the business to be transacted at, nor the purpose of, the meeting need be specified in the waiver of notice of such meeting.
+Either before or after any meeting, a Unit Owner may, in writing, waive notice of such meeting. Such waiver of notice in writing, signed by the person or persons entitled to such notice, whether before or after the time stated therein, shall be deemed equivalent to the giving of such notice. Except in the case of a special meeting, neither the business to be transacted at, nor the purpose of, the meeting need be specified in the waiver of notice of such meeting.
 
 ### Section 9
 
@@ -142,13 +143,13 @@ The number of Unit Owners having a ~~majority~~ <span style="color:red">**25%**<
 
 ### Section 11
 
-The meetings of owners shall be conducted in accordance with Robert's Rules of Order (latest edition). The purpose of the annual meeting is to receive reports of officers and committees, to elect members of Council, and conduct the transaction of any other business as may be brought before the meeting. The President of the Council/Association or, in his absence, the Vice President, shall act as chairperson and presiding officer at the annual meeting. The order of business at all annual meetings of the Unit Owners shall, unless otherwise determined by ~~the presiding officer or~~ action of the Unit Owners present or represented [^16], be as follows: [^17]
+The meetings of owners shall be conducted in accordance with *Robert's Rules of Order* (latest edition). The purpose of the annual meeting is to receive reports of officers and committees, to elect members of Council, and conduct the transaction of any other business as may be brought before the meeting. The President of the Council/Association or, in his absence, the Vice President, shall act as chairperson and presiding officer at the annual meeting. The order of business at all annual meetings of the Unit Owners shall, unless otherwise determined by ~~the presiding officer or~~ action of the Unit Owners present or represented [^16], be as follows: [^17]
 
 [^16]: • Eliminates the possibility of the presiding officer changing the order of business without approval of the owners in attendance.
 
-[^17]: • Changes the order of business at annual and budget meetings to include substantive business.
+[^17]: • Changes the order of business at annual and budget meetings to include substantive business.\
 
--   Roll call;
+-   Roll call;\
 -   Proof of notice of meeting or waiver of notice;\
 -   ~~Reading of minutes of preceding meeting;~~\
 -   Report of officers;\
@@ -198,7 +199,7 @@ Any one or more of the Council members may be removed with or without cause by v
 
 ### Section 6
 
-~~No person shall receive any compensation for acting as a Council memeber but may receive compensation for services rendered to or for Amberson Towers in any other capacity.~~ 
+~~No person shall receive any compensation for acting as a Council member but may receive compensation for services rendered to or for Amberson Towers in any other capacity.~~ 
 
 <span style="color:red">**No member of Council shall receive monetary or other compensation from the Association during their term in office.**</span>[^23]
 
@@ -260,7 +261,7 @@ If all the Council members shall severally or collectively consent, in writing, 
 
 ### Section 1~~7~~<span style="color:red">6</span>
 
-The Council shall have the following powers and duties in addition to those vested in it under the law, the Declaration and this Code of Regulations:
+^[Section renumbered]The Council shall have the following powers and duties in addition to those vested in it under the law, the Declaration and this Code of Regulations:
 
 (a) The maintenance, repair and replacement of the common elements;\
 (b) The assessment and collection of funds from the Unit Owners for common expenses and the payment of such common expenses;\
@@ -329,7 +330,7 @@ The Council shall pro-rate all costs involved in Section 1 above, among all the 
 
 The total amount of the charges required for each calendar year shall be estimated by the Council at least one (1) month prior to the beginning of each calendar year. Such estimate may include an amount for unanticipated or under-estimated costs, charges and expenses and deficits incurred in any prior year or years, and may further include amounts to be accumulated in any reserve funds for expenditures which may be required in future years for other than ordinary current maintenance, repairs, costs and expenses. The first such charge may be estimated and made for less than a full year, and in such event the Maintenance Charge for such period shall be payable in equal monthly installments for the remainder of such calendar year, beginning on the first day of the month immediately following the determination of such estimate by the Council. Thereafter, each annual Maintenance Charge shall be payable in twelve (12) equal monthly installments beginning on the first day of January of each calendar year.
 
-The annual budget shall be sent to Unit Owners at least ten (10) days prior to the annual budget meeting, at which time the budget shall be approved in the same manner as other business brought before the meeting. After the annual budget has been approved by the required vote, the Council shall cause a statement to be sent to each Unit Owner; which statement shall reflect the total amount of the annual maintenance budget thus approved, the common element percentage obligation therefor attaching to each respective unit and the corresponding monthly payments to be made by each Unit Owner. Each Unit Owner shall then be required to make his respective Monthly Maintenance Payment to the Council or its designee without further billing or request therefor. Any charge assessed against a unit may be enforced by suit by the Council acting on behalf of the unit owners in an action in assumpsit; provided, that each suit when files shall refer to the Unit Property Act, Act of July 3, 1963, P.L. 196, and to the unit against which the assessment is made and the owner thereof and shall be indexed by the prothonotary as lis pendens. Any judgment against a unit and its owners shall be enforceable in the same manner as is otherwise provided by law.
+The annual budget shall be sent to Unit Owners at least ten (10) days prior to the annual budget meeting, at which time the budget shall be approved in the same manner as other business brought before the meeting. After the annual budget has been approved by the required vote, the Council shall cause a statement to be sent to each Unit Owner; which statement shall reflect the total amount of the annual maintenance budget thus approved, the common element percentage obligation therefor attaching to each respective unit and the corresponding monthly payments to be made by each Unit Owner. Each Unit Owner shall then be required to make his respective Monthly Maintenance Payment to the Council or its designee without further billing or request therefor. Any charge assessed against a unit may be enforced by suit by the Council acting on behalf of the unit owners in an action in assumpsit^[Is this a typo?]; provided, that each suit when files shall refer to the Unit Property Act, Act of July 3, 1963, P.L. 196, and to the unit against which the assessment is made and the owner thereof and shall be indexed by the prothonotary as lis pendens^[Is this a legal term or incorrect spelling?]. Any judgment against a unit and its owners shall be enforceable in the same manner as is otherwise provided by law.
 
 Until the Council shall otherwise determine, the monthly charges to be paid by each Unit Owner shall be in accordance with the budget attached.
 
@@ -355,7 +356,7 @@ From the funds appropriated under and pursuant to the Annual Budget and paid to 
 
 (b) A policy or policies of insurance insuring the Council and all of the Unit Owners against any liability to the public or to the Unit Owners, their invitees, guests, and tenants, incident to the ownership and use of the common elements and the units; the liability under such policies shall be not less than One Million (\$1,000,000) Dollars for any one accident, and One Hundred Thousand (\$100,000) Dollars for property damage, and such policy limits shall be reviewed at least every three (3) years by the Council and may be increased in its discretion. Said policy to cover acts of Council and officers.
 
-(c) A policy of Workmen's Compensation Insurance to the extent necessary to comply with applicable laws.
+(c) A policy of Workman's Compensation Insurance to the extent necessary to comply with applicable laws.
 
 ### Section 8
 
@@ -365,7 +366,7 @@ The holder of a first mortgage or any unit shall be entitled to give written not
 
 ### Section 1: Sale or Lease by Unit Owner
 
-Any owner who wishes to sell ~~, lease, or rent~~ his unit shall, at least seven thirty (730) days prior to accepting any offer to sell, lease or rent, give Council written notice of the terms of such offer, which notice shall specify the name and address of the offeror. If, within the said <span style="color:red">**seven**</span> ~~thirty~~ (<span style="color:red">**7**</span>~~30~~) day period, [^32] time being of the essence, Council or its nominee submits to the owner an identical or more favorable offer to sell, lease, or rent, the selling owner must accept the offer of said Council in preference to the original offer described in the notice. In the event Council fails to submit in writing to the selling owner an identical or more favorable offer within <span style="color:red">**seven**</span> ~~thirty~~ (<span style="color:red">**7**</span>~~30~~) days of receipt of notice of the selling owner's offer, time being of the essence, then the selling owner may sell his apartment to his original offeror. In any event, Council, shall have sole discretion in this matter and no vote or approval of the Unit Owners is required. Any holder of a mortgage which comes into possession of a unit pursuant to the remedies provided in the mortgage or any purchaser at a sheriff sale of the unit or any mortgages, or its designee, who accepts a deed for the unit in lieu of foreclosure shall be exempt from the provision of this section.
+Any owner who wishes to sell ~~, lease, or rent~~ his unit shall, at least (<span style="color:red">seven</span> ~~thirty~~ ((<span style="color:red">7</span> ~~30~~) days prior to accepting any offer to sell, lease or rent, give Council written notice of the terms of such offer, which notice shall specify the name and address of the offeror. If, within the said <span style="color:red">**seven**</span> ~~thirty~~ (<span style="color:red">**7**</span>~~30~~) day period, [^32] time being of the essence, Council or its nominee submits to the owner an identical or more favorable offer to sell, lease, or rent, the selling owner must accept the offer of said Council in preference to the original offer described in the notice. In the event Council fails to submit in writing to the selling owner an identical or more favorable offer within <span style="color:red">**seven**</span> ~~thirty~~ (<span style="color:red">**7**</span>~~30~~) days of receipt of notice of the selling owner's offer, time being of the essence, then the selling owner may sell his apartment to his original offeror. In any event, Council, shall have sole discretion in this matter and no vote or approval of the Unit Owners is required. Any holder of a mortgage which comes into possession of a unit pursuant to the remedies provided in the mortgage or any purchaser at a sheriff sale of the unit or any mortgages, or its designee, who accepts a deed for the unit in lieu of foreclosure shall be exempt from the provision of this section.
 
 [^32]: Reduced time Council has for right of first refusal of sale from 30 to 7 days.
 
@@ -469,11 +470,11 @@ While all adjacent and connecting terraces or patios at ground level and above c
 
 ### Section 3: Amendments Limited to Single Topics
 
-<span style="color:red">**Each proposed Amendment shall pertain to a single topic, or to closely related topics which are contingent upon each other, where separate consideration would be infeasible.**</span>
+<span style="color:red">**Each proposed Amendment shall pertain to a single topic, or to closely related topics which are contingent upon each other, where separate consideration would be unfeasible.**</span>
 
 ### Section 4: Public Comment
 
-<span style="color:red">**Proposals shall be distributed to Unit Owners by electronic means or, upon request of individual Unit Owners, by paper copy delivered to their unit, or via postal mail. Council shall establish an electronic mechanism by which Unit Owners may comment upon and discuss proposed amendments, for a public comment period of no less than 30 (thirty) days. Unit Owners will also have the option of submitting comments on paper, which will be added to and made visible to participants in the electronic forum. During the public comment period, Council, for a proposal made by Council, or the Unit Owners, for a proposal madel by petition, may revise their proposal in a manner consistent with comments received. Revisions of proposals made by Council shall require a majority vote of Council. Revisions of proposals made by petition of Unit Owners must be signed by Unit Owners entitled to vote 10% of voting shares, who were also signatories to the original proposal.**</span>
+<span style="color:red">**Proposals shall be distributed to Unit Owners by electronic means or, upon request of individual Unit Owners, by paper copy delivered to their unit, or via postal mail. Council shall establish an electronic mechanism by which Unit Owners may comment upon and discuss proposed amendments, for a public comment period of no less than 30 (thirty) days. Unit Owners will also have the option of submitting comments on paper, which will be added to and made visible to participants in the electronic forum. During the public comment period, Council, for a proposal made by Council, or the Unit Owners, for a proposal made by petition, may revise their proposal in a manner consistent with comments received. Revisions of proposals made by Council shall require a majority vote of Council. Revisions of proposals made by petition of Unit Owners must be signed by Unit Owners entitled to vote 10% of voting shares, who were also signatories to the original proposal.**</span>
 
 ### Section 5: Procedure for Consideration
 
@@ -538,7 +539,7 @@ Council <span style="color:red">**shall**</span> ~~may~~ establish a system for 
 
 [^40]: Requires Council to apply alternative dispute resolution process to itself (already the case, but would be required in the Bylaws)
 
-## ARTICLE XIX: <span style="color:red">**Open Meetings and Meeting Records**</span>
+## <span style="color:red">ARTICLE XIX: **Open Meetings and Meeting Records**</span>
 
 ### <span style="color:red">**Section 1: Open Meetings**</span>
 
