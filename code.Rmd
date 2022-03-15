@@ -3,7 +3,7 @@ title: "Annotated Draft of Code of Regulations"
 runningheader: "Annotated Draft of Code of Regulations" # only for pdf output
 subtitle: "Amberson Towers Condominium Association" # only for html output
 author: "Governance Committee of the Council for the Association"
-date: "6 March 2022; feedback added on 15 March 2022"
+date: "`r Sys.Date()`"
 output:
   tufte::tufte_html: default
   tufte::tufte_handout:
@@ -22,11 +22,15 @@ options(htmltools.dir.version = FALSE)
 
 ------------------------------------------------------------------------
 
-> This document contains a copy of [*Code of Regulations Update Draft 1.pdf*](https://public.3.basecamp.com/p/pd5YvrL6Y81Lf8L1qxhZAPnG) posted by Gil Citro to *basecamp* on 6 March 2022. Gil, also provides with his posting several helpful summaries of the suggested revisions to the Code of Regulations. 
+> This document contains a copy of [*Code of Regulations Update Draft 1.pdf*](https://public.3.basecamp.com/p/pd5YvrL6Y81Lf8L1qxhZAPnG) posted by Gil Citro to *basecamp* on 6 March 2022. Gil, also provides with his posting several helpful summaries of the suggested revisions to the Code of Regulations.
 
->  In the right margin of this current I annotated the draft copy with the *Notes* Gil entered on basecamp along with the draft code. Text that is <span style="color:red">colored red is a suggested addition</span> to the Code of Regulations. Text that is struck through like this --> ~~blah blah blah~~ <-- is a suggested deletion from the Code of Regulations.^[Some explanations, queries, and notes are footnoted on the right margin *just like this*. As we accumulate your comments and suggestions, we will code them into the right margin, also, <span style="color:green">as shown in the next footnote.</span>] Comments, suggestions, and clarifications made by reviewers will appear in the right margin in <span style="color:green">green-colored text.^[Reviewers' comments will look like this.]</span>
+> In the right margin of this current I annotated the draft copy with the *Notes* Gil entered on basecamp along with the draft code. Text that is [colored red is a suggested addition]{style="color:red"} to the Code of Regulations. Text that is struck through like this --\> ~~blah blah blah~~ \<-- is a suggested deletion from the Code of Regulations.[^1] Comments, suggestions, and clarifications made by reviewers will appear in the right margin in [green-colored text.]{style="color:green"}[^2]
 
-> Versions of the suggestion revisions to the Code of Regulations are available on *basecamp*. [One is a PDF containing the suggested revisions](https://storage.3.basecamp.com/5156680/buckets/23361647/uploads/4704607630/download/Code%20of%20Regulations%20Update%20Draft%201.pdf?disposition=attachment). The other is the [same PDF, but with line numbers](https://storage.3.basecamp.com/5156680/blobs/df617cc8-9e15-11ec-9e8b-d6d3907c63d6/download/Code%20of%20Regulations%20Update%20Draft%201.pdf?attachment=true) so that you can refer to specific parts of the document in *basecamp* discussions of the suggested revisions. Currently approved Amberson *Rules and Regulations*, *Declaration*, and *Code of Regulations* are accessible in a single, integrated web site at [https://amberson-towers.github.io/rdocuments/](https://amberson-towers.github.io/rdocuments/). 
+[^1]: Some explanations, queries, and notes are footnoted on the right margin *just like this*. As we accumulate your comments and suggestions, we will code them into the right margin, also, [as shown in the next footnote.]{style="color:green"}
+
+[^2]: [Reviewers' comments will look like this.]{style="color:green"}
+
+> Versions of the suggestion revisions to the Code of Regulations are available on *basecamp*. [One is a PDF containing the suggested revisions](https://storage.3.basecamp.com/5156680/buckets/23361647/uploads/4704607630/download/Code%20of%20Regulations%20Update%20Draft%201.pdf?disposition=attachment). The other is the [same PDF, but with line numbers](https://storage.3.basecamp.com/5156680/blobs/df617cc8-9e15-11ec-9e8b-d6d3907c63d6/download/Code%20of%20Regulations%20Update%20Draft%201.pdf?attachment=true) so that you can refer to specific parts of the document in *basecamp* discussions of the suggested revisions. Currently approved Amberson *Rules and Regulations*, *Declaration*, and *Code of Regulations* are accessible in a single, integrated web site at <https://amberson-towers.github.io/rdocuments/>.
 
 > VR,\
 > David Passmore
@@ -57,30 +61,31 @@ The registered office of Amberson Towers shall be 5 Bayard Road, Pittsburgh, Pen
 
 ### Section 1
 
-All meetings of Unit Owners shall be held at the principal office of Amberson Towers or at such other place within the County of Allegheny, Pennsylvania, as the Council shall determine from time to time, or by electronic means.[^1]
+All meetings of Unit Owners shall be held at the principal office of Amberson Towers or at such other place within the County of Allegheny, Pennsylvania, as the Council shall determine from time to time, or by electronic means.[^3]
 
-[^1]: Allows for online Council meetings; see, also, 
-Article V, Section 9.
+[^3]: Allows for online Council meetings; see, also, Article V, Section 9.
 
 ### Section 2
 
 (a) Annual Meeting. The annual meeting of the Unit Owners shall be held in the month of May in each year on a date and time as shall be decided by the Council. At such meeting, the Unit Owners shall elect the Council and transact such other business as may come before the meeting.
 
-(b) Budget Meeting. A meeting of Unit Owners to approve the annual budget shall be held in the month of <span style="color:red">November</span>[^2] ~~December~~ on a date and time as shall be decided by the Council.
+(b) Budget Meeting. A meeting of Unit Owners to approve the annual budget shall be held in the month of [November]{style="color:red"}[^4] ~~December~~ on a date and time as shall be decided by the Council.
 
-[^2]: Moves budget meeting from December to November (to allow more time before end of fiscal year).
+[^4]: Moves budget meeting from December to November (to allow more time before end of fiscal year).
 
 ### Section 3
 
-Special meetings of the Unit Owners may be called at any time after the annual meeting of the Unit Owners in 1979, for any purpose or purposes by the President, or by a majority of the Council or by not less than <span style="color:red">ten</span> ~~twenty~~ percent[^3] (<span style="color:red">10%</span> ~~20%~~) of all of the then Unit Owners entitled to vote at the meeting called. At any time upon written request of any person or persons entitled to call a special meeting, it shall be the duty of the Secretary to call the meeting of the Unit Owners entitled to vote therat, but no less than ten (10) nor more than fifteen (15) days after the receipt of the request. If the Secretary shall neglect or refuse to issue such call, the person or persons making the request may do so. All requests for special meetings shall be in writing and shall specify the purpose or purposes thereof. The business to be transacted at all special meetings shall be limited to the purpose or purposes set forth in the notice thereof and matters germane thereto.
+Special meetings of the Unit Owners may be called at any time after the annual meeting of the Unit Owners in 1979, for any purpose or purposes by the President, or by a majority of the Council or by not less than [ten]{style="color:red"} ~~twenty~~ percent[^5] ([10%]{style="color:red"} ~~20%~~) of all of the then Unit Owners entitled to vote at the meeting called. At any time upon written request of any person or persons entitled to call a special meeting, it shall be the duty of the Secretary to call the meeting of the Unit Owners entitled to vote therat, but no less than ten (10) nor more than fifteen (15) days after the receipt of the request. If the Secretary shall neglect or refuse to issue such call, the person or persons making the request may do so. All requests for special meetings shall be in writing and shall specify the purpose or purposes thereof. The business to be transacted at all special meetings shall be limited to the purpose or purposes set forth in the notice thereof and matters germane thereto.
 
-[^3]:  Reduces threshold for owners to call a special meeting from 20% to 10%.
+[^5]: Reduces threshold for owners to call a special meeting from 20% to 10%.
 
 ### Section 4
 
-Written notice of each meeting of the Unit Owners shall be given by or at the direction of the Secretary or other person authorized to call the meeting, by mailing a copy of such notice, postage prepaid, at least ten (10) days before such meeting to each Unit Owner entitled to vote thereat, addressed to the Unit Owner's address last appearing on the books of the Council or supplied by such Unit Owner to the Council for the purpose of notice. Such notice shall specify the place, day and hour of the meeting, and, in the case of a special meeting, the purpose of meeting. <span style="color:red">**Such notice shall be accompanied by a ballot through which each Unit Owner may vote on all questions to be decided by the meeting, whether or not they attend the meeting.**</span> If the said Unit Owner is a resident of Amberson Towers, it is sufficient compliance with this section to place the said notice [**and ballot**]{style="color:red"} in their mail box<span style="color:green">^[*From Dona* - **It is illegal to put anything other than mail in a mailbox.** Therefore, it is illegal for a non-postal employee to place something in someone's mailbox.]</span> or deliver it to their Unit. <span style="color:red">**If the said Unit Owner has consented to receive notification via electronic means, it is sufficient compliance with this section to deliver the notice via such means, and to deliver a ballot electronically immediately upon conclusion of the meeting.**</span>[^4]
+Written notice of each meeting of the Unit Owners shall be given by or at the direction of the Secretary or other person authorized to call the meeting, by mailing a copy of such notice, postage prepaid, at least ten (10) days before such meeting to each Unit Owner entitled to vote thereat, addressed to the Unit Owner's address last appearing on the books of the Council or supplied by such Unit Owner to the Council for the purpose of notice. Such notice shall specify the place, day and hour of the meeting, and, in the case of a special meeting, the purpose of meeting. [**Such notice shall be accompanied by a ballot through which each Unit Owner may vote on all questions to be decided by the meeting, whether or not they attend the meeting.**]{style="color:red"} If the said Unit Owner is a resident of Amberson Towers, it is sufficient compliance with this section to place the said notice [**and ballot**]{style="color:red"} in their mail box[^6] or deliver it to their Unit. [**If the said Unit Owner has consented to receive notification via electronic means, it is sufficient compliance with this section to deliver the notice via such means, and to deliver a ballot electronically immediately upon conclusion of the meeting.**]{style="color:red"}[^7]
 
-[^4]: Establishes voting subsequent to meetings, via paper and/or electronic voting, as we have been doing for the last 3 elections.
+[^6]: [*From Dona, 13 March 2022* - **It is illegal to put anything other than mail in a mailbox.** Therefore, it is illegal for a non-postal employee to place something in someone's mailbox.]{style="color:green"}
+
+[^7]: Establishes voting subsequent to meetings, via paper and/or electronic voting, as we have been doing for the last 3 elections.
 
 ### Section 5
 
@@ -88,50 +93,37 @@ The president, or in his absence, the Vice-President, shall preside at all such 
 
 ### Section 6
 
-(a) <span style="color:red">**Prior to the annual meeting and budget meeting, questions to be decided by the meeting shall be placed on the agenda pursuant to a vote of a majority of Council or petition by at least six</span>[^5] <span style="color:red">Unit Owners holding ownership shares in at least six (6) different units. Petitions from owners must be submitted in writing to the Secretary no later than April 1 for consideration at the annual meeting or October 1 for consideration at the budget meeting. Upon receipt, petitions shall be distributed to the owners for comment and discussion. Council may recommend, but not require, that owners amend their petitions for clarity and/or consistency. Amended petitions must be submitted prior to the announcement of the meeting, for inclusion on the ballot.**
+(a) [**Prior to the annual meeting and budget meeting, questions to be decided by the meeting shall be placed on the agenda pursuant to a vote of a majority of Council or petition by at least six**]{style="color:red"}[^8] <span style="color:red">Unit Owners holding ownership shares in at least six (6) different units. Petitions from owners must be submitted in writing to the Secretary no later than April 1 for consideration at the annual meeting or October 1 for consideration at the budget meeting. Upon receipt, petitions shall be distributed to the owners for comment and discussion. Council may recommend, but not require, that owners amend their petitions for clarity and/or consistency. Amended petitions must be submitted prior to the announcement of the meeting, for inclusion on the ballot.
 
-(b) ~~At every meeting of the Unit Owners, each~~ <span style="color:red">**Each**</span> Unit Owner --present , in person or by proxy, and entitled to vote thereat,-- shall have the right to cast the number of shares set forth opposite his Unit number in the <span style="color:red">**Declaration**</span> ~~Schedule A~~. ~~The vote of fifty-one (51) percent of the number of votes represented and entitled to vote at such meeting shall decide any question brought before such meeting,~~ <span style="color:red">**Voting shall take place subsequent to the meeting, via paper and/or electronic ballot, and shall remain open for 14 days.</span><span style="color:green">^[*from Dona* - is 14 days excessive for return of ballot?  Shorter time limit means the issue won’t be “put aside till later.”]</span> Approval of any questions brought before such meeting shall require an affirmative vote of both a majority of shares voting and of 25% of total shares,**</span>[^6] unless the question is one upon
-which, by express provision or statute or of the Declaration or of this Code of Regulations, a different
-vote is required, in which case, such express provisions shall govern and control.
+(b) ~~At every meeting of the Unit Owners, each~~ [**Each**]{style="color:red"} Unit Owner --present , in person or by proxy, and entitled to vote thereat,-- shall have the right to cast the number of shares set forth opposite his Unit number in the [**Declaration**]{style="color:red"} ~~Schedule A~~. ~~The vote of fifty-one (51) percent of the number of votes represented and entitled to vote at such meeting shall decide any question brought before such meeting,~~ [**Voting shall take place subsequent to the meeting, via paper and/or electronic ballot, and shall remain open for 14 days.**</span>]{style="color:red"}[^9] Approval of any questions brought before such meeting shall require an affirmative vote of both a majority of shares voting and of 25% of total shares,[^10] unless the question is one upon which, by express provision or statute or of the Declaration or of this Code of Regulations, a different vote is required, in which case, such express provisions shall govern and control.
 
-(c) If the owner of a unit is a corporation, limited liability company, partnership, trust, unincorporated association or other legal entity, the natural person who shall be entitled to cast the vote for such unit shall be the person named in a certificate executed by such entity pursuant to its governing documents. If the owner of a unit is a trust, the trustee or trustees shall be deemed to be the owner for the voting purposes. Where the ownership of a unit is in more than one person, the natural person who shall be entitled to cast the vote of such unit shall be the person named in a certificate executed by all of the owners of such unit and filed with the secretary. ~~or, in the absence of such named person from the or the failure to
-    execute and file such a certificate, the person who shall be entitled to cast
-    the vote of such unit shall be the
-    person owning such unit who is present. If more than one of the multiple owners are present, the votes allocated to that
-    unit may be cast only in accordance with their unanimous agreement. There shall be
-    deemed to be unanimous agreement if any one of the multiple owners casts~~ ~~the votes allocated to that unit without protest
-    being made promptly
-    to the person presiding over the meeting by any of the other
-    owners of the unit.~~ <span style="color:red">**Such certificate may also be executed by any of the unit owners individually, if accompanied by an attestation that all the unit owners are in agreement, and shall be assumed to be valid if none of the other unit owners protest. Such certificate may be filed electronically, if digitally signed**</span>.[^7] Such certificate shall be valid until revoked
-by a subsequent certificate similarly executed. Subject to the provisions of the Declaration and Code of
-Regulations, wherever the approval or disapproval of a Unit Owner is required, such approval or
-disapproval shall be made only by the person who would be entitled to cast the vote of such unit at any
-meeting of the Association.
+(c) If the owner of a unit is a corporation, limited liability company, partnership, trust, unincorporated association or other legal entity, the natural person who shall be entitled to cast the vote for such unit shall be the person named in a certificate executed by such entity pursuant to its governing documents. If the owner of a unit is a trust, the trustee or trustees shall be deemed to be the owner for the voting purposes. Where the ownership of a unit is in more than one person, the natural person who shall be entitled to cast the vote of such unit shall be the person named in a certificate executed by all of the owners of such unit and filed with the secretary. ~~or, in the absence of such named person from the or the failure to execute and file such a certificate, the person who shall be entitled to cast the vote of such unit shall be the person owning such unit who is present. If more than one of the multiple owners are present, the votes allocated to that unit may be cast only in accordance with their unanimous agreement. There shall be deemed to be unanimous agreement if any one of the multiple owners casts~~ ~~the votes allocated to that unit without protest being made promptly to the person presiding over the meeting by any of the other owners of the unit.~~ [**Such certificate may also be executed by any of the unit owners individually, if accompanied by an attestation that all the unit owners are in agreement, and shall be assumed to be valid if none of the other unit owners protest. Such certificate may be filed electronically, if digitally signed**]{style="color:red"}.[^11] Such certificate shall be valid until revoked by a subsequent certificate similarly executed. Subject to the provisions of the Declaration and Code of Regulations, wherever the approval or disapproval of a Unit Owner is required, such approval or disapproval shall be made only by the person who would be entitled to cast the vote of such unit at any meeting of the Association.
 
-[^5]: Establishes a mechanism for referenda initiated by at least six owners, for inclusion on the ballot of the next meeting.
+[^8]: Establishes a mechanism for referenda initiated by at least six owners, for inclusion on the ballot of the next meeting.
 
-[^6]: Establishes an affirmative quorum of 25% of total ownership shares for passage of any question.
+[^9]: [*from Dona, 13 March 2022* - is 14 days excessive for return of ballot? Shorter time limit means the issue won't be "put aside till later."]{style="color:green"}
 
-[^7]: Requires that owners submit a certificate to indicate how they want to vote, and who will vote for units with multiple owners, or institutional owners.
+[^10]: Establishes an affirmative quorum of 25% of total ownership shares for passage of any question.
+
+[^11]: Requires that owners submit a certificate to indicate how they want to vote, and who will vote for units with multiple owners, or institutional owners.
 
 ### Section 7
 
-(a) ~~Votes allocated to a unit may be cast pursuant to a proxy duly executed by a Unit Owner.~~ <span style="color:red">**Votes allocated to a unit may be cast only by a natural person entitled to do so pursuant to Article IV, Section 6, and may not be cast via proxy, unless recognition of proxies is required by law,**</span>[^8] </span style="color:red">**in which case they will be utilized to the most limited extent required by law.**</span><span style="color:green">^[*from Dona* - You can allow proxies solely for the purpose of reaching quorum which seems to be an issue.  The owner could still vote on questions or participate in the elections via email.
-https://www.camsmgt.com/blog/making-meetings-count-how-to-reach-a-quorum-through-proxies
-unless recognition of proxies is required by law-- I think we need to check with a lawyer and see if this is required in PA.  If not, then take out this statement.
-]</span> If a unit is owned by more than one person, each owner of the unit may vote or register protest to the casting of votes by the other owners of the unit through a duly executed proxy. All proxies shall be in writing and shall be filed with the Secretary and by him entered of record in the minutes of the meeting.</span>[^9]  <span style="color:red">**Exercise of any proxy not entered into the minutes of the meeting shall be null and void, and any decision relying upon or influenced by such exercise shall also be null and void.**</span> A Unit Owner may appoint only another Unit Owner, <span style="color:red">**who is a natural person**</span>, as his, her or its proxy.[^10] ~~If the owner of a unit is a corporation, limited liability company, partnership, trust, unincorporated association or other legal entity, the proxy may be issued to a natural person who is a fiduciary, an officer or who has an ownership interest in the legal entity.~~ <span style="color:red">**No Unit Owners of any one unit may hold proxies issued by the owners of more than one other unit.**</span>[^11] If the proxy is issued by a Unit Owner who is a legal entity, the proxy shall be executed by a person duly authorized, accompanied by a notarized Acknowledgment that he/she is authorized to issue a proxy to the person named therein.
+(a) ~~Votes allocated to a unit may be cast pursuant to a proxy duly executed by a Unit Owner.~~ [**Votes allocated to a unit may be cast only by a natural person entitled to do so pursuant to Article IV, Section 6, and may not be cast via proxy, unless recognition of proxies is required by law,**]{style="color:red"}[^12] </span style="color:red">**in which case they will be utilized to the most limited extent required by law.**</span>[^13] If a unit is owned by more than one person, each owner of the unit may vote or register protest to the casting of votes by the other owners of the unit through a duly executed proxy. All proxies shall be in writing and shall be filed with the Secretary and by him entered of record in the minutes of the meeting.</span>[^14] [**Exercise of any proxy not entered into the minutes of the meeting shall be null and void, and any decision relying upon or influenced by such exercise shall also be null and void.**]{style="color:red"} A Unit Owner may appoint only another Unit Owner, [**who is a natural person**]{style="color:red"}, as his, her or its proxy.[^15] ~~If the owner of a unit is a corporation, limited liability company, partnership, trust, unincorporated association or other legal entity, the proxy may be issued to a natural person who is a fiduciary, an officer or who has an ownership interest in the legal entity.~~ [**No Unit Owners of any one unit may hold proxies issued by the owners of more than one other unit.**]{style="color:red"}[^16] If the proxy is issued by a Unit Owner who is a legal entity, the proxy shall be executed by a person duly authorized, accompanied by a notarized Acknowledgment that he/she is authorized to issue a proxy to the person named therein.
 
-(b) All proxies are revocable at will, <span style="color:red">**upon notice to the secretary, prior to distribution of ballots.**</span>[^12] ~~However, a Unit Owner may not revoke a proxy given pursuant to this section except by actual notice of revocation to the person presiding over a meeting of the association. A proxy is void if it is not dated or purports to be revocable without notice.~~ A proxy terminates one year after its date unless it specifies a shorter term. Proxies are not transferable and automatically terminate upon the death of, or the sale, transfer or conveyance of the Unit, by the maker of the proxy to another person.
+(b) All proxies are revocable at will, [**upon notice to the secretary, prior to distribution of ballots.**]{style="color:red"}[^17] ~~However, a Unit Owner may not revoke a proxy given pursuant to this section except by actual notice of revocation to the person presiding over a meeting of the association. A proxy is void if it is not dated or purports to be revocable without notice.~~ A proxy terminates one year after its date unless it specifies a shorter term. Proxies are not transferable and automatically terminate upon the death of, or the sale, transfer or conveyance of the Unit, by the maker of the proxy to another person.
 
-[^8]: Restricts use of proxies to that required by law.
+[^12]: Restricts use of proxies to that required by law.
 
-[^9]: Requires that any proxies which are used be recorded in the minutes (not new, but the only time it was done was May 2021) and stipulates that if proxies are not recorded, the votes are not valid.
+[^13]: [*from Dona, 13 March 2022* - You can allow proxies solely for the purpose of reaching quorum which seems to be an issue. The owner could still vote on questions or participate in the elections via email. <https://www.camsmgt.com/blog/making-meetings-count-how-to-reach-a-quorum-through-proxies> unless recognition of proxies is required by law-- I think we need to check with a lawyer and see if this is required in PA. If not, then take out this statement.]{style="color:green"}
 
-[^10]: Stipulates that proxies, if they are used at all, must be assigned to owners who are natural persons, not institutional owners.
+[^14]: Requires that any proxies which are used be recorded in the minutes (not new, but the only time it was done was May 2021) and stipulates that if proxies are not recorded, the votes are not valid.
 
-[^11]: Limits each unit to holding proxies for at most one other unit.
+[^15]: Stipulates that proxies, if they are used at all, must be assigned to owners who are natural persons, not institutional owners.
 
-[^12]: Makes it easier to revoke proxies by notice to the Secretary before ballots are distributed, rather than requiring notice in person at a meeting.
+[^16]: Limits each unit to holding proxies for at most one other unit.
+
+[^17]: Makes it easier to revoke proxies by notice to the Secretary before ballots are distributed, rather than requiring notice in person at a meeting.
 
 ### Section 8
 
@@ -139,49 +131,49 @@ Either before or after any meeting, a Unit Owner may, in writing, waive notice o
 
 ### Section 9
 
-Attendance of a Unit Owner, ~~either in person or by proxy,~~ at any meeting, or participation in voting subsequent to the meeting, shall constitute a waiver of notice of such meeting, except where a Unit Owner attend a meeting for the express purpose of objecting to the transaction of any business because the meeting was not lawfully called or convened.[^13]
+Attendance of a Unit Owner, ~~either in person or by proxy,~~ at any meeting, or participation in voting subsequent to the meeting, shall constitute a waiver of notice of such meeting, except where a Unit Owner attend a meeting for the express purpose of objecting to the transaction of any business because the meeting was not lawfully called or convened.[^18]
 
-[^13]: Allows for online Council meetings
+[^18]: Allows for online Council meetings
 
 ### Section 10
 
-The number of Unit Owners having a ~~majority~~ <span style="color:red">**25%**</span> of voting rights entitled to vote at any meeting,[^14] ~~present or by proxy,~~ shall constitute a quorum for the transaction of business. ~~If, however, such majority shall not be present or represented at any meeting, the Unit Owners entitled to vote thereat, present or by proxy, shall have power to adjourn the meeting from time to time, without notice other than announcement of such meeting, until 20% of the votes in the Association shall be present or represented by proxy at the beginning of the adjourned meeting, any business may be transacted at the meeting as originally called.~~[^15]
+The number of Unit Owners having a ~~majority~~ [**25%**]{style="color:red"} of voting rights entitled to vote at any meeting,[^19] ~~present or by proxy,~~ shall constitute a quorum for the transaction of business. ~~If, however, such majority shall not be present or represented at any meeting, the Unit Owners entitled to vote thereat, present or by proxy, shall have power to adjourn the meeting from time to time, without notice other than announcement of such meeting, until 20% of the votes in the Association shall be present or represented by proxy at the beginning of the adjourned meeting, any business may be transacted at the meeting as originally called.~~[^20]
 
-[^14]: Increases quorum requirement for meeting from 20% to 25%, which is the minimum required to pass anything, if we adopt the affirmative quorum.
+[^19]: Increases quorum requirement for meeting from 20% to 25%, which is the minimum required to pass anything, if we adopt the affirmative quorum.
 
-[^15]: Eliminates the possibility of adjourning a meeting and continuing to act as if the meeting was still in session. This has been abused, with meetings "adjourned" for months.
+[^20]: Eliminates the possibility of adjourning a meeting and continuing to act as if the meeting was still in session. This has been abused, with meetings "adjourned" for months.
 
 ### Section 11
 
-The meetings of owners shall be conducted in accordance with *Robert's Rules of Order* (latest edition). The purpose of the annual meeting is to receive reports of officers and committees, to elect members of Council, and conduct the transaction of any other business as may be brought before the meeting. The President of the Council/Association or, in his absence, the Vice President, shall act as chairperson and presiding officer at the annual meeting. The order of business at all annual meetings of the Unit Owners shall, unless otherwise determined by ~~the presiding officer or~~ action of the Unit Owners present[^16] ~~or represented~~ be as follows: [^17]
+The meetings of owners shall be conducted in accordance with *Robert's Rules of Order* (latest edition). The purpose of the annual meeting is to receive reports of officers and committees, to elect members of Council, and conduct the transaction of any other business as may be brought before the meeting. The President of the Council/Association or, in his absence, the Vice President, shall act as chairperson and presiding officer at the annual meeting. The order of business at all annual meetings of the Unit Owners shall, unless otherwise determined by ~~the presiding officer or~~ action of the Unit Owners present[^21] ~~or represented~~ be as follows: [^22]
 
-[^16]: Eliminates the possibility of the presiding officer changing the order of business without approval of the owners in attendance.
+[^21]: Eliminates the possibility of the presiding officer changing the order of business without approval of the owners in attendance.
 
-[^17]: Changes the order of business at annual and budget meetings to include substantive business.\
+[^22]: Changes the order of business at annual and budget meetings to include substantive business.\
 
 -   Roll call;\
 -   Proof of notice of meeting or waiver of notice;\
 -   ~~Reading of minutes of preceding meeting;~~\
 -   Report of officers;\
 -   Reports of committees;\
--   <span style="color:red">Report of property manager;</span>\
+-   [Report of property manager;]{style="color:red"}\
 -   ~~Appointment of inspectors of election by the president or chair person;~~\
--   <span style="color:red">**Questions for candidates for Council (at the annual meeting)**</span> ~~Election of council;~~\
--   <span style="color:red">**Questions concerning the budget proposal (at the budget meeting);**</span>\
--   <span style="color:red">**Other items of business placed on the agenda.**</span>~~Unfinished business;~~\
+-   [**Questions for candidates for Council (at the annual meeting)**]{style="color:red"} ~~Election of council;~~\
+-   [**Questions concerning the budget proposal (at the budget meeting);**]{style="color:red"}\
+-   [**Other items of business placed on the agenda.**]{style="color:red"}~~Unfinished business;~~\
 -   ~~New business.~~
 
 ## ARTICLE V: Council
 
 ### Section 1
 
-The Amberson Towers Condominium Association consists of all Unit Owners of Amberson Towers. The business and affairs of the Amberson Towers Condominium Association (a nonprofit corporation) shall be managed, administered and governed by a Council composed of Five (5) natural persons, who shall be Unit Owners <span style="color:red">**residing in Amberson Towers**</span>[^18] <span style="color:red">**and who shall have at least one year of residency in Amberson Towers. Any council member who ceases to be a resident shall thereby become ineligible for council membership; the resulting vacancy shall be filled by the procedures described in Article V, Section 4**</span>. ~~have an ownership interest in or are the trustees, partners, members, or officers of a Unit owned by a partnership, trust, corporation, limited liability company or other legal entity and who or which shall have been owners of a Unit and residents of Amberson Towers for at least one year prior to their election to the Council.~~ There may only be one (1) Council member from any one (1) Unit at any time. <span style="color:red">**No Unit Owner shall be eligible for election to more than two full, consecutive terms as a member of Council.**</span> [^19] The officers of the Council shall also serve as the officers of the Amberson Towers Condominium Association. 
+The Amberson Towers Condominium Association consists of all Unit Owners of Amberson Towers. The business and affairs of the Amberson Towers Condominium Association (a nonprofit corporation) shall be managed, administered and governed by a Council composed of Five (5) natural persons, who shall be Unit Owners [**residing in Amberson Towers**]{style="color:red"}[^23] [**and who shall have at least one year of residency in Amberson Towers. Any council member who ceases to be a resident shall thereby become ineligible for council membership; the resulting vacancy shall be filled by the procedures described in Article V, Section 4**]{style="color:red"}. ~~have an ownership interest in or are the trustees, partners, members, or officers of a Unit owned by a partnership, trust, corporation, limited liability company or other legal entity and who or which shall have been owners of a Unit and residents of Amberson Towers for at least one year prior to their election to the Council.~~ There may only be one (1) Council member from any one (1) Unit at any time. [**No Unit Owner shall be eligible for election to more than two full, consecutive terms as a member of Council.**]{style="color:red"} [^24] The officers of the Council shall also serve as the officers of the Amberson Towers Condominium Association.
+
+[^23]: Reinstates requirement that members of Council must live in the building.
+
+[^24]: Limits members of Council to two consecutive terms
 
 Any council member who fails to attend and participate in three consecutive meetings of Council either in person, or by electronic means if such means is authorized by Council, without a medical excuse or other good cause, may, after notice and opportunity to be heard, be removed by the unanimous vote of all other Council members ~~in attendance at the meeting~~; the resulting vacancy shall be filled by the procedures described in Article V, Section 4. Electronic means is defined as attendance via telephone, video or audio conferencing, or other electronic device.
-
-[^18]: Reinstates requirement that members of Council must live in the building.
-
-[^19]: Limits members of Council to two consecutive terms
 
 ### Section 2
 
@@ -191,31 +183,31 @@ Each Council member named in the Declaration shall hold office until the annual 
 
 At the annual meeting of the Unit Owners in the year 1979, the term of Office of Two (2) Council members elected shall be for three (3) years; and the term of office of Two (2) Council members shall be for Two (2) years; and the term of office of One (1) Council member elected shall be for One (1) year. The Council members receiving the largest number of votes shall serve the longest terms. At the expiration of the term of office of each respective Council member, his successor shall be elected to serve a term of Three (3) years. The Council member shall hold office until their successors have been elected and qualified.
 
-In all elections of Council members, each Unit Owner shall <span style="color:red">**rank the candidates in order of preference**</span>.[^20] <span style="color:red">**Votes shall be tabulated by the method of single transferable vote, as described in Appendix A.**</span> ~~have the right, in person or by proxy, to multiply the number of votes to which he may be entitled by the number of directors to be elected and he may cast the whole number of said votes for one candidate or he may distribute them among any two or more candidates.~~
+In all elections of Council members, each Unit Owner shall [**rank the candidates in order of preference**]{style="color:red"}.[^25] [**Votes shall be tabulated by the method of single transferable vote, as described in Appendix A.**]{style="color:red"} ~~have the right, in person or by proxy, to multiply the number of votes to which he may be entitled by the number of directors to be elected and he may cast the whole number of said votes for one candidate or he may distribute them among any two or more candidates.~~
 
-[^20]: Establishes use of ranked choice voting
+[^25]: Establishes use of ranked choice voting
 
 ### Section 4
 
-Vacancies in the Council shall be filled by a <span style="color:red">**unanimous vote**</span>[^21] ~~majority~~ of the remaining Council members and each person so elected shall be a Council member until his successor is elected by the Unit Owners, who may shall make such election at the next ~~annual~~ <span style="color:red">**regular**</span> meeting of the Unit Owners or at any special meeting duly called for that purpose. 
+Vacancies in the Council shall be filled by a [**unanimous vote**]{style="color:red"}[^26] ~~majority~~ of the remaining Council members and each person so elected shall be a Council member until his successor is elected by the Unit Owners, who may shall make such election at the next ~~annual~~ [**regular**]{style="color:red"} meeting of the Unit Owners or at any special meeting duly called for that purpose.
 
-[^21]: Allows Council to fill vacancies only by unanimous vote, and only until the next regular meeting of the owners.
+[^26]: Allows Council to fill vacancies only by unanimous vote, and only until the next regular meeting of the owners.
 
 ### Section 5
 
-<span style="color:green">^[*from Dona* - is a unanimous vote necessary/always possible? With only 4 people voting it could be an issue if 2 candidates are suggested, and the vote is 2/2; but why is a 3/1 vote not acceptable? (Just asking. I’m assuming there’s a reason.)
-Do we want to specify somewhere (and I may not have gotten there yet), that when voted on at the next meeting, who fills that slot is only serving the remainder of that members term?  As with our current situation, there will be 2 three-year terms open, and the two-year remaining term of the Beth.  If you don’t do this, you’ll screw up the 2-2-1 election cycle.
-]</span> Any one or more of the Council members may be removed with or without cause by vote of ~~two-thirds of~~ the Unit Owners ~~entitled to vote at any duly held regular or special meeting of the Unit Owners, and a successor may be elected to fill the vacancy thus created.~~ <span style="color:red">**following any duly held regular meeting or special meeting called for such a purpose. Such a motion must be made in advance of the meeting, for inclusion on the meeting ballot, pursuant to the provisions of ARTICLE IV, Section 6. Approval of a motion to remove a Council member shall require approval of 2/3 of shares voted and 1/3 of total shares.**</span>[^22] <span style="color:red">**A vacancy thus created shall be filled according to the provisions of ARTICLE V, Section 4.**</span> 
+[^27] Any one or more of the Council members may be removed with or without cause by vote of ~~two-thirds of~~ the Unit Owners ~~entitled to vote at any duly held regular or special meeting of the Unit Owners, and a successor may be elected to fill the vacancy thus created.~~ [**following any duly held regular meeting or special meeting called for such a purpose. Such a motion must be made in advance of the meeting, for inclusion on the meeting ballot, pursuant to the provisions of ARTICLE IV, Section 6. Approval of a motion to remove a Council member shall require approval of 2/3 of shares voted and 1/3 of total shares.**]{style="color:red"}[^28] [**A vacancy thus created shall be filled according to the provisions of ARTICLE V, Section 4.**]{style="color:red"}
 
-[^22]: Establishes a 33% affirmative quorum for removal of Council members, and provides for the vote to be on paper and/or electronic.
+[^27]: [*from Dona, 13 March 2022* - is a unanimous vote necessary/always possible? With only 4 people voting it could be an issue if 2 candidates are suggested, and the vote is 2/2; but why is a 3/1 vote not acceptable? (Just asking. I'm assuming there's a reason.) Do we want to specify somewhere (and I may not have gotten there yet), that when voted on at the next meeting, who fills that slot is only serving the remainder of that members term? As with our current situation, there will be 2 three-year terms open, and the two-year remaining term of the Beth. If you don't do this, you'll screw up the 2-2-1 election cycle.]{style="color:green"}
+
+[^28]: Establishes a 33% affirmative quorum for removal of Council members, and provides for the vote to be on paper and/or electronic.
 
 ### Section 6
 
-~~No person shall receive any compensation for acting as a Council member but may receive compensation for services rendered to or for Amberson Towers in any other capacity.~~ 
+~~No person shall receive any compensation for acting as a Council member but may receive compensation for services rendered to or for Amberson Towers in any other capacity.~~
 
-<span style="color:red">**No member of Council shall receive monetary or other compensation from the Association during their term in office.**</span>[^23]
+[**No member of Council shall receive monetary or other compensation from the Association during their term in office.**]{style="color:red"}[^29]
 
-[^23]: Disallows members of Council from receiving compensation of any kind from the Association during their term, including for other work. \*In Section 16, also, and Article VI, Section 10
+[^29]: Disallows members of Council from receiving compensation of any kind from the Association during their term, including for other work. \*In Section 16, also, and Article VI, Section 10
 
 ### Section 7
 
@@ -227,7 +219,7 @@ The Council shall require that all officers and employees handling its funds sha
 
 ### Section 9
 
-The meetings of Council shall be conducted in accordance with Robert's Rules of Order (latest edition). Meetings of the Council shall be held at the principal office of Amberson Towers or at such place within the County of Allegheny as a majority of the Council may from time to time designate. <span style="color:red">**With approval of a majority of Council, meetings may also be held by electronic means, including but not limited to telephone, video or audio conferencing, or other electronic device.**</span>
+The meetings of Council shall be conducted in accordance with Robert's Rules of Order (latest edition). Meetings of the Council shall be held at the principal office of Amberson Towers or at such place within the County of Allegheny as a majority of the Council may from time to time designate. [**With approval of a majority of Council, meetings may also be held by electronic means, including but not limited to telephone, video or audio conferencing, or other electronic device.**]{style="color:red"}
 
 ### Section 10
 
@@ -235,13 +227,13 @@ The first meeting of each new Council elected by the Unit Owners shall be held w
 
 ### Section 11
 
-Regular meetings of the Council may be held at such time or times and place as shall be determined by a majority of the Council. Notice of regular meetings of the Council shall be given to each Council member personally <span style="color:red">**or in writing, including via electronic means**</span> [^24] <span style="color:red">**customarily in use**</span>~~, or by other or by mail or by telegram,~~ at least five (5) days prior to the day fixed for such meeting.
+Regular meetings of the Council may be held at such time or times and place as shall be determined by a majority of the Council. Notice of regular meetings of the Council shall be given to each Council member personally [**or in writing, including via electronic means**]{style="color:red"} [^30] [**customarily in use**]{style="color:red"}~~, or by other or by mail or by telegram,~~ at least five (5) days prior to the day fixed for such meeting.
 
-[^24]: Allows for electronic notice of special Council meetings; same in Section 12.
+[^30]: Allows for electronic notice of special Council meetings; same in Section 12.
 
 ### Section 12
 
-Special meetings of the Council may be called by the President on not less than five (5) days' notice to each Council member either personally <span style="color:red">**or in writing, including via electronic means customarily in use**</span> ~~or by mail or by telegraph,~~ which notice shall state the time, place, and purposes of such meetings. Special meetings of the Council may also be called in like manner and upon like notice on the written request of at least three Council members.
+Special meetings of the Council may be called by the President on not less than five (5) days' notice to each Council member either personally [**or in writing, including via electronic means customarily in use**]{style="color:red"} ~~or by mail or by telegraph,~~ which notice shall state the time, place, and purposes of such meetings. Special meetings of the Council may also be called in like manner and upon like notice on the written request of at least three Council members.
 
 ### Section 13
 
@@ -249,52 +241,48 @@ Either before or after any meeting of the Council any Council member may, in wri
 
 ### Section 14
 
-At all meetings of the Council, a majority of the Council members in office shall be necessary to constitute a quorum for the transaction of business.[^25] ~~, and the acts of the majority of the Council members present at a meeting at which a quorum is present shall be the acts of the Council. If, at any meeting of the Council, there be less than a quorum present, the majority of those present may adjourn the meeting from time to time. At any such adjourned meeting, any business which might have been transacted at the meeting as originally called may be transacted without further notice.~~ <span style="color:red">**Council members must be present, in person or by electronic means, to record a vote, and may not indicate a vote in advance of the meeting. It shall require an affirmative vote of a majority of all Council members in office to ratify any action of the Council.**</span>[^26]
+At all meetings of the Council, a majority of the Council members in office shall be necessary to constitute a quorum for the transaction of business.[^31] ~~, and the acts of the majority of the Council members present at a meeting at which a quorum is present shall be the acts of the Council. If, at any meeting of the Council, there be less than a quorum present, the majority of those present may adjourn the meeting from time to time. At any such adjourned meeting, any business which might have been transacted at the meeting as originally called may be transacted without further notice.~~ [**Council members must be present, in person or by electronic means, to record a vote, and may not indicate a vote in advance of the meeting. It shall require an affirmative vote of a majority of all Council members in office to ratify any action of the Council.**]{style="color:red"}[^32]
 
-[^25]: Requires that all decision of Council have the support of a majority of Council members, not just those present.
+[^31]: Requires that all decision of Council have the support of a majority of Council members, not just those present.
 
-[^26]: Disallows adjournment of meetings while continuing to conduct business without further notice.
+[^32]: Disallows adjournment of meetings while continuing to conduct business without further notice.
 
 ### Section 15
 
-If all the Council members shall severally or collectively consent, in writing, duly filed with the Secretary to any action to be taken by Amberson Towers, such action shall be as valid as though it had been authorized at a meeting of the Council. <span style="color:red">**Such action shall be immediately announced to the Unit Owners, and shall be included in the minutes of the subsequent Council meeting.**</span> [^27]
+If all the Council members shall severally or collectively consent, in writing, duly filed with the Secretary to any action to be taken by Amberson Towers, such action shall be as valid as though it had been authorized at a meeting of the Council. [**Such action shall be immediately announced to the Unit Owners, and shall be included in the minutes of the subsequent Council meeting.**]{style="color:red"} [^33]
 
-[^27]: Requires notice to owners if Council takes any action outside of a meeting.
+[^33]: Requires notice to owners if Council takes any action outside of a meeting.
 
+### [Section 16 is DELETED]{style="color:red"}
 
+[^34]~~The Council members, by resolution adopted by the majority of the entire Council, may at any time elect two (2) or more of their number as an executive committee which shall, in the intervals between meetings of the Council, exercise such powers and perform such duties as may from time to time be prescribed by the Council. Unless otherwise authorized by the Council, such committee shall act by unanimous vote of its members at a meeting or by a writing signed by all its members. Any act or thing done by such committee within the scope of the power delegated to it, shall be as effective for all purposes as the act or authorization of the Council. The committee shall keep regular minutes of its proceedings and shall report to the Council all actions taken by it.~~
 
+[^34]: Section 16 deleted. Eliminates possibility of Council appointing executive committee between meetings. This is never done in practice, and it creates opportunities for abuse.
 
+### Section 1~~7~~[6]{style="color:red"}
 
-### <span style="color:red">Section 16 is DELETED</span>
+[^35]The Council shall have the following powers and duties in addition to those vested in it under the law, the Declaration and this Code of Regulations:
 
-[^28]~~The Council members, by resolution adopted by the majority of the entire Council, may at any time elect two (2) or more of their number as an executive committee which shall, in the intervals between meetings of the Council, exercise such powers and perform such duties as may from time to time be prescribed by the Council. Unless otherwise authorized by the Council, such committee shall act by unanimous vote of its members at a meeting or by a writing signed by all its members. Any act or thing done by such committee within the scope of the power delegated to it, shall be as effective for all purposes as the act or authorization of the Council. The committee shall keep regular minutes of its proceedings and shall report to the Council all actions taken by it.~~ 
-
-[^28]: Section 16 deleted. Eliminates possibility of Council appointing executive committee between meetings. This is never done in practice, and it creates opportunities for abuse.
-
-
-
-### Section 1~~7~~<span style="color:red">6</span>
-
-^[Section renumbered]The Council shall have the following powers and duties in addition to those vested in it under the law, the Declaration and this Code of Regulations:
+[^35]: Section renumbered
 
 (a) The maintenance, repair and replacement of the common elements;\
 (b) The assessment and collection of funds from the Unit Owners for common expenses and the payment of such common expenses;\
-(c) The promulgation, distribution and enforcement of rules governing the details of the use and operation of the property and the use of the common elements, subject to the right of the <span style="color:red">**Unit Owners to change any such rules at any regular or special meeting, pursuant to Article IV, Section 6;**</span>[^29] ~~number of the unit owners which constitute 60 percent of the votes represented and entitled to vote at any regular or special meeting to change any such rules;~~\
-(d) To appoint, employ and remove at any time any agent, or employee; and to prescribe the duties of and fix the compensation for any agent or employee. Nothing contained in this Code of Regulations shall be construed to prohibit the employment of any Unit Owners~~, Officers or Council Members~~ <span style="color:red">**who are not members of Council,**</span> in any capacity whatsoever;\
+(c) The promulgation, distribution and enforcement of rules governing the details of the use and operation of the property and the use of the common elements, subject to the right of the [**Unit Owners to change any such rules at any regular or special meeting, pursuant to Article IV, Section 6;**]{style="color:red"}[^36] ~~number of the unit owners which constitute 60 percent of the votes represented and entitled to vote at any regular or special meeting to change any such rules;~~\
+(d) To appoint, employ and remove at any time any agent, or employee; and to prescribe the duties of and fix the compensation for any agent or employee. Nothing contained in this Code of Regulations shall be construed to prohibit the employment of any Unit Owners~~, Officers or Council Members~~ [**who are not members of Council,**]{style="color:red"} in any capacity whatsoever;\
 (e) To exercise for Amberson Towers all powers, duties, and authority vested in or delegated to it which it may lawfully exercise, in carrying out or in furtherance of its purposes or any of them;\
 (f) To submit ~~at each annual meeting of the~~ to the Unit Owners a statement of the operations of Amberson Towers during the preceding year, together with a report of its general financial condition. Copies of such annual financial reports shall be sent to each Unit Owners within sixty (60) days following the close of the preceding fiscal year, along with a copy to the Mortgagee of any Unit who has requested the same in writing; the said mortgagees can also examine the books and records of the condominium;\
 (g) To make or cause to be made a proposed budget for the ensuing year, a copy of which shall be mailed to each Unit Owner at least ten (10) days prior to the ~~annual~~ budget meeting.\
 (h) To elect all officers and to fill all vacancies which may occur.
 
-[^29]: Allows owners to change rules made by Council with a majority vote, rather than 60%.
+[^36]: Allows owners to change rules made by Council with a majority vote, rather than 60%.
 
 ## ARTICLE VI: Officers
 
 ### Section 1
 
-All officers of the Council and Amberson Towers Condominium Association shall be natural persons. The officers of the Council and Amberson Towers Condominium Association shall be a president and a vice-president, a secretary and a treasurer, and such other officers as the Council may create by resolution from time to time. Any officer may be removed by a majority of the entire Council at any time. All of said officers shall be elected by the Council and each such officer shall hold office until his successor is elected and qualified. No person may be an officer who is not a member of Council. No person shall serve as the president or vice president unless he/she has served on Council for at least one (1) year prior to their election. <span style="color:red">**No person shall serve as president for more than two years out of five consecutive years. A member shall be considered to have served for one year if they have served as president for any period of time between consecutive annual meetings.**</span> [^30]
+All officers of the Council and Amberson Towers Condominium Association shall be natural persons. The officers of the Council and Amberson Towers Condominium Association shall be a president and a vice-president, a secretary and a treasurer, and such other officers as the Council may create by resolution from time to time. Any officer may be removed by a majority of the entire Council at any time. All of said officers shall be elected by the Council and each such officer shall hold office until his successor is elected and qualified. No person may be an officer who is not a member of Council. No person shall serve as the president or vice president unless he/she has served on Council for at least one (1) year prior to their election. [**No person shall serve as president for more than two years out of five consecutive years. A member shall be considered to have served for one year if they have served as president for any period of time between consecutive annual meetings.**]{style="color:red"} [^37]
 
-[^30]: Disallows the same person from serving as president more than two years out of five.
+[^37]: Disallows the same person from serving as president more than two years out of five.
 
 ### Section 2
 
@@ -318,7 +306,9 @@ The secretary shall keep the minutes of all meetings of the Unit Owners; he or s
 
 ### Section 7
 
-The treasurer shall have custody of Amberson Towers Condominium Association funds and securities and shall cause full and accurate accounts of receipts and disbursements to be kept in books belonging to Amberson Towers Condominium Association. He shall deposit all monies and other valuable effects in the name, and to the credit of Amberson Towers Condominium Association in such depositories as may from time to time be designated by the Council.<span style="color:green">^[*from Dona* - does the treasurer really have custody of funds and securities, and is responsible for disbursement?  Again, I thought that’s part of what we were paying Meyers Mgmt to do.]</span>
+The treasurer shall have custody of Amberson Towers Condominium Association funds and securities and shall cause full and accurate accounts of receipts and disbursements to be kept in books belonging to Amberson Towers Condominium Association. He shall deposit all monies and other valuable effects in the name, and to the credit of Amberson Towers Condominium Association in such depositories as may from time to time be designated by the Council.[^38]
+
+[^38]: [*from Dona, 13 March 2022* - does the treasurer really have custody of funds and securities, and is responsible for disbursement? Again, I thought that's part of what we were paying Meyers Mgmt to do.]{style="color:green"}
 
 ### Section 8
 
@@ -330,7 +320,9 @@ As assistant treasurer, if appointed, shall, in the absence or disability of the
 
 ### Section 10
 
-No person shall receive any monetary or other compensation for acting as an officer of Amberson Towers Condominium Association or Council.<span style="color:green">^[*from Dona* - Sec 10 says exactly the same thing as Article V, Sec 6.  Are both necessary?]</span> ~~but may receive compensation for services rendered to or for Amberson Towers, the Association or Council in any other capacity.~~
+No person shall receive any monetary or other compensation for acting as an officer of Amberson Towers Condominium Association or Council.[^39] ~~but may receive compensation for services rendered to or for Amberson Towers, the Association or Council in any other capacity.~~
+
+[^39]: [*from Dona, 13 March 2022* - Sec 10 says exactly the same thing as Article V, Sec 6. Are both necessary?]{style="color:green"}
 
 ## ARTICLE VII: Payment of Common Expenses and Other Expenses by Unit Owners
 
@@ -346,15 +338,19 @@ The Council shall pro-rate all costs involved in Section 1 above, among all the 
 
 The total amount of the charges required for each calendar year shall be estimated by the Council at least one (1) month prior to the beginning of each calendar year. Such estimate may include an amount for unanticipated or under-estimated costs, charges and expenses and deficits incurred in any prior year or years, and may further include amounts to be accumulated in any reserve funds for expenditures which may be required in future years for other than ordinary current maintenance, repairs, costs and expenses. The first such charge may be estimated and made for less than a full year, and in such event the Maintenance Charge for such period shall be payable in equal monthly installments for the remainder of such calendar year, beginning on the first day of the month immediately following the determination of such estimate by the Council. Thereafter, each annual Maintenance Charge shall be payable in twelve (12) equal monthly installments beginning on the first day of January of each calendar year.
 
-The annual budget shall be sent to Unit Owners at least ten (10) days prior to the ~~annual~~ budget meeting, at which time the budget shall be approved in the same manner as other business brought before the meeting. After the annual budget has been approved by the required vote, the Council shall cause a statement to be sent to each Unit Owner; which statement shall reflect the total amount of the annual maintenance budget thus approved, the common element percentage obligation therefor attaching to each respective unit and the corresponding monthly payments to be made by each Unit Owner. Each Unit Owner shall then be required to make his respective Monthly Maintenance Payment to the Council or its designee without further billing or request therefor. Any charge assessed against a unit may be enforced by suit by the Council acting on behalf of the unit owners in an action in assumpsit^[Is this a typo?]; provided, that each suit when files shall refer to the Unit Property Act, Act of July 3, 1963, P.L. 196, and to the unit against which the assessment is made and the owner thereof and shall be indexed by the prothonotary as lis pendens^[Is this a legal term or incorrect spelling?]. Any judgment against a unit and its owners shall be enforceable in the same manner as is otherwise provided by law.
+The annual budget shall be sent to Unit Owners at least ten (10) days prior to the ~~annual~~ budget meeting, at which time the budget shall be approved in the same manner as other business brought before the meeting. After the annual budget has been approved by the required vote, the Council shall cause a statement to be sent to each Unit Owner; which statement shall reflect the total amount of the annual maintenance budget thus approved, the common element percentage obligation therefor attaching to each respective unit and the corresponding monthly payments to be made by each Unit Owner. Each Unit Owner shall then be required to make his respective Monthly Maintenance Payment to the Council or its designee without further billing or request therefor. Any charge assessed against a unit may be enforced by suit by the Council acting on behalf of the unit owners in an action in assumpsit[^40]; provided, that each suit when files shall refer to the Unit Property Act, Act of July 3, 1963, P.L. 196, and to the unit against which the assessment is made and the owner thereof and shall be indexed by the prothonotary as lis pendens[^41]. Any judgment against a unit and its owners shall be enforceable in the same manner as is otherwise provided by law.
+
+[^40]: Is this a typo?
+
+[^41]: Is this a legal term or incorrect spelling?
 
 Until the Council shall otherwise determine, the monthly charges to be paid by each Unit Owner shall be in accordance with the budget attached.
 
 ### Section 4
 
-In the event that the Council decides that additional monies are required in addition to those set forth in the annual budget, ~~the Council shall give the Unit Owners at least Thirty (30) days written notice of the total monies required and allocate amounts among the Unit Owners together with time for payment of said proportionate amounts which may be at one time or in installments, as the Council decides, provided, however, that if Unit Owners representing forty (40%) percent of the votes of Amberson Towers object in writing to said additional assessments within fifteen (15) days after mailing of such notice,~~ the Council shall call a special meeting of the Unit Owners for the purpose of obtaining approval of said assessments, at which meeting the assessments of the Council must receive the same affirmative vote as in the case of the annual budget. [^31]
+In the event that the Council decides that additional monies are required in addition to those set forth in the annual budget, ~~the Council shall give the Unit Owners at least Thirty (30) days written notice of the total monies required and allocate amounts among the Unit Owners together with time for payment of said proportionate amounts which may be at one time or in installments, as the Council decides, provided, however, that if Unit Owners representing forty (40%) percent of the votes of Amberson Towers object in writing to said additional assessments within fifteen (15) days after mailing of such notice,~~ the Council shall call a special meeting of the Unit Owners for the purpose of obtaining approval of said assessments, at which meeting the assessments of the Council must receive the same affirmative vote as in the case of the annual budget. [^42]
 
-[^31]: Requires same approval for special assessments as for the budget. Previously, Council could enact special assessments and the owners could cancel them, but the threshold was unrealistic.
+[^42]: Requires same approval for special assessments as for the budget. Previously, Council could enact special assessments and the owners could cancel them, but the threshold was unrealistic.
 
 ### Section 5
 
@@ -382,20 +378,21 @@ The holder of a first mortgage or any unit shall be entitled to give written not
 
 ### Section 1: Sale or Lease by Unit Owner
 
-Any owner who wishes to sell ~~, lease, or rent~~ his unit shall, at least (<span style="color:red">seven</span> ~~thirty~~ ((<span style="color:red">7</span> ~~30~~) days prior to accepting any offer to sell~~, lease or rent,~~ give Council written notice of the terms of such offer, which notice shall specify the name and address of the offeror. If, within the said <span style="color:red">**seven**</span> ~~thirty~~ (<span style="color:red">**7**</span>~~30~~) day period,[^32] time being of the essence, Council or its nominee submits to the owner an identical or more favorable offer to sell~~, lease, or rent,~~ the selling owner must accept the offer of said Council in preference to the original offer described in the notice. In the event Council fails to submit in writing to the selling owner an identical or more favorable offer within <span style="color:red">**seven**</span> ~~thirty~~ (<span style="color:red">**7**</span>~~30~~) days of receipt of notice of the selling owner's offer, time being of the essence, then the selling owner may sell his apartment to his original offeror. In any event, Council, shall have sole discretion in this matter and no vote or approval of the Unit Owners is required. Any holder of a mortgage which comes into possession of a unit pursuant to the remedies provided in the mortgage or any purchaser at a sheriff sale of the unit or any mortgages, or its designee, who accepts a deed for the unit in lieu of foreclosure shall be exempt from the provision of this section.<span style="color:green">^[*from Dona* - I don’t get this!  Why would Council want to buy a unit and where would they get the money?  I’m pretty sure when we made the offer on our apartment, Council was not involved at all. And what about having to get a waiver so only 10% of units can be rentals?  Owners can’t just decide they want to lease their unit and just notify Council of who the renter will be, can they?  I’ve never fully understood the lottery system for being allowed to rent.  (And how can someone [or an LLC] own an apartment solely for rental purposes?  How would they be guarantee annually that “win” the lottery?) 
-]</span>
+Any owner who wishes to sell ~~, lease, or rent~~ his unit shall, at least ([seven]{style="color:red"} ~~thirty~~ (([7]{style="color:red"} ~~30~~) days prior to accepting any offer to sell~~, lease or rent,~~ give Council written notice of the terms of such offer, which notice shall specify the name and address of the offeror. If, within the said [**seven**]{style="color:red"} ~~thirty~~ ([**7**]{style="color:red"}~~30~~) day period,[^43] time being of the essence, Council or its nominee submits to the owner an identical or more favorable offer to sell~~, lease, or rent,~~ the selling owner must accept the offer of said Council in preference to the original offer described in the notice. In the event Council fails to submit in writing to the selling owner an identical or more favorable offer within [**seven**]{style="color:red"} ~~thirty~~ ([**7**]{style="color:red"}~~30~~) days of receipt of notice of the selling owner's offer, time being of the essence, then the selling owner may sell his apartment to his original offeror. In any event, Council, shall have sole discretion in this matter and no vote or approval of the Unit Owners is required. Any holder of a mortgage which comes into possession of a unit pursuant to the remedies provided in the mortgage or any purchaser at a sheriff sale of the unit or any mortgages, or its designee, who accepts a deed for the unit in lieu of foreclosure shall be exempt from the provision of this section.[^44]
 
-[^32]: Reduced time Council has for right of first refusal of sale from 30 to 7 days.
+[^43]: Reduced time Council has for right of first refusal of sale from 30 to 7 days.
 
-<span style="color:red">**Any owner who wishes to lease or rent his unit shall, prior to accepting any offer to lease or rent, give Council written notice of the terms of such offer, which notice shall specify the name and address of the offeror. Approval of Council, or of an agent designated by Council to issue such approval, shall be required before such an agreement to lease or rent can be executed. Council shall have sole discretion in the matter of approving or rejecting rental or lease agreements, and shall not be liable to any owner such action.**</span>[^33]
+[^44]: [*from Dona, 13 March 2022* - I don't get this! Why would Council want to buy a unit and where would they get the money? I'm pretty sure when we made the offer on our apartment, Council was not involved at all. And what about having to get a waiver so only 10% of units can be rentals? Owners can't just decide they want to lease their unit and just notify Council of who the renter will be, can they? I've never fully understood the lottery system for being allowed to rent. (And how can someone [or an LLC] own an apartment solely for rental purposes? How would they be guarantee annually that "win" the lottery?)]{style="color:green"}
 
-[^33]: Eliminates requirement that Council compensate owners if a lease is not approved
+[**Any owner who wishes to lease or rent his unit shall, prior to accepting any offer to lease or rent, give Council written notice of the terms of such offer, which notice shall specify the name and address of the offeror. Approval of Council, or of an agent designated by Council to issue such approval, shall be required before such an agreement to lease or rent can be executed. Council shall have sole discretion in the matter of approving or rejecting rental or lease agreements, and shall not be liable to any owner such action.**]{style="color:red"}[^45]
+
+[^45]: Eliminates requirement that Council compensate owners if a lease is not approved
 
 ### Section 2: Lease Restrictions
 
 (a) Leasing of Units is permitted only as provided herein.
 
-(b) It is the policy of the Condominium Association to discourage the purchase of Condominium units solely for investment (i.e., where the Purchaser does not intend to occupy the unit). To implement this policy, no unit may, where acquired by purchase, be rented to a tenant before one year has elapsed since the date of purchase, unless the tenant is a member of the Purchaser's immediate family as herein defined or the Condominium Council determines in advance that the rental of the Unit to the proposed tenant will not violate the general policy. If the unit is rented on the date of purchase, the lease then in effect remains valid and the year referred to the above shall begin at the expiration of the lease. "Immediate Family" consists of the Purchaser's spouse, parents, grandparents, step-parents, brothers, sisters, children, step-children, grandchildren, ~~nieces and nephews,~~ and the same relations of the spouse of the Purchaser.[^34] This policy shall apply to all purchases of units taking place thirty (30) days or more after this provision has gone into effect.
+(b) It is the policy of the Condominium Association to discourage the purchase of Condominium units solely for investment (i.e., where the Purchaser does not intend to occupy the unit). To implement this policy, no unit may, where acquired by purchase, be rented to a tenant before one year has elapsed since the date of purchase, unless the tenant is a member of the Purchaser's immediate family as herein defined or the Condominium Council determines in advance that the rental of the Unit to the proposed tenant will not violate the general policy. If the unit is rented on the date of purchase, the lease then in effect remains valid and the year referred to the above shall begin at the expiration of the lease. "Immediate Family" consists of the Purchaser's spouse, parents, grandparents, step-parents, brothers, sisters, children, step-children, grandchildren, ~~nieces and nephews,~~ and the same relations of the spouse of the Purchaser.[^46] This policy shall apply to all purchases of units taking place thirty (30) days or more after this provision has gone into effect.
 
 (c) Commencing January 1, 2001, the maximum number of Units that may be leased at any one time is twenty(20). A lease between family members shall not be counted as a leased Unit.
 
@@ -405,15 +402,15 @@ Any owner who wishes to sell ~~, lease, or rent~~ his unit shall, at least (<spa
 
 (f) After April 1, 1996, any new leases must have the written approval of Council before it they will be valid. It is the intent of Council to reduce the number of leases between April 1, 1996 and January 1, 2001 so that the maximum number of leased Units on January 1, 2001 will be twenty (20).
 
-(g) If at any time the approved number of leased Units in Amberson Towers falls below the leasing cap of twenty (20) Units, Council may grant additional number of leasing permits to reach, but not to exceed, the leasing cap number of twenty (20) Units in the building. All new leasing permits shall be good for one year only and all leases entered thereunder shall be for a lease term of no less nor more than one year and not renewable. Grandfathered Unit Owners as are defined below who are leasing their Units shall be counted toward this twenty (20) Unit leasing cap. Council is granted the authority to establish rules and regulations to include a system for selecting Unit Owners who will be permitted to lease their Units, and such other rules and regulations as it deems necessary from time to time for the proper administration and management of leasing in the building. Unit Owners who are permitted to lease their units shall not be required to pay rental fees to the Association. In any rules and regulations that it may adopt, Council may grant leasing preferences to Unit Owners based on their seniority as owners of Units in the building. No Unit Owner shall be approved to lease his Unit unless he has resided in the Unit for one continuous year. Those Unit Owners who were leasing their Units prior to May 15, 1996 with the approval of Council~~, or were given the right by Council to lease their units as settlement of a legal dispute with Council,~~ [^36] are hereby grandfathered and may continue to lease their Units without any limitation on the length or the number of leases or renewals, except that no lease shall be for a term of less than one (1) year. <span style="color:red">**The status of any unit as grandfathered shall terminate upon sale or transfer of the unit to new owners.**</span>[^35] 
+(g) If at any time the approved number of leased Units in Amberson Towers falls below the leasing cap of twenty (20) Units, Council may grant additional number of leasing permits to reach, but not to exceed, the leasing cap number of twenty (20) Units in the building. All new leasing permits shall be good for one year only and all leases entered thereunder shall be for a lease term of no less nor more than one year and not renewable. Grandfathered Unit Owners as are defined below who are leasing their Units shall be counted toward this twenty (20) Unit leasing cap. Council is granted the authority to establish rules and regulations to include a system for selecting Unit Owners who will be permitted to lease their Units, and such other rules and regulations as it deems necessary from time to time for the proper administration and management of leasing in the building. Unit Owners who are permitted to lease their units shall not be required to pay rental fees to the Association. In any rules and regulations that it may adopt, Council may grant leasing preferences to Unit Owners based on their seniority as owners of Units in the building. No Unit Owner shall be approved to lease his Unit unless he has resided in the Unit for one continuous year. Those Unit Owners who were leasing their Units prior to May 15, 1996 with the approval of Council~~, or were given the right by Council to lease their units as settlement of a legal dispute with Council,~~ [^47] are hereby grandfathered and may continue to lease their Units without any limitation on the length or the number of leases or renewals, except that no lease shall be for a term of less than one (1) year. [**The status of any unit as grandfathered shall terminate upon sale or transfer of the unit to new owners.**]{style="color:red"}[^48]
 
 (h) Renting of any Unit on Airbnb or similar online marketplace and hospitality service that enables people to lease or rent short-term lodging, is strictly prohibited. This applies to Unit Owners who rent their Units for a term of less than one year, irrespective of whether they are permitted to lease their Units or not.
 
-[^34]: Eliminates nieces and nephews from category of immediate family members (was changed in 2017)
+[^46]: Eliminates nieces and nephews from category of immediate family members (was changed in 2017)
 
-[^35]: Clarifies that grandfathering of units only lasts until the unit is sold or transferred
+[^47]: Eliminates special treatment of parties to a legal settlement
 
-[^36]: Eliminates special treatment of parties to a legal settlement
+[^48]: Clarifies that grandfathering of units only lasts until the unit is sold or transferred
 
 ### Section 3
 
@@ -429,13 +426,15 @@ Exceptions are as follows:
 
 ### Section 4
 
-(a) Occupancy of any unit must include at least one person over 21 years of age <span style="color:red">**and may not include unrelated persons unless all are over 21 years of age.**</span> [^37]
+(a) Occupancy of any unit must include at least one person over 21 years of age [**and may not include unrelated persons unless all are over 21 years of age.**]{style="color:red"} [^49]
+
+[^49]: Clarifies that units may not be occupied by unrelated individuals under the age of 21. Previous language was unclear ("Where units are owned by parents for occupancy by sons and/or daughters, occupancy must include the sons and/or daughters of the owners.")
 
 ~~(b) Where units are owned by parents for occupancy by sons and/or daughters, occupancy must include the sons and/or daughters of the owners.~~
 
-(b) If the Unit Owner is a corporation, limited liability company, partnership, trust, or other legal entity, the natural person(s) who will occupy the Unit must have some relationship to the entity such as being a member, shareholder, owner or officer of a corporation or limited liability company, a partner in the partnership, a beneficiary of the trust, or a family member of any of the foregoing natural persons as defined in Section 2 of this Article.<span style="color:green">^[*from Dona* - So 119 owned by HHI Properties, 217 Equity Trust, and 115 and 719 Paul & Jane Nakazato Revocable Trust can only be leased only be leased to someone with a connection to those groups?]</span>
+(b) If the Unit Owner is a corporation, limited liability company, partnership, trust, or other legal entity, the natural person(s) who will occupy the Unit must have some relationship to the entity such as being a member, shareholder, owner or officer of a corporation or limited liability company, a partner in the partnership, a beneficiary of the trust, or a family member of any of the foregoing natural persons as defined in Section 2 of this Article.[^50]
 
-[^37]: Clarifies that units may not be occupied by unrelated individuals under the age of 21. Previous language was unclear ("Where units are owned by parents for occupancy by sons and/or daughters, occupancy must include the sons and/or daughters of the owners.")
+[^50]: [*from Dona, 13 March 2022* - So 119 owned by HHI Properties, 217 Equity Trust, and 115 and 719 Paul & Jane Nakazato Revocable Trust can only be leased only be leased to someone with a connection to those groups?]{style="color:green"}
 
 ### Section 5
 
@@ -461,7 +460,7 @@ The fiscal year of Amberson Towers Condominium Association shall begin on the fi
 
 No contract or other transaction between Amberson Towers Council or Amberson Towers Condominium Association and any other corporation, firm or individual, and no act of the Council members, officers or Unit Owners shall, in any way, be affected or invalidated by the fact that any of its Unit Owners, Council members or Officers is pecuniarily or otherwise interested as an owner, Council member, officer or otherwise in such corporation or firm; provided, that such fact shall be disclosed to the Council.~~; and any~~
 
-<span style="color:red">**Any**</span> Council member who is also a shareholder, director, employee or officer of such other corporation, or a member, employee or owner of such other firm, or who is so interested may be counted in determining the existence of a such quorum at any meeting of Council which shall authorize such contract or transaction with like effect as if he were not such shareholder, director, officer, member, employee or owner of such other corporation or firm, or were not so interested, but shall abstain from participating in the discussion, deliberation or vote of Council.
+[**Any**]{style="color:red"} Council member who is also a shareholder, director, employee or officer of such other corporation, or a member, employee or owner of such other firm, or who is so interested may be counted in determining the existence of a such quorum at any meeting of Council which shall authorize such contract or transaction with like effect as if he were not such shareholder, director, officer, member, employee or owner of such other corporation or firm, or were not so interested, but shall abstain from participating in the discussion, deliberation or vote of Council.
 
 ## ARTICLE X: Maintenance of Patios~~, If Any~~
 
@@ -471,9 +470,9 @@ While all adjacent and connecting terraces or patios at ground level and above c
 
 ### Section 1
 
-[^38] Notwithstanding anything <span style="color:red">**in the Declaration and/or**</span> in this Code of Regulations to the contrary, <span style="color:red">the Declaration and/or</span> this Code of Regulations may be altered, revised or modified <span style="color:red">**in accordance with the provisions of this Article**</span>. ~~upon the written consent of the numbered Unit Owners representing Sixty (60%) percent of the votes of Amberson Towers~~. Any such revision, alteration, or modification shall be recorded in the Recorder's Office of Allegheny County, Pennsylvania, and shall become effective as of the date of such recording.
+[^51] Notwithstanding anything [**in the Declaration and/or**]{style="color:red"} in this Code of Regulations to the contrary, [the Declaration and/or]{style="color:red"} this Code of Regulations may be altered, revised or modified [**in accordance with the provisions of this Article**]{style="color:red"}. ~~upon the written consent of the numbered Unit Owners representing Sixty (60%) percent of the votes of Amberson Towers~~. Any such revision, alteration, or modification shall be recorded in the Recorder's Office of Allegheny County, Pennsylvania, and shall become effective as of the date of such recording.
 
-[^38]: Establishes new process for amendments, including\
+[^51]: Establishes new process for amendments, including\
     0. Elimination of threshold of 60% of total votes to pass.\
     1. Allows amendments to be proposed by majority of Council or 10% of owners.\
     2. Limits amendments to single topic or closely related topics.\
@@ -481,25 +480,27 @@ While all adjacent and connecting terraces or patios at ground level and above c
     4. Sets threshold for passage at 2/3 of those voting and affirmative quorum of 1/3 of total ownership, but must pass in two consecutive votes.\
     5. Allows Council to pass minor amendments (e.g. fixing typos) by unanimous vote, if nobody objects.
 
-### <span style="color:red">Section 2: Proposal of Amendments</span>
+### [Section 2: Proposal of Amendments]{style="color:red"}
 
-<span style="color:red">**Amendments to the Declaration and/or this Code of Regulations may be proposed for consideration at any annual or budget meeting. Such proposals must be initiated by a majority vote of Council or by a written petition, signed by Unit Owners entitled to vote 10% of voting shares, and delivered to the Secretary. Such proposals must be made no later than February 1 to be placed on the agenda of the annual meeting, and no later than August 1 to be placed on the agenda of the budget meeting. Council may recommend, but not require, that owners amend their petitions for clarity and/or consistency with other provisions in the Declaration or Code of Regulations.**</span>
+[**Amendments to the Declaration and/or this Code of Regulations may be proposed for consideration at any annual or budget meeting. Such proposals must be initiated by a majority vote of Council or by a written petition, signed by Unit Owners entitled to vote 10% of voting shares, and delivered to the Secretary. Such proposals must be made no later than February 1 to be placed on the agenda of the annual meeting, and no later than August 1 to be placed on the agenda of the budget meeting. Council may recommend, but not require, that owners amend their petitions for clarity and/or consistency with other provisions in the Declaration or Code of Regulations.**]{style="color:red"}
 
-### <span style="color:red">Section 3: Amendments Limited to Single Topics</span>
+### [Section 3: Amendments Limited to Single Topics]{style="color:red"}
 
-<span style="color:red">**Each proposed Amendment shall pertain to a single topic, or to closely related topics which are contingent upon each other, where separate consideration would be unfeasible.**</span>
+[**Each proposed Amendment shall pertain to a single topic, or to closely related topics which are contingent upon each other, where separate consideration would be unfeasible.**]{style="color:red"}
 
-### <span style="color:red">Section 4: Public Comment</span>
+### [Section 4: Public Comment]{style="color:red"}
 
-<span style="color:red">**Proposals shall be distributed to Unit Owners by electronic means or, upon request of individual Unit Owners, by paper copy delivered to their unit, or via postal mail. Council shall establish an electronic mechanism by which Unit Owners may comment upon and discuss proposed amendments, for a public comment period of no less than 30 (thirty) days. Unit Owners will also have the option of submitting comments on paper, which will be added to and made visible to participants in the electronic forum. During the public comment period, Council, for a proposal made by Council, or the Unit Owners, for a proposal made by petition, may revise their proposal in a manner consistent with comments received. Revisions of proposals made by Council shall require a majority vote of Council. Revisions of proposals made by petition of Unit Owners must be signed by Unit Owners entitled to vote 10% of voting shares, who were also signatories to the original proposal.**</span>
+[**Proposals shall be distributed to Unit Owners by electronic means or, upon request of individual Unit Owners, by paper copy delivered to their unit, or via postal mail. Council shall establish an electronic mechanism by which Unit Owners may comment upon and discuss proposed amendments, for a public comment period of no less than 30 (thirty) days. Unit Owners will also have the option of submitting comments on paper, which will be added to and made visible to participants in the electronic forum. During the public comment period, Council, for a proposal made by Council, or the Unit Owners, for a proposal made by petition, may revise their proposal in a manner consistent with comments received. Revisions of proposals made by Council shall require a majority vote of Council. Revisions of proposals made by petition of Unit Owners must be signed by Unit Owners entitled to vote 10% of voting shares, who were also signatories to the original proposal.**]{style="color:red"}
 
-### <span style="color:red">Section 5: Procedure for Consideration</span>
+### [Section 5: Procedure for Consideration]{style="color:red"}
 
-<span style="color:red">**Amendments proposed in accordance with the provisions of this Article shall be placed on the agenda of the next regular meeting of the Unit Owners, and shall be included on the ballot for the meeting. To pass, amendments must be approved by 2/3 of the shares voting, but no less than the numbered Unit Owners representing one third (1/3) of the votes of Amberson Towers. Amendments which pass shall be placed upon the agenda and ballot of the next regular meeting to be discussed and voted on a second time. To be approved, amendments must pass two consecutive votes.**</span><span style="color:green">^[*from Dona* - Why is this necessary?  How can an owner object to the correction of a typo, and why would they need 60 days to make their objections known?  Maybe I’m reading this wrong, but it doesn’t make sense to me.</span>]
+[**Amendments proposed in accordance with the provisions of this Article shall be placed on the agenda of the next regular meeting of the Unit Owners, and shall be included on the ballot for the meeting. To pass, amendments must be approved by 2/3 of the shares voting, but no less than the numbered Unit Owners representing one third (1/3) of the votes of Amberson Towers. Amendments which pass shall be placed upon the agenda and ballot of the next regular meeting to be discussed and voted on a second time. To be approved, amendments must pass two consecutive votes.**]{style="color:red"}<span style="color:green">[^52]
 
-### <span style="color:red">Section 6: Minor Amendments</span>
+[^52]: *from Dona, 13 March 2022* - Why is this necessary? How can an owner object to the correction of a typo, and why would they need 60 days to make their objections known? Maybe I'm reading this wrong, but it doesn't make sense to me.</span>
 
-<span style="color:red">**Amendments which are limited to matters of clarification or style, which have no substantive effect, such as correction of typographical errors or renumbering or reordering of sections, may be provisionally approved by unanimous vote of Council. Such amendments must be published for opposition by Unit Owners, for a period of no less than sixty (60) days. If no objection is raised by any Unit Owner, the amendment will be considered adopted. If any Unit owner objects, the amendment must be reintroduced by the forgoing procedure for general Amendments.**</span>
+### [Section 6: Minor Amendments]{style="color:red"}
+
+[**Amendments which are limited to matters of clarification or style, which have no substantive effect, such as correction of typographical errors or renumbering or reordering of sections, may be provisionally approved by unanimous vote of Council. Such amendments must be published for opposition by Unit Owners, for a period of no less than sixty (60) days. If no objection is raised by any Unit Owner, the amendment will be considered adopted. If any Unit owner objects, the amendment must be reintroduced by the forgoing procedure for general Amendments.**]{style="color:red"}
 
 ### Section 7
 
@@ -523,18 +524,21 @@ Neither the Council as a body nor any member thereof nor any officer shall be pe
 
 ## ARTICLE XVI
 
-The Council shall from time to time issue rulings, regulations and conditions which shall be binding upon all Apartment Unit Owners which rulings, regulations and conditions shall be in the Council's sole judgment for the general well-being, safety, care and cleanliness of the building and shall include but shall not be limited to the following. [^39]
+The Council shall from time to time issue rulings, regulations and conditions which shall be binding upon all Apartment Unit Owners which rulings, regulations and conditions shall be in the Council's sole judgment for the general well-being, safety, care and cleanliness of the building and shall include but shall not be limited to the following. [^53]
 
-[^39]: Gives Council more flexibility in modifying certain rules, which are not enforced anyway, including\
+[^53]: Gives Council more flexibility in modifying certain rules, which are not enforced anyway, including\
     0. Flexibility to allow pets, as long as they are not aggressive and don't cause a nuisance.\
     1. Flexibility to no longer require white curtains, as log as window coverings visible from public areas are not offensive.\
     2. Flexibility to allow hardwood or laminate floors, as long as high quality sound insulation is used.  3. More specific regarding insurance policies, and allows Council to set minimum policy limits.
 
-1.  ~~No animals, birds or pets of any kind shall be brought or kept in or about the apartment unit or the building of which it is a part.~~
-<span style="color:red">**Council may issue rules and regulations regarding the bringing or keeping of animals or pets in apartment units or the common areas of the building, including but not limited to prohibition of such animals, unless otherwise required by law. Under no circumstances shall it be permissible to bring or keep such animals in or about the building if they are vicious or aggressive or cause a nuisance or hazard of any kind, including but not limited to noise, odor, and/or unhealthful conditions.**</span><span style="color:green">^[*From Dona - Didn’t we discuss this at our meeting and decide that no animals should mean no animals, unless they are service animals which are already allowed? Pet owners don’t ever think their animals are a nuisance, just like parents don’t believe that of their children.  I just don’t think we want to allow wiggle room on the no pet policy.]</span>\
-2.  ~~All Unit Owners shall provide white curtain liners or white glass curtains as are presently used in the building.~~ <span style="color:red">**Council may issue rules and regulations regarding displays visible to the public. No text, images or symbols shall be displayed in windows which are visible to the public if such display shall cause controversy or increase costs for the Association.**</span>\
-3.  <span style="color:red">**Council may issue rules and regulations regarding allowable materials for use in repairs and renovation of units, including floor coverings.**</span> ~~Each apartment unit shall be carpeted in amount equal to 80% of the floor space in every room, corridor, foyer, and/or vestibule with the exception of the kitchen and bathrooms. Replacement, upgrade, or installation of new carpeting in any Unit shall be padded, and both the carpet and padding shall be of high quality and, with the exception of the kitchen and bathrooms, shall cover 100% of the floor space in the Unit. All carpeting and padding~~ <span style="color:red">All flooring materials shall be of high quality and</span> must meet the minimum Impact Insulation Class (IIC) and Sound Transmission Class (STC) ratings and other standards or requirements as shall be established by Council to prevent or adequately reduce the transmission of sound between units.<span style="color:green">^[*from Dona* - “minimum Impact Insulation Class (IIC) and Sound Transmission Class (STC) ratings and other standards or requirements as shall be established by Council.” Has this been established somewhere, and is it in writing?  Most people don’t have any idea about this stuff, and flooring salesmen may offer suggestions that don’t meet the requirements.  This needs to be spell out somewhere if it’s going to be a rule.]</span> ~~As used herein, the term "carpet", "carpeting" or "carpeted" does not include an area rug, throw rug or other rug of any kind, pad, mat, cushion, or underlayment used in conjunction with, or separately from, a carpet.~~
-6.  Each Unit Owner shall carry an <span style="color:red">**H06 condominium**</span> ~~apartment~~  owner's comprehensive insurance policy covering the inside of his apartment for contents and liability insurance therein, <span style="color:red">**and shall file a copy of such policy with the Association. Council may establish requirements for minimum coverage limits.**</span>
+1.  ~~No animals, birds or pets of any kind shall be brought or kept in or about the apartment unit or the building of which it is a part.~~ [**Council may issue rules and regulations regarding the bringing or keeping of animals or pets in apartment units or the common areas of the building, including but not limited to prohibition of such animals, unless otherwise required by law. Under no circumstances shall it be permissible to bring or keep such animals in or about the building if they are vicious or aggressive or cause a nuisance or hazard of any kind, including but not limited to noise, odor, and/or unhealthful conditions.**]{style="color:red"}[^54]\
+2.  ~~All Unit Owners shall provide white curtain liners or white glass curtains as are presently used in the building.~~ [**Council may issue rules and regulations regarding displays visible to the public. No text, images or symbols shall be displayed in windows which are visible to the public if such display shall cause controversy or increase costs for the Association.**]{style="color:red"}\
+3.  [**Council may issue rules and regulations regarding allowable materials for use in repairs and renovation of units, including floor coverings.**]{style="color:red"} ~~Each apartment unit shall be carpeted in amount equal to 80% of the floor space in every room, corridor, foyer, and/or vestibule with the exception of the kitchen and bathrooms. Replacement, upgrade, or installation of new carpeting in any Unit shall be padded, and both the carpet and padding shall be of high quality and, with the exception of the kitchen and bathrooms, shall cover 100% of the floor space in the Unit. All carpeting and padding~~ [All flooring materials shall be of high quality and]{style="color:red"} must meet the minimum Impact Insulation Class (IIC) and Sound Transmission Class (STC) ratings and other standards or requirements as shall be established by Council to prevent or adequately reduce the transmission of sound between units.[^55] ~~As used herein, the term "carpet", "carpeting" or "carpeted" does not include an area rug, throw rug or other rug of any kind, pad, mat, cushion, or underlayment used in conjunction with, or separately from, a carpet.~~
+4.  Each Unit Owner shall carry an [**H06 condominium**]{style="color:red"} ~~apartment~~ owner's comprehensive insurance policy covering the inside of his apartment for contents and liability insurance therein, [**and shall file a copy of such policy with the Association. Council may establish requirements for minimum coverage limits.**]{style="color:red"}
+
+[^54]: [*From Dona, 13 March 2022* - Didn't we discuss this at our meeting and decide that no animals should mean no animals, unless they are service animals which are already allowed? Pet owners don't ever think their animals are a nuisance, just like parents don't believe that of their children. I just don't think we want to allow wiggle room on the no pet policy.]{style="color:green"}
+
+[^55]: [*from Dona, 13 March 2022* - "minimum Impact Insulation Class (IIC) and Sound Transmission Class (STC) ratings and other standards or requirements as shall be established by Council." Has this been established somewhere, and is it in writing? Most people don't have any idea about this stuff, and flooring salesmen may offer suggestions that don't meet the requirements. This needs to be spell out somewhere if it's going to be a rule.]{style="color:green"}
 
 ## ARTICLE XVII: Smoking Prohibited
 
@@ -548,21 +552,19 @@ Notwithstanding the said prohibition against smoking, the Council may designate 
 
 ## ARTICLE XVIII: Mediation of Disputes Between Owners
 
-Council <span style="color:red">**shall**</span> ~~may~~ establish a system for the resolution of disputes between Unit Owners, tenants Or other occupants of any Unit in accordance with Alternative Dispute Resolution (ADR) procedures and fees established by resolution of Council and published in the Rules and Regulations of Amberson Towers Condominium. 
+Council [**shall**]{style="color:red"} ~~may~~ establish a system for the resolution of disputes between Unit Owners, tenants Or other occupants of any Unit in accordance with Alternative Dispute Resolution (ADR) procedures and fees established by resolution of Council and published in the Rules and Regulations of Amberson Towers Condominium.
 
+[**Alternative dispute resolution shall also be available in all cases to resolve disputes or complaints between unit owners and the Association relating to meetings, quorums, voting, and association records under Sections 3308, 3309, 3310, and 3316 of the Pennsylvania Uniform Condominium Act.**]{style="color:red"}[^56]
 
+[^56]: Requires Council to apply alternative dispute resolution process to itself (already the case, but would be required in the Bylaws)
 
-<span style="color:red">**Alternative dispute resolution shall also be available in all cases to resolve disputes or complaints between unit owners and the Association relating to meetings, quorums, voting, and association records under Sections 3308, 3309, 3310, and 3316 of the Pennsylvania Uniform Condominium Act.**</span>[^40]
+## [ARTICLE XIX: **Open Meetings and Meeting Records**]{style="color:red"}
 
-[^40]: Requires Council to apply alternative dispute resolution process to itself (already the case, but would be required in the Bylaws)
+### [**Section 1: Open Meetings**]{style="color:red"}
 
-## <span style="color:red">ARTICLE XIX: **Open Meetings and Meeting Records**</span>
+[**All meetings of the Council, committees which the Council may from time to time create, and any other bodies which may deliberate upon matters pertaining to the Association shall be open to attendance by all Unit Owners. No vote or official action of the Council may be taken outside of such a meeting.**]{style="color:red"} [^57]
 
-### <span style="color:red">**Section 1: Open Meetings**</span>
-
-<span style="color:red">**All meetings of the Council, committees which the Council may from time to time create, and any other bodies which may deliberate upon matters pertaining to the Association shall be open to attendance by all Unit Owners. No vote or official action of the Council may be taken outside of such a meeting.**</span> [^41]
-
-[^41]: Requires open meetings and records, including:\
+[^57]: Requires open meetings and records, including:\
     0. Council and committee meetings must be open to all owners to attend.\
     1. Meetings must be announced and agendas distributed.\
     2. Establishes opportunity for public comment and/or including of written statements in the minutes.\
@@ -571,89 +573,86 @@ Council <span style="color:red">**shall**</span> ~~may~~ establish a system for 
     5. Sets criteria for which records must be open to owners and which are exempt (this is from the Davis-Stirling Act, the California condo law).\
     6. Gives members of Council expanded access to inspect records (also from California law).
 
-### <span style="color:red">**Section 2: Announcement of Meetings and Agenda**</span>
+### [**Section 2: Announcement of Meetings and Agenda**]{style="color:red"}
 
-<span style="color:red">**All meetings of the Council shall be announced to Unit Owners a minimum of five (5) days in advance. An agenda for each meeting shall be distributed to all Unit Owners no less than 24 hours in advance of the meeting.**</span>
+[**All meetings of the Council shall be announced to Unit Owners a minimum of five (5) days in advance. An agenda for each meeting shall be distributed to all Unit Owners no less than 24 hours in advance of the meeting.**]{style="color:red"}
 
-### <span style="color:red">Section 3: Public Comment and Participation**</span>
+### [Section 3: Public Comment and Participation\*\*]{style="color:red"}
 
-<span style="color:red">**If necessary for the interest of time, Unit Owners who are not members of Council may be limited in their opportunity to speak at Council meetings; however, Unit Owners will be given the opportunity to petition to be heard on any topic, and also may submit written comments, which will be included verbatim in the minutes of the meeting, as an addendum.**</span>
+[**If necessary for the interest of time, Unit Owners who are not members of Council may be limited in their opportunity to speak at Council meetings; however, Unit Owners will be given the opportunity to petition to be heard on any topic, and also may submit written comments, which will be included verbatim in the minutes of the meeting, as an addendum.**]{style="color:red"}
 
-### <span style="color:red">**Section 4: Executive Session**</span>
+### [**Section 4: Executive Session**]{style="color:red"}
 
-<span style="color:red">**Council may, by majority vote, enter into executive session. The purpose for entering executive session shall be limited to consideration of the following topics, must be a specific, real and discrete matter, and must be stated in the motion to enter executive session:**</span>
+[**Council may, by majority vote, enter into executive session. The purpose for entering executive session shall be limited to consideration of the following topics, must be a specific, real and discrete matter, and must be stated in the motion to enter executive session:**]{style="color:red"}
 
-<span style="color:red">**1. Discussing personnel matters; \
+[**1. Discussing personnel matters;\
 2. Holding an information, strategy and negotiation session related to the negotiation of a collective bargaining agreement;\
 3. Considering the purchase or lease of real property;\
-4. Consulting with an attorney about active or pending litigation;\ 
-5. Discussing Association business which, if conducted in public, would violate a lawful privilege or lead to the disclosure of information or confidentiality protected by law.**</span>
+4. Consulting with an attorney about active or pending litigation;  5. Discussing Association business which, if conducted in public, would violate a lawful privilege or lead to the disclosure of information or confidentiality protected by law.**]{style="color:red"}
 
-<span style="color:red">**No votes or other official action may be taken during an executive session, except as provided in ARTICLE V, Section 15. Votes or other official actions must be taken during the public portion of the meeting, and must be documented in the minutes. Any vote or official action taken contrary to this provision shall be null and void.**</span>
+[**No votes or other official action may be taken during an executive session, except as provided in ARTICLE V, Section 15. Votes or other official actions must be taken during the public portion of the meeting, and must be documented in the minutes. Any vote or official action taken contrary to this provision shall be null and void.**]{style="color:red"}
 
-### <span style="color:red">**Section 5: Meeting Minutes**</span>
+### [**Section 5: Meeting Minutes**]{style="color:red"}
 
-<span style="color:red">**A summary of the minutes of each Council meeting shall be distributed to all Unit Owners within ten (10) days of the meeting. The summary of minutes shall not serve as an official record of the meeting. The official minutes of each Council meeting shall become part of the records of the Association upon approval at a subsequent Council meeting. Any Unit Owner may request a copy of the official minutes of any meeting, once approved.**</span>
+[**A summary of the minutes of each Council meeting shall be distributed to all Unit Owners within ten (10) days of the meeting. The summary of minutes shall not serve as an official record of the meeting. The official minutes of each Council meeting shall become part of the records of the Association upon approval at a subsequent Council meeting. Any Unit Owner may request a copy of the official minutes of any meeting, once approved.**]{style="color:red"}
 
-### <span style="color:red">**Section 6: Open Records and Limitations**</span>
+### [**Section 6: Open Records and Limitations**]{style="color:red"}
 
-<span style="color:red">1. Records of the Association shall be available to Unit Owners for inspection and copying, at reasonable times and for reasonable purposes, including but not limited to:\ </span>
+[1. Records of the Association shall be available to Unit Owners for inspection and copying, at reasonable times and for reasonable purposes, including but not limited to: ]{style="color:red"}
 
- * <span style="color:red"> Financial Records\ </span>
+-   [Financial Records ]{style="color:red"}
 
-<span style="color:red">  -- financial documents (budget, reserves, lien policies, insurance, financial statements, etc.) \
-  -- interim financial statements, including (i) balance sheet, (ii) income and expense statement, (iii) budget comparison, and (iv) general ledger \
-  -- salaries paid to employees, vendors, or contractors (except as provided by attorney-client privilege) which shall be set forth by job classification or title, not by the employee's name, social security number, or other personal information state and federal tax returns \
-  -- reserve account balances and payments from reserves \
-  -- invoices, receipts, canceled checks, purchase orders approved by the association, credit card statements for credit cards issued in the name of the association, statements for services rendered, and reimbursement requests submitted to the association \</span>
-  
-*  <span style="color:red">Governing Documents </span>\
+<span style="color:red"> -- financial documents (budget, reserves, lien policies, insurance, financial statements, etc.)\
+-- interim financial statements, including (i) balance sheet, (ii) income and expense statement, (iii) budget comparison, and (iv) general ledger\
+-- salaries paid to employees, vendors, or contractors (except as provided by attorney-client privilege) which shall be set forth by job classification or title, not by the employee's name, social security number, or other personal information state and federal tax returns\
+-- reserve account balances and payments from reserves\
+-- invoices, receipts, canceled checks, purchase orders approved by the association, credit card statements for credit cards issued in the name of the association, statements for services rendered, and reimbursement requests submitted to the association \</span\>
 
- <span style="color:red">  --CC&Rs, articles of incorporation, bylaws, condominium plan, operating rules, election rules, etc.\
-  -- schedule of monetary penalties used in rules enforcement. </span>
-  
-*  <span style="color:red">Contracts </span>
+-   [Governing Documents]{style="color:red"}\
 
-* <span style="color:red"> Minutes (board, committee and membership meeting agendas and minutes, except for executive session minutes) </span>
+[--CC&Rs, articles of incorporation, bylaws, condominium plan, operating rules, election rules, etc.\
+-- schedule of monetary penalties used in rules enforcement.]{style="color:red"}
 
-*  <span style="color:red">Election Materials</span> 
+-   [Contracts]{style="color:red"}
 
-*  <span style="color:red">Miscellaneous \
-  -- insurance policies\
-  -- architectural plans\ 
-  -- escrow documents\ 
-  -- <span style="color:red">violation notices (the general membership does not have the right to other members' violation notices)</span>\
-  -- <span style="color:red">membership lists</span>
+-   [Minutes (board, committee and membership meeting agendas and minutes, except for executive session minutes)]{style="color:red"}
+
+-   [Election Materials]{style="color:red"}
+
+-   <span style="color:red">Miscellaneous\
+    -- insurance policies\
+    -- architectural plans  -- escrow documents  -- [violation notices (the general membership does not have the right to other members' violation notices)]{style="color:red"}\
+    -- [membership lists]{style="color:red"}
 
 Records not subject to inspection shall include:\
 
-* <span style="color:red">audit management representation letters </span>\
-* <span style="color:red">bids and contract proposals </span>\
-* <span style="color:red">board packets</span> \
-* <span style="color:red">correspondence between members, vendors or others with the board (unless a letter is used as evidence in a disciplinary action against another owner, in which case the disciplined owner has a right to see it)</span>\
-* <span style="color:red">disciplinary actions, collection activities, or payment plans of other owners </span>\
-* <span style="color:red">email between directors</span> \
-* <span style="color:red">executive session minutes</span>\
-* <span style="color:red">information privileged by law, such as documents subject to attorney-client privilege or relating to litigation in which the association is or may become involved, and confidential settlement agreements </span>\
-* <span style="color:red">interior architectural plans of homes </span>\
-* <span style="color:red">legal invoices </span>\
-* <span style="color:red">personal information, including social security number, tax id number, driver's license number, credit card account numbers, bank account number, and bank routing number personnel records (other than salaries)</span> \
-* <span style="color:red">records likely to lead to identity theft records likely to lead to fraud records </span>\
-* <span style="color:red">reasonably likely to compromise the privacy of an individual member </span>\
-* <span style="color:red">security camera recordings</span> \
-* <span style="color:red">video recordings of meetings</span>
+-   [audit management representation letters]{style="color:red"}\
+-   [bids and contract proposals]{style="color:red"}\
+-   [board packets]{style="color:red"}\
+-   [correspondence between members, vendors or others with the board (unless a letter is used as evidence in a disciplinary action against another owner, in which case the disciplined owner has a right to see it)]{style="color:red"}\
+-   [disciplinary actions, collection activities, or payment plans of other owners]{style="color:red"}\
+-   [email between directors]{style="color:red"}\
+-   [executive session minutes]{style="color:red"}\
+-   [information privileged by law, such as documents subject to attorney-client privilege or relating to litigation in which the association is or may become involved, and confidential settlement agreements]{style="color:red"}\
+-   [interior architectural plans of homes]{style="color:red"}\
+-   [legal invoices]{style="color:red"}\
+-   [personal information, including social security number, tax id number, driver's license number, credit card account numbers, bank account number, and bank routing number personnel records (other than salaries)]{style="color:red"}\
+-   [records likely to lead to identity theft records likely to lead to fraud records]{style="color:red"}\
+-   [reasonably likely to compromise the privacy of an individual member]{style="color:red"}\
+-   [security camera recordings]{style="color:red"}\
+-   [video recordings of meetings]{style="color:red"}
 
-### <span style="color:red">Section 7: Access to Records by Members of Council</span>
+### [Section 7: Access to Records by Members of Council]{style="color:red"}
 
-<span style="color:red">Members of Council shall have the absolute right, at any reasonable time, to inspect and copy all books, records, and documents of every kind and to inspect the physical properties of the Association.</span>
+[Members of Council shall have the absolute right, at any reasonable time, to inspect and copy all books, records, and documents of every kind and to inspect the physical properties of the Association.]{style="color:red"}
 
-## <span style="color:red">ARTICLE XX: Elections and Votes</span>
+## [ARTICLE XX: Elections and Votes]{style="color:red"}
 
-### <span style="color:red">Section 1: Election Committee</span>
+### [Section 1: Election Committee]{style="color:red"}
 
-<span style="color:red">All elections and votes of the Association shall be administered by an election committee composed of five natural persons, who are Unit Owners.</span> [^42]
+[All elections and votes of the Association shall be administered by an election committee composed of five natural persons, who are Unit Owners.]{style="color:red"} [^58]
 
-[^42]: Established new procedures and standards for conduct of elections and votes.\
+[^58]: Established new procedures and standards for conduct of elections and votes.\
     0. Establishes election committee, nominated by unanimous vote of Council, prior to budget meeting, for 1 year term.\
     1. Inspector of Election chosen by election committee. May not serve consecutive terms.\
     2. Members may be removed by unanimous vote of other members and majority of Council. Vacancies filled by unanimous vote of Council.\
@@ -670,60 +669,62 @@ Records not subject to inspection shall include:\
     5. Employees and contractors may not take part in the conduct of elections.\
     6. If candidates feel the election is not free fair, they have the right to request that it be conducted by a professional, disinterested party, if they pay the cost.
 
-<span style="color:red">Members of the election committee shall be nominated by unanimous vote of the Council prior to the annual budget meeting. Each election committee must include at least two members who did not serve during the previous term. Members of Council may not simultaneously serve on the election committee.</span>
+[Members of the election committee shall be nominated by unanimous vote of the Council prior to the annual budget meeting. Each election committee must include at least two members who did not serve during the previous term. Members of Council may not simultaneously serve on the election committee.]{style="color:red"}
 
-<span style="color:red">The vote at each budget meeting will be administered by the election committee nominated during the previous year. Each new election committee will oversee the vote at the following annual meeting, the subsequent budget meeting, and any other intervening votes.</span>
+[The vote at each budget meeting will be administered by the election committee nominated during the previous year. Each new election committee will oversee the vote at the following annual meeting, the subsequent budget meeting, and any other intervening votes.]{style="color:red"}
 
-### <span style="color:red">Section 2: Inspector of Election</span>
+### [Section 2: Inspector of Election]{style="color:red"}
 
-<span style="color:red">The election committee shall choose one of its members, by majority vote, to serve as Inspector of Election. The Inspector of Election shall chair meetings of the election committee and coordinate its activities. The election committee may, at any time, by majority vote, appoint a new member of the committee as Inspector of Election.</span>
+[The election committee shall choose one of its members, by majority vote, to serve as Inspector of Election. The Inspector of Election shall chair meetings of the election committee and coordinate its activities. The election committee may, at any time, by majority vote, appoint a new member of the committee as Inspector of Election.]{style="color:red"}
 
-<span style="color:red">No Unit Owner shall serve consecutive terms as Inspector of Election.</span>
+[No Unit Owner shall serve consecutive terms as Inspector of Election.]{style="color:red"}
 
-### <span style="color:red">Section 3: Vacancies and Removal of Members</span>
+### [Section 3: Vacancies and Removal of Members]{style="color:red"}
 
-<span style="color:red">A member of the election committee may be recommended for removal by a unanimous vote of the other members of the election committee, which must be ratified by a majority vote of the Council.</span>
+[A member of the election committee may be recommended for removal by a unanimous vote of the other members of the election committee, which must be ratified by a majority vote of the Council.]{style="color:red"}
 
-<span style="color:red">In the event of a vacancy on the election committee, the Council shall appoint a replacement, by unanimous vote, to fill the remainder of the vacated term.</span>
+[In the event of a vacancy on the election committee, the Council shall appoint a replacement, by unanimous vote, to fill the remainder of the vacated term.]{style="color:red"}
 
-### <span style="color:red">Section 4: Meetings and Election Methods</span>
+### [Section 4: Meetings and Election Methods]{style="color:red"}
 
-<span style="color:red">The election committee shall hold open meetings, shall publish a description of the election method it intends to employ, and shall provide an opportunity for public comment prior to adoption.</span>
+[The election committee shall hold open meetings, shall publish a description of the election method it intends to employ, and shall provide an opportunity for public comment prior to adoption.]{style="color:red"}
 
-<span style="color:red">Election methods adopted by the election committee must satisfy the following criteria:</span>\
+[Election methods adopted by the election committee must satisfy the following criteria:]{style="color:red"}\
 
-* <span style="color:red">All Unit owners must have an equal opportunity to vote, via paper ballot or electronically, without the requirement to attend a meeting in person as a condition of voting.</span>\
-* <span style="color:red">It must be possible for Unit Owners to vote in a manner that maintains the secrecy of their vote. </span>\
-* <span style="color:red">It must not be possible for ballots to be duplicated, falsified or discarded without detection.</span>\ 
-* <span style="color:red">It must be possible to determine which Unit Owners have voted on any question, and the list of Unit owners who have voted must be published as part of the election results.</span><span style="color:green">^[*from Dona* - Since the election “method” worked for the past election, and no flaws were discovered, why doesn’t that become the “method” employed by future committees?  There may be folks who would like to serve on the committee to oversee the process and tabulate the ballots, who do not have any real expertise in how elections can be run.  Maybe this can be worded that allows the committee to present new ideas as new technology may become available, but I can’t see why the committee would need to come up with a different way to handle elections since we’re confident the last way worked.]</span>
+-   [All Unit owners must have an equal opportunity to vote, via paper ballot or electronically, without the requirement to attend a meeting in person as a condition of voting.]{style="color:red"}\
+-   [It must be possible for Unit Owners to vote in a manner that maintains the secrecy of their vote.]{style="color:red"}\
+-   [It must not be possible for ballots to be duplicated, falsified or discarded without detection.]{style="color:red"} 
+-   [It must be possible to determine which Unit Owners have voted on any question, and the list of Unit owners who have voted must be published as part of the election results.]{style="color:red"}[^59]
 
-### <span style="color:red">Section 5: Neutrality of Council</span>
+[^59]: [*from Dona, 13 March 2022* - Since the election "method" worked for the past election, and no flaws were discovered, why doesn't that become the "method" employed by future committees? There may be folks who would like to serve on the committee to oversee the process and tabulate the ballots, who do not have any real expertise in how elections can be run. Maybe this can be worded that allows the committee to present new ideas as new technology may become available, but I can't see why the committee would need to come up with a different way to handle elections since we're confident the last way worked.]{style="color:green"}
 
-(a) <span style="color:red"> The Council shall remain neutral in all elections and votes, and shall not, as a body, endorse any candidate or take a position on any question. This shall not preclude any members of Council from voicing their own personal opinions or making endorsements.</span>\
+### [Section 5: Neutrality of Council]{style="color:red"}
 
- (b) <span style="color:red"> No member of Council who is a candidate in any election shall vote on any question pertaining to that election.</span>\
+(a) [The Council shall remain neutral in all elections and votes, and shall not, as a body, endorse any candidate or take a position on any question. This shall not preclude any members of Council from voicing their own personal opinions or making endorsements.]{style="color:red"}\
 
-(c) <span style="color:red"> The Council also shall not take any action with the intent or effect of dissuading individual Unit Owners from communicating freely with each other and voicing their opinions on any candidate or question being voted upon. This includes but is not limited to making use of electronic forums made generally available to all Unit Owners, distribution of letters or handouts to individual units, or posting notices on bulletin boards or in other common areas customarily made available for posting notices, with the exception that individual Unit Owners who request to opt out of having election related materials distributed to the units shall have their wishes respected.</span>
+(b) [No member of Council who is a candidate in any election shall vote on any question pertaining to that election.]{style="color:red"}\
 
-(d) <span style="color:red">No communication channel controlled by the Association which is not generally available to all shall be used for purposes of promoting candidates or positions on ballot questions, other than distribution of reminders to vote, unless it is made equally available to all candidates and to both proponents and opponents of ballot questions.</span>
+(c) [The Council also shall not take any action with the intent or effect of dissuading individual Unit Owners from communicating freely with each other and voicing their opinions on any candidate or question being voted upon. This includes but is not limited to making use of electronic forums made generally available to all Unit Owners, distribution of letters or handouts to individual units, or posting notices on bulletin boards or in other common areas customarily made available for posting notices, with the exception that individual Unit Owners who request to opt out of having election related materials distributed to the units shall have their wishes respected.]{style="color:red"}
 
-### <span style="color:red"> Section 6: Neutrality of Employees and Contractors</span>
+(d) [No communication channel controlled by the Association which is not generally available to all shall be used for purposes of promoting candidates or positions on ballot questions, other than distribution of reminders to vote, unless it is made equally available to all candidates and to both proponents and opponents of ballot questions.]{style="color:red"}
 
-<span style="color:red"> No employee or contractor of the Association shall participate in any way in the conduct or administration of any election or vote, except to provide clerical assistance at the request of the Inspector of Election. This includes but is not limited to the design and preparation of ballots, the collection of ballots or proxies, and/or the counting of ballots.</span>
+### [Section 6: Neutrality of Employees and Contractors]{style="color:red"}
 
-<span style="color:red"> This shall not apply to a professional, disinterested party hired by the Association solely for the purpose of administration of an election, who has no other financial interest or other conflict of interest.</span>
+[No employee or contractor of the Association shall participate in any way in the conduct or administration of any election or vote, except to provide clerical assistance at the request of the Inspector of Election. This includes but is not limited to the design and preparation of ballots, the collection of ballots or proxies, and/or the counting of ballots.]{style="color:red"}
 
-### <span style="color:red"> Section 7: Announcement of Election Results</span>
+[This shall not apply to a professional, disinterested party hired by the Association solely for the purpose of administration of an election, who has no other financial interest or other conflict of interest.]{style="color:red"}
 
-<span style="color:red"> Upon certification of the results of any election or vote, the results will be announced by the election committee to the Unit Owners and published on the website for a minimum of three years. Announcement of the results shall include a list of units that participated in the vote.</span>
+### [Section 7: Announcement of Election Results]{style="color:red"}
 
-### <span style="color:red"> Section 8: Rights of Candidates</span>
+[Upon certification of the results of any election or vote, the results will be announced by the election committee to the Unit Owners and published on the website for a minimum of three years. Announcement of the results shall include a list of units that participated in the vote.]{style="color:red"}
 
-<span style="color:red"> If any candidate for office, or any Unit Owner who is a proponent or opponent of any ballot question, believes that the election or votes is not being conducted in a free and fair manner, they shall have the option of requiring that the election or vote be administered by a professional, disinterested party mutually agreeable to all Unit Owners exercising this prerogative and to the election committee. The Unit Owners exercising this prerogative shall be responsible for paying any additional cost to the Association.</span>
+### [Section 8: Rights of Candidates]{style="color:red"}
+
+[If any candidate for office, or any Unit Owner who is a proponent or opponent of any ballot question, believes that the election or votes is not being conducted in a free and fair manner, they shall have the option of requiring that the election or vote be administered by a professional, disinterested party mutually agreeable to all Unit Owners exercising this prerogative and to the election committee. The Unit Owners exercising this prerogative shall be responsible for paying any additional cost to the Association.]{style="color:red"}
 
 ### <span style="color:red"> Section 9: Dispute Resolution</spam>
 
-<span style="color:red"> Any disputes regarding elections or votes shall be resolved via the alternative dispute resolution process established by Council pursuant to ARTICLE XVIII.</span>
+[Any disputes regarding elections or votes shall be resolved via the alternative dispute resolution process established by Council pursuant to ARTICLE XVIII.]{style="color:red"}
 
 ~~Except as modified herein, the undersigned Association hereby publishes and reaffirms the Code of Regulations as amended.~~
 
@@ -736,9 +737,9 @@ a Nonprofit Corporation~~
 
 ## Schedule A
 
-[^43]
+[^60]
 
-[^43]: The unit shares don't currently add up to 100% (they add up to 99.9989%). This is insignificant, but makes spreadsheets much more complicated. This change adjusts a few shares by 0.0001%, so that the total is 100.0000%
+[^60]: The unit shares don't currently add up to 100% (they add up to 99.9989%). This is insignificant, but makes spreadsheets much more complicated. This change adjusts a few shares by 0.0001%, so that the total is 100.0000%
 
 | APT. UNIT NO. | PERCENTAGE |
 |:--------------|:-----------|
@@ -934,3 +935,16 @@ a Nonprofit Corporation~~
 | 918           | 0.6747%    |
 | 919+921       | 0.8410%    |
 | 920           | 0.3767%    |
+
+------------------------------------------------------------------------
+
+###     
+
+------------------------------------------------------------------------
+
+| Version                    |     Date      |
+|:---------------------------|:-------------:|
+| 1. Document initiated         | 6 March 2022  |
+| 2. ona Albert comments added | 15 March 2022 |
+
+: Provenance of *Annotated Draft of Code of  Regulations*
