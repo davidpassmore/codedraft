@@ -24,7 +24,7 @@ options(htmltools.dir.version = FALSE)
 
 > This document contains a copy of [*Code of Regulations Update Draft 1.pdf*](https://public.3.basecamp.com/p/pd5YvrL6Y81Lf8L1qxhZAPnG) posted by Gil Citro to *basecamp* on 6 March 2022. Gil, also provides with his posting several helpful summaries of the suggested revisions to the Code of Regulations.
 
-> In the right margin of this current I annotated the draft copy with the *Notes* Gil entered on basecamp along with the draft code. Text that is [colored red is a suggested addition]{style="color:red"} to the Code of Regulations. Text that is struck through like this --\> ~~blah blah blah~~ \<-- is a suggested deletion from the Code of Regulations.[^1] Comments, suggestions, and clarifications made by reviewers will appear in the right margin in [green-colored text.]{style="color:green"}[^2]
+> In the right margin of this current I annotated the draft copy with the *Notes* Gil entered on basecamp along with the draft code. Text that is [colored red is a suggested addition]{style="color:red"} to the Code of Regulations. Text that is struck through like this --\>~~blah blah blah~~\<-- is a suggested deletion from the Code of Regulations.[^1] Comments, suggestions, and clarifications made by reviewers will appear in the right margin in [green-colored text.]{style="color:green"}[^2]
 
 [^1]: Some explanations, queries, and notes are footnoted on the right margin *just like this*. As we accumulate your comments and suggestions, we will code them into the right margin, also, [as shown in the next footnote.]{style="color:green"}
 
