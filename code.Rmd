@@ -945,6 +945,6 @@ a Nonprofit Corporation~~
 | Version                    |     Date      |
 |:---------------------------|:-------------:|
 | 1. Document initiated         | 6 March 2022  |
-| 2. ona Albert comments added | 15 March 2022 |
+| 2. Dona Albert comments added | 15 March 2022 |
 
 : Provenance of *Annotated Draft of Code of  Regulations*
