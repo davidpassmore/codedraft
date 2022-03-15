@@ -495,13 +495,13 @@ While all adjacent and connecting terraces or patios at ground level and above c
 
 ### <span style="color:red">Section 5: Procedure for Consideration</span>
 
-<span style="color:red">**Amendments proposed in accordance with the provisions of this Article shall be placed on the agenda of the next regular meeting of the Unit Owners, and shall be included on the ballot for the meeting. To pass, amendments must be approved by 2/3 of the shares voting, but no less than the numbered Unit Owners representing one third (1/3) of the votes of Amberson Towers. Amendments which pass shall be placed upon the agenda and ballot of the next regular meeting to be discussed and voted on a second time. To be approved, amendments must pass two consecutive votes.**</span>
+<span style="color:red">**Amendments proposed in accordance with the provisions of this Article shall be placed on the agenda of the next regular meeting of the Unit Owners, and shall be included on the ballot for the meeting. To pass, amendments must be approved by 2/3 of the shares voting, but no less than the numbered Unit Owners representing one third (1/3) of the votes of Amberson Towers. Amendments which pass shall be placed upon the agenda and ballot of the next regular meeting to be discussed and voted on a second time. To be approved, amendments must pass two consecutive votes.**</span><span style="color:green">^[*from Dona* - Why is this necessary?  How can an owner object to the correction of a typo, and why would they need 60 days to make their objections known?  Maybe I’m reading this wrong, but it doesn’t make sense to me.</span>]
 
-### <span style="color:red">Section 5: Minor Amendments</span>
+### <span style="color:red">Section 6: Minor Amendments</span>
 
 <span style="color:red">**Amendments which are limited to matters of clarification or style, which have no substantive effect, such as correction of typographical errors or renumbering or reordering of sections, may be provisionally approved by unanimous vote of Council. Such amendments must be published for opposition by Unit Owners, for a period of no less than sixty (60) days. If no objection is raised by any Unit Owner, the amendment will be considered adopted. If any Unit owner objects, the amendment must be reintroduced by the forgoing procedure for general Amendments.**</span>
 
-### Section 6
+### Section 7
 
 Any modification which affects a particular Unit only shall have the approval of that particular unit holder and the mortgagee of the same.
 
